@@ -1,0 +1,17 @@
+{
+    "name": "dell-drivers-scraper",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "get the dell drivers list",
+    "main": "main.js",
+    "author": "Rui Lopes <rgl@ruilopes.com>",
+    "license": "GPL-3.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rgl/dell-drivers-scraper.git"
+    },
+    "dependencies": {
+        "commander": "^10.0.0",
+        "puppeteer": "^19.6.3"
+    }
+}

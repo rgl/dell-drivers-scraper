@@ -7,6 +7,13 @@
         "url": "https://dl.dell.com/FOLDER09379569M/1/NVIDIA-GeForce-Desktop-GT-730-DCH-Graphics-Driver_GGPMT_WIN_30.0.14.7414_A00.EXE"
     },
     {
+        "name": "NVIDIA GeForce Experience Application",
+        "category": "Video",
+        "importance": "critical",
+        "date": "2023-02-06T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER09379493M/2/NVIDIA-GeForce-Experience-Application_TMFPP_WIN_30.0.14.7414_A00_01.EXE"
+    },
+    {
         "name": "Dell Command | Integration Suite for System Center",
         "category": "Systems Management",
         "importance": "critical",
@@ -54,13 +61,6 @@
         "importance": "critical",
         "date": "2022-09-14T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER08756263M/6/Qualcomm-QCA61x4A-QCA6174A-XR-QCA9377-Wi-Fi-and-Bluetooth_GPK9J_WIN_12.0.0.1258_A37_04.EXE"
-    },
-    {
-        "name": "Dell Command | Update Application",
-        "category": "Systems Management",
-        "importance": "critical",
-        "date": "2022-08-25T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER08911630M/1/Dell-Command-Update-Application_T97XP_WIN_4.6.0_A00.EXE"
     },
     {
         "name": "NVIDIA GeForce GT 10xx/GTX 10xx/GTX 16xx/RTX 20xx/RTX 30xx Graphics Driver",
@@ -161,6 +161,20 @@
         "url": "https://dl.dell.com/FOLDER05468362M/11/Toshiba%20KBG30ZMS128G_KBG30ZMS256G_KBG30ZMS512G%20JYNRC_ZPE.exe"
     },
     {
+        "name": "Dell Command | Update Application",
+        "category": "Systems Management",
+        "importance": "recommended",
+        "date": "2023-02-27T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER09622916M/1/Dell-Command-Update-Application_714J9_WIN_4.8.0_A00.EXE"
+    },
+    {
+        "name": "Trusted Device Agent",
+        "category": "Trusted Device Security",
+        "importance": "recommended",
+        "date": "2023-02-07T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER09354589M/1/Trusted-Device-5.1.153.zip"
+    },
+    {
         "name": "Dell Command | Update Windows Universal Application",
         "category": "Systems Management",
         "importance": "recommended",
@@ -189,18 +203,11 @@
         "url": "https://dl.dell.com/FOLDER09505088M/1/Dell-SupportAssist-OS-Recovery-Plugin-for-Dell-Update_HN6RG_WIN_5.5.5.16206_A00.EXE"
     },
     {
-        "name": "Trusted Device Agent",
-        "category": "Trusted Device Security",
-        "importance": "recommended",
-        "date": "2023-01-09T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09437010M/1/Trusted-Device-5.0.149.0.zip"
-    },
-    {
-        "name": "NVIDIA GeForce NVIDIA GeForce 10xx/16xx/20xx/30xx/40xx Graphics Driver",
+        "name": "NVIDIA GeForce 10xx/16xx/20xx/30xx/40xx Graphics Driver",
         "category": "Video",
         "importance": "recommended",
         "date": "2022-12-31T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09238565M/22/NVIDIA-GeForce-GT-GTX-RTX-Graphics-Driver_53C89_WIN_31.0.15.2698_A00_06.EXE"
+        "url": "https://dl.dell.com/FOLDER09238565M/26/NVIDIA-GeForce-10xx-16xx-20xx-30xx-40xx-Graphics_53C89_WIN_31.0.15.2698_A00_08.EXE"
     },
     {
         "name": "NVIDIA GeForce GT 7x0/GT 1xx0/GTX 1xx0/RTX x0x0 HSA Application Installer",

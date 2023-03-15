@@ -1,5 +1,12 @@
 [
     {
+        "name": "Intel Rapid Storage Technology Driver",
+        "category": "Storage",
+        "importance": "critical",
+        "date": "2023-02-13T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER09493226M/2/Intel-Rapid-Storage-Technology-Driver_1CM7K_WIN64_17.11.3.1010_A07.EXE"
+    },
+    {
         "name": "NVIDIA GeForce Desktop GT 730 DCH Graphics Driver",
         "category": "Video",
         "importance": "critical",
@@ -117,13 +124,6 @@
         "importance": "critical",
         "date": "2021-07-14T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER07395932M/1/DELLTPM_NPCT750_7.2.2.0_64_v1.exe"
-    },
-    {
-        "name": "Intel Rapid Storage Technology Driver",
-        "category": "Storage",
-        "importance": "critical",
-        "date": "2021-06-09T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER07151781M/4/Intel-Rapid-Storage-Technology-Driver_62C56_WIN64_17.9.6.1019_A04_01.EXE"
     },
     {
         "name": "Dell Security Advisory Update - DSA-2020-059",
@@ -864,8 +864,8 @@
         "name": "Dell Command | Deploy WinPE 10.0 Driver Pack",
         "category": "Systems Management",
         "importance": "optional",
-        "date": "2022-12-27T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09376210M/1/WinPE10.0-Drivers-A29-6FYG2.CAB"
+        "date": "2023-03-14T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER09626256M/1/WinPE10.0-Drivers-A30-F8JYY.CAB"
     },
     {
         "name": "Dell Command | PowerShell Provider",

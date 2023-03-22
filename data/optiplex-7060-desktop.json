@@ -161,18 +161,25 @@
         "url": "https://dl.dell.com/FOLDER05468362M/11/Toshiba%20KBG30ZMS128G_KBG30ZMS256G_KBG30ZMS512G%20JYNRC_ZPE.exe"
     },
     {
-        "name": "Dell Command | Update Application",
-        "category": "Systems Management",
+        "name": "NVIDIA GeForce GT 10xx/GTX 1xx0/RTX x0x0 Graphics Driver",
+        "category": "Video",
         "importance": "recommended",
-        "date": "2023-02-27T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09622916M/1/Dell-Command-Update-Application_714J9_WIN_4.8.0_A00.EXE"
+        "date": "2023-03-21T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER09630218M/1/NVIDIA-GeForce-10xx-16xx-20xx-30xx-40xx-Graphics_3G92J_WIN_31.0.15.2824_A00.EXE"
     },
     {
         "name": "Trusted Device Agent",
         "category": "Trusted Device Security",
         "importance": "recommended",
-        "date": "2023-02-07T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09354589M/1/Trusted-Device-5.1.153.zip"
+        "date": "2023-03-06T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER09641986M/1/Trusted-Device-5.2.157.zip"
+    },
+    {
+        "name": "Dell Command | Update Application",
+        "category": "Systems Management",
+        "importance": "recommended",
+        "date": "2023-02-27T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER09622916M/1/Dell-Command-Update-Application_714J9_WIN_4.8.0_A00.EXE"
     },
     {
         "name": "Dell Command | Update Windows Universal Application",

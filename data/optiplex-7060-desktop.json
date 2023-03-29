@@ -1,5 +1,19 @@
 [
     {
+        "name": "Dell Command | Integration Suite for System Center",
+        "category": "Systems Management",
+        "importance": "critical",
+        "date": "2023-03-28T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER09797773M/1/Dell-Command-Integration-Suite-for-System-Center_63F0W_WIN_6.4.1_A00.EXE"
+    },
+    {
+        "name": "Dell Command | Intel vPro Out of Band",
+        "category": "Systems Management",
+        "importance": "critical",
+        "date": "2023-03-28T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER09797762M/1/Dell-Command-Intel-vPro-Out-of-Band_8N9GH_WIN_4.4.1_A00.EXE"
+    },
+    {
         "name": "Intel Rapid Storage Technology Driver",
         "category": "Storage",
         "importance": "critical",
@@ -19,20 +33,6 @@
         "importance": "critical",
         "date": "2023-02-06T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER09379493M/2/NVIDIA-GeForce-Experience-Application_TMFPP_WIN_30.0.14.7414_A00_01.EXE"
-    },
-    {
-        "name": "Dell Command | Integration Suite for System Center",
-        "category": "Systems Management",
-        "importance": "critical",
-        "date": "2023-01-31T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09495630M/1/Dell-Command-Integration-Suite-for-System-Center_T9HK2_WIN_6.4.0_A00.EXE"
-    },
-    {
-        "name": "Dell Command | Intel vPro Out of Band",
-        "category": "Systems Management",
-        "importance": "critical",
-        "date": "2023-01-31T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09495838M/1/Dell-Command-Intel-vPro-Out-of-Band_08WTH_WIN_4.4.0_A00.EXE"
     },
     {
         "name": "Dell OptiPlex 7060 System BIOS",

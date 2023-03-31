@@ -30,3 +30,14 @@ To get the BIOS and the Intel ME Windows drivers download URLs, you can use some
 jq -r '[.[] | select(.name == "Dell OptiPlex 7060 System BIOS")] | first' data/optiplex-7060-desktop.json
 jq -r '[.[] | select(.name == "Intel Management Engine Components Installer")] | first' data/optiplex-7060-desktop.json
 ```
+
+## Usage
+
+Install [Node.js](https://nodejs.org).
+
+Execute:
+
+```bash
+npm ci
+node main.js
+```

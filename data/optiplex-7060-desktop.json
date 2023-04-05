@@ -1,5 +1,19 @@
 [
     {
+        "name": "Dell Command | Monitor",
+        "category": "Systems Management",
+        "importance": "critical",
+        "date": "2023-03-31T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER09806576M/1/Dell-Command-Monitor_XYDW7_WIN_10.9.1.11_A00.EXE"
+    },
+    {
+        "name": "Dell Command | Configure Application",
+        "category": "Systems Management",
+        "importance": "critical",
+        "date": "2023-03-31T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER09817842M/1/Dell-Command-Configure-Application_42DF2_WIN_4.10.1.11_A00.EXE"
+    },
+    {
         "name": "Dell Command | Integration Suite for System Center",
         "category": "Systems Management",
         "importance": "critical",
@@ -187,20 +201,6 @@
         "importance": "recommended",
         "date": "2023-01-31T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER09523714M/1/Dell-Command-Update-Windows-Universal-Application_6GMR6_WIN_4.8.0_A00.EXE"
-    },
-    {
-        "name": "Dell Command | Monitor",
-        "category": "Systems Management",
-        "importance": "recommended",
-        "date": "2023-01-30T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09515677M/1/Dell-Command-Monitor_5RFFM_WIN_10.9.0.307_A00.EXE"
-    },
-    {
-        "name": "Dell Command | Configure Application",
-        "category": "Systems Management",
-        "importance": "recommended",
-        "date": "2023-01-30T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09477091M/1/Dell-Command-Configure-Application_D6VXJ_WIN_4.10.0.607_A00.EXE"
     },
     {
         "name": "Dell SupportAssist OS Recovery Plugin for Dell Update",

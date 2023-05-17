@@ -1,5 +1,19 @@
 [
     {
+        "name": "Dell OptiPlex 7060 System BIOS",
+        "category": "BIOS",
+        "importance": "critical",
+        "date": "2023-05-16T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER09881352M/1/OptiPlex_7060_1.25.0.exe"
+    },
+    {
+        "name": "Dell Command | Update Application",
+        "category": "Systems Management",
+        "importance": "critical",
+        "date": "2023-05-09T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10012380M/1/Dell-Command-Update-Application_30F6M_WIN_4.9.0_A01.EXE"
+    },
+    {
         "name": "NVIDIA GeForce Desktop GT 730 DCH Graphics Driver",
         "category": "Video",
         "importance": "critical",
@@ -47,13 +61,6 @@
         "importance": "critical",
         "date": "2023-02-13T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER09493226M/2/Intel-Rapid-Storage-Technology-Driver_1CM7K_WIN64_17.11.3.1010_A07.EXE"
-    },
-    {
-        "name": "Dell OptiPlex 7060 System BIOS",
-        "category": "BIOS",
-        "importance": "critical",
-        "date": "2023-01-12T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09328185M/1/OptiPlex_7060_1.24.0.exe"
     },
     {
         "name": "NVIDIA GeForce GT 10xx/GTX 1xx0/RTX 20x0/RTX 30x0 Graphics Driver",
@@ -175,13 +182,6 @@
         "url": "https://dl.dell.com/FOLDER05468362M/11/Toshiba%20KBG30ZMS128G_KBG30ZMS256G_KBG30ZMS512G%20JYNRC_ZPE.exe"
     },
     {
-        "name": "Dell Command | Update Application",
-        "category": "Systems Management",
-        "importance": "recommended",
-        "date": "2023-05-09T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10012380M/1/Dell-Command-Update-Application_30F6M_WIN_4.9.0_A01.EXE"
-    },
-    {
         "name": "Trusted Device Agent",
         "category": "Trusted Device Security",
         "importance": "recommended",
@@ -222,6 +222,13 @@
         "importance": "recommended",
         "date": "2022-12-13T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER09206927M/3/NVIDIA-GeForce-GT-7x0-GT-1xx0-GTX-1xx0-RTX-x0x0-HSA_PC74M_WIN64_8.1.963.0_A00_01.EXE"
+    },
+    {
+        "name": "Dell Encryption",
+        "category": "Dell Data Security",
+        "importance": "recommended",
+        "date": "2022-12-12T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER09311453M/1/Dell-Encryption-11.6.0.3.zip"
     },
     {
         "name": "Dell/Alienware Digital Delivery Application",
@@ -859,13 +866,6 @@
         "importance": "recommended",
         "date": "2018-05-15T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER04855931M/3/Dell-Watch-Dog-Timer-Application_PPVGJ_WIN64_1.0.0_A00.EXE"
-    },
-    {
-        "name": "Dell Encryption",
-        "category": "Dell Data Security",
-        "importance": "optional",
-        "date": "2023-04-03T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09822707M/1/Dell-Encryption-11.7.0.1.zip"
     },
     {
         "name": "Dell Command | Deploy WinPE 10.0 Driver Pack",

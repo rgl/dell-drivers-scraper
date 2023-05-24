@@ -1,5 +1,12 @@
 [
     {
+        "name": "Intel 9560/9260/8265/7265/3165 Wi-Fi Driver",
+        "category": "Network, Ethernet & Wireless",
+        "importance": "critical",
+        "date": "2023-05-23T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER09781514M/2/Intel-9560-9260-8265-7265-3165-Wi-Fi-Driver_27H29_WIN_22.200.2.1_A32_01.EXE"
+    },
+    {
         "name": "Dell OptiPlex 7060 System BIOS",
         "category": "BIOS",
         "importance": "critical",
@@ -98,20 +105,6 @@
         "url": "https://dl.dell.com/FOLDER08536417M/1/NVIDIA-GeForce-GT-10xx-GTX-10xx-GTX-16xx-RTX-20xx-RTX_FKNNY_WIN_30.0.15.1277_A00.EXE"
     },
     {
-        "name": "Intel 9560/9260/8265/7265/3165 Wi-Fi Driver",
-        "category": "Network, Ethernet & Wireless",
-        "importance": "critical",
-        "date": "2022-05-26T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER08377396M/5/Intel-9560-9260-8265-7265-3165-Wi-Fi-Driver_FCCJ9_WIN_22.130.0.5_A30_04.EXE"
-    },
-    {
-        "name": "Intel 9560/9260/8265/7265/3165 Bluetooth UWD Driver",
-        "category": "Network, Ethernet & Wireless",
-        "importance": "critical",
-        "date": "2022-05-26T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER08377421M/3/Intel-9560-9260-8265-7265-3165-Bluetooth-UWD-Driver_MCC7Y_WIN64_22.130.0.2_A34_02.EXE"
-    },
-    {
         "name": "Intel I210 NIC Card Firmware Update Utility",
         "category": "Network, Ethernet & Wireless",
         "importance": "critical",
@@ -180,6 +173,13 @@
         "importance": "critical",
         "date": "2019-02-21T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER05468362M/11/Toshiba%20KBG30ZMS128G_KBG30ZMS256G_KBG30ZMS512G%20JYNRC_ZPE.exe"
+    },
+    {
+        "name": "Intel 9560/9260/8265/7265/3165 Bluetooth UWD Driver",
+        "category": "Network, Ethernet & Wireless",
+        "importance": "recommended",
+        "date": "2023-05-23T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER09785193M/3/Intel-9560-9260-8265-7265-3165-Bluetooth-UWD-Driver_9DK96_WIN64_22.200.0.2_A36_02.EXE"
     },
     {
         "name": "Trusted Device Agent",

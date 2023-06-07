@@ -175,18 +175,18 @@
         "url": "https://dl.dell.com/FOLDER05468362M/11/Toshiba%20KBG30ZMS128G_KBG30ZMS256G_KBG30ZMS512G%20JYNRC_ZPE.exe"
     },
     {
+        "name": "Trusted Device Agent",
+        "category": "Trusted Device Security",
+        "importance": "recommended",
+        "date": "2023-06-05T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10120459M/1/Trusted-Device-5.5.168.zip"
+    },
+    {
         "name": "Intel 9560/9260/8265/7265/3165 Bluetooth UWD Driver",
         "category": "Network, Ethernet & Wireless",
         "importance": "recommended",
         "date": "2023-05-23T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER09785193M/3/Intel-9560-9260-8265-7265-3165-Bluetooth-UWD-Driver_9DK96_WIN64_22.200.0.2_A36_02.EXE"
-    },
-    {
-        "name": "Trusted Device Agent",
-        "category": "Trusted Device Security",
-        "importance": "recommended",
-        "date": "2023-04-03T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09814900M/1/Trusted-Device-5.3.161.zip"
     },
     {
         "name": "NVIDIA GeForce GT 10xx/GTX 1xx0/RTX x0x0 Graphics Driver",

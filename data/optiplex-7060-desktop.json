@@ -1,5 +1,12 @@
 [
     {
+        "name": "NVIDIA GeForce GT 10xx/GTX 1xx0/RTX x0x0 Graphics Driver",
+        "category": "Video",
+        "importance": "critical",
+        "date": "2023-06-13T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER09788542M/1/NVIDIA-GeForce-GT-10xx-GTX-1xx0-RTX-x0x0-Graphics_WR7HF_WIN64_31.0.15.3141_A00.EXE"
+    },
+    {
         "name": "Intel 9560/9260/8265/7265/3165 Wi-Fi Driver",
         "category": "Network, Ethernet & Wireless",
         "importance": "critical",
@@ -18,7 +25,7 @@
         "category": "Systems Management",
         "importance": "critical",
         "date": "2023-05-09T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10012380M/1/Dell-Command-Update-Application_30F6M_WIN_4.9.0_A01.EXE"
+        "url": "https://dl.dell.com/FOLDER10012380M/2/Dell-Command-Update-Application_30F6M_WIN_4.9.0_A02_01.EXE"
     },
     {
         "name": "NVIDIA GeForce Desktop GT 730 DCH Graphics Driver",

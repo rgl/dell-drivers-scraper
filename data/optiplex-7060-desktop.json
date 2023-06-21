@@ -11,7 +11,7 @@
         "category": "Network, Ethernet & Wireless",
         "importance": "critical",
         "date": "2023-05-23T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09781514M/2/Intel-9560-9260-8265-7265-3165-Wi-Fi-Driver_27H29_WIN_22.200.2.1_A32_01.EXE"
+        "url": "https://dl.dell.com/FOLDER09781514M/3/Intel-9560-9260-8265-7265-3165-Wi-Fi-Driver_27H29_WIN_22.200.2.1_A32_02.EXE"
     },
     {
         "name": "Dell OptiPlex 7060 System BIOS",
@@ -25,7 +25,7 @@
         "category": "Systems Management",
         "importance": "critical",
         "date": "2023-05-09T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10012380M/2/Dell-Command-Update-Application_30F6M_WIN_4.9.0_A02_01.EXE"
+        "url": "https://dl.dell.com/FOLDER10012380M/3/Dell-Command-Update-Application_30F6M_WIN_4.9.0_A02_02.EXE"
     },
     {
         "name": "NVIDIA GeForce Desktop GT 730 DCH Graphics Driver",
@@ -39,49 +39,42 @@
         "category": "Video",
         "importance": "critical",
         "date": "2023-04-11T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09690201M/1/NVIDIA-GeForce-Experience-Application_XJYXX_WIN_30.0.14.7430_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER09690201M/3/NVIDIA-GeForce-Experience-Application_XJYXX_WIN_30.0.14.7430_A00_02.EXE"
     },
     {
         "name": "Dell Command | Monitor",
         "category": "Systems Management",
         "importance": "critical",
         "date": "2023-03-31T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09806576M/1/Dell-Command-Monitor_XYDW7_WIN_10.9.1.11_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER09806576M/3/Dell-Command-Monitor_XYDW7_WIN_10.9.1.11_A00_02.EXE"
     },
     {
         "name": "Dell Command | Configure Application",
         "category": "Systems Management",
         "importance": "critical",
         "date": "2023-03-31T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09817842M/1/Dell-Command-Configure-Application_42DF2_WIN_4.10.1.11_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER09817842M/3/Dell-Command-Configure-Application_42DF2_WIN_4.10.1.11_A00_02.EXE"
     },
     {
         "name": "Dell Command | Integration Suite for System Center",
         "category": "Systems Management",
         "importance": "critical",
         "date": "2023-03-28T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09797773M/1/Dell-Command-Integration-Suite-for-System-Center_63F0W_WIN_6.4.1_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER09797773M/2/Dell-Command-Integration-Suite-for-System-Center_63F0W_WIN_6.4.1_A00_01.EXE"
     },
     {
         "name": "Dell Command | Intel vPro Out of Band",
         "category": "Systems Management",
         "importance": "critical",
         "date": "2023-03-28T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09797762M/1/Dell-Command-Intel-vPro-Out-of-Band_8N9GH_WIN_4.4.1_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER09797762M/2/Dell-Command-Intel-vPro-Out-of-Band_8N9GH_WIN_4.4.1_A00_01.EXE"
     },
     {
         "name": "Intel Rapid Storage Technology Driver",
         "category": "Storage",
         "importance": "critical",
         "date": "2023-02-13T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09493226M/2/Intel-Rapid-Storage-Technology-Driver_1CM7K_WIN64_17.11.3.1010_A07.EXE"
-    },
-    {
-        "name": "NVIDIA GeForce GT 10xx/GTX 1xx0/RTX 20x0/RTX 30x0 Graphics Driver",
-        "category": "Video",
-        "importance": "critical",
-        "date": "2022-12-13T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09215174M/3/NVIDIA-GeForce-GT-10xx-GTX-1xxx-RTXxxxx-Graphics_NPHHM_WIN_31.0.15.1766_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER09493226M/3/Intel-Rapid-Storage-Technology-Driver_1CM7K_WIN64_17.11.3.1010_A07_01.EXE"
     },
     {
         "name": "NVIDIA GeForce Desktop GT 730 HSA Application Installer",
@@ -91,25 +84,11 @@
         "url": "https://dl.dell.com/FOLDER09186790M/1/NVIDIA-GeForce-Desktop-GT-730-HSA-Control-Panel-Installer_Y6X99_WIN64_8.1.963.0_A00.EXE"
     },
     {
-        "name": "NVIDIA GeForce GT 10xx/GTX 1xxx/RTXxxxx Graphics Driver",
-        "category": "Video",
-        "importance": "critical",
-        "date": "2022-10-12T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER08981770M/1/NVIDIA-GeForce-10xx-16xx-20xx-30xx-Graphics-Driver_7NFC0_WIN_31.0.15.1694_A00.EXE"
-    },
-    {
         "name": "Qualcomm QCA61x4A/QCA6174A-XR/QCA9377 Wi-Fi and Bluetooth Driver",
         "category": "Network, Ethernet & Wireless",
         "importance": "critical",
         "date": "2022-09-14T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER08756263M/6/Qualcomm-QCA61x4A-QCA6174A-XR-QCA9377-Wi-Fi-and-Bluetooth_GPK9J_WIN_12.0.0.1258_A37_04.EXE"
-    },
-    {
-        "name": "NVIDIA GeForce GT 10xx/GTX 10xx/GTX 16xx/RTX 20xx/RTX 30xx Graphics Driver",
-        "category": "Video",
-        "importance": "critical",
-        "date": "2022-06-14T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER08536417M/1/NVIDIA-GeForce-GT-10xx-GTX-10xx-GTX-16xx-RTX-20xx-RTX_FKNNY_WIN_30.0.15.1277_A00.EXE"
     },
     {
         "name": "Intel I210 NIC Card Firmware Update Utility",
@@ -154,25 +133,11 @@
         "url": "https://dl.dell.com/FOLDER06200068M/3/Dell-Security-Advisory-Update-DSA-2020-059_1GWG9_WIN64_1.0.0.0_A00.EXE"
     },
     {
-        "name": "NVIDIA GeForce GT 7xx/GT 10xx/GTX 10xx/GTX 16xx/RTX 20xx Desktop DC Graphics Driver",
-        "category": "Video",
-        "importance": "critical",
-        "date": "2020-01-10T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER05949915M/1/NVIDIA-GeForce-Desktop-DC-Graphics-Driver_9FDFF_WIN_26.21.14.4112_A00.EXE"
-    },
-    {
         "name": "Intel PCIe Ethernet Network Driver",
         "category": "Network, Ethernet & Wireless",
         "importance": "critical",
         "date": "2019-11-15T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER05877897M/2/Intel-PCIe-Ethernet-Controller-Driver_VP20T_WIN_24.1.0.0_A13_01.EXE"
-    },
-    {
-        "name": "NVIDIA GeForce GT 7xx/GT 10xx/GTX 10xx/GTX 16xx/RTX 20xx Desktop DC Graphics Driver",
-        "category": "Video",
-        "importance": "critical",
-        "date": "2019-09-25T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER05749095M/5/Video_Driver_RWKNF_WN32_26.21.14.3160_A00_04.EXE"
     },
     {
         "name": "Toshiba Solid State Drive Firmware Update for KBG30ZMS128G/KBG30ZMS256G/KBG30ZMS512G",
@@ -193,7 +158,7 @@
         "category": "Network, Ethernet & Wireless",
         "importance": "recommended",
         "date": "2023-05-23T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09785193M/3/Intel-9560-9260-8265-7265-3165-Bluetooth-UWD-Driver_9DK96_WIN64_22.200.0.2_A36_02.EXE"
+        "url": "https://dl.dell.com/FOLDER09785193M/4/Intel-9560-9260-8265-7265-3165-Bluetooth-UWD-Driver_9DK96_WIN64_22.200.0.2_A36_03.EXE"
     },
     {
         "name": "NVIDIA GeForce GT 10xx/GTX 1xx0/RTX x0x0 Graphics Driver",
@@ -217,39 +182,11 @@
         "url": "https://dl.dell.com/FOLDER09505088M/1/Dell-SupportAssist-OS-Recovery-Plugin-for-Dell-Update_HN6RG_WIN_5.5.5.16206_A00.EXE"
     },
     {
-        "name": "NVIDIA GeForce 10xx/16xx/20xx/30xx/40xx Graphics Driver",
-        "category": "Video",
-        "importance": "recommended",
-        "date": "2022-12-31T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09238565M/26/NVIDIA-GeForce-10xx-16xx-20xx-30xx-40xx-Graphics_53C89_WIN_31.0.15.2698_A00_08.EXE"
-    },
-    {
-        "name": "NVIDIA GeForce GT 7x0/GT 1xx0/GTX 1xx0/RTX x0x0 HSA Application Installer",
-        "category": "Video",
-        "importance": "recommended",
-        "date": "2022-12-13T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09206927M/3/NVIDIA-GeForce-GT-7x0-GT-1xx0-GTX-1xx0-RTX-x0x0-HSA_PC74M_WIN64_8.1.963.0_A00_01.EXE"
-    },
-    {
         "name": "Dell Encryption",
         "category": "Dell Data Security",
         "importance": "recommended",
         "date": "2022-12-12T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER09311453M/1/Dell-Encryption-11.6.0.3.zip"
-    },
-    {
-        "name": "Dell/Alienware Digital Delivery Application",
-        "category": "Application",
-        "importance": "recommended",
-        "date": "2022-12-05T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09201170M/1/Dell-Alienware-Digital-Delivery-Application_Y0J1N_WIN_5.0.64.0_A23.EXE"
-    },
-    {
-        "name": "NVIDIA GeForce GT xxxx/GTX xxxx/RTX xxxx HSA Application Installer",
-        "category": "Video",
-        "importance": "recommended",
-        "date": "2022-10-12T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER08886580M/1/NVIDIA-GeForce-7xx-10xx-16xx-20xx-30xx-HSA-Application_CCDX1_WIN64_8.1.962.0_A00.EXE"
     },
     {
         "name": "Intel Manageability and Security Status Application",
@@ -812,20 +749,6 @@
         "url": "https://dl.dell.com/FOLDER05158063M/7/Audio_Application_VWPRR_WN64_1.1.131.0_A06_04.EXE"
     },
     {
-        "name": "NVIDIA GeForce Desktop Graphics Driver",
-        "category": "Video",
-        "importance": "recommended",
-        "date": "2018-08-13T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER05063130M/2/nVIDIA-GeForce-Desktop-DC-Graphics-Driver_F6M37_WIN_24.21.13.9793_A00.EXE"
-    },
-    {
-        "name": "NVIDIA GeForce RX 1060 Desktop DC Application Installer",
-        "category": "Video",
-        "importance": "recommended",
-        "date": "2018-08-13T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER05063082M/3/nVIDIA-GeForce-Desktop-DC-Application-Installer_WV80H_WIN_24.21.13.9793_A00.EXE"
-    },
-    {
         "name": "Seagate ST2000LM007 Series Hard Disk Firmware Update",
         "category": "Storage",
         "importance": "recommended",
@@ -873,6 +796,13 @@
         "importance": "recommended",
         "date": "2018-05-15T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER04855931M/3/Dell-Watch-Dog-Timer-Application_PPVGJ_WIN64_1.0.0_A00.EXE"
+    },
+    {
+        "name": "Dell/Alienware Digital Delivery Application",
+        "category": "Application",
+        "importance": "optional",
+        "date": "2023-06-16T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10048928M/2/Dell-Alienware-Digital-Delivery-Application_RJT28_WIN_5.0.71.0_A24_01.EXE"
     },
     {
         "name": "Dell Command | Deploy WinPE 10.0 Driver Pack",

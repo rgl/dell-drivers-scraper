@@ -112,6 +112,9 @@ async function getDrivers(page, product) {
 
 async function main(options) {
     var browserConfig = {
+        args: [
+            "--start-maximized"
+        ],
     };
     if (options.debug) {
         browserConfig = {

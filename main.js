@@ -29,7 +29,7 @@ async function getDrivers(page, product) {
     log("Rejecting cookies...");
     const rejectCookiesSelector = '[aria-label="dismiss cookie message"]';
     try {
-        await page.waitForSelector(rejectCookiesSelector, {timeout: 1500});
+        await page.waitForSelector(rejectCookiesSelector, {timeout: 5000});
         await page.click(rejectCookiesSelector);
     } catch {
         // ignore. this is expected in countries without cookies consent.

@@ -147,6 +147,13 @@
         "url": "https://dl.dell.com/FOLDER05468362M/11/Toshiba%20KBG30ZMS128G_KBG30ZMS256G_KBG30ZMS512G%20JYNRC_ZPE.exe"
     },
     {
+        "name": "Toshiba MQ01ACF050 Hard Drive Firmware Update",
+        "category": "Storage",
+        "importance": "recommended",
+        "date": "2023-07-03T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10233925M/2/FimwareUpdateUtility_3.00.0000_ZPE.exe"
+    },
+    {
         "name": "Trusted Device Agent",
         "category": "Trusted Device Security",
         "importance": "recommended",

@@ -21,6 +21,13 @@
         "url": "https://dl.dell.com/FOLDER09881352M/1/OptiPlex_7060_1.25.0.exe"
     },
     {
+        "name": "Dell Command | Update Windows Universal Application",
+        "category": "Systems Management",
+        "importance": "critical",
+        "date": "2023-05-09T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10012409M/3/Dell-Command-Update-Windows-Universal-Application_J6PNP_WIN_4.9.0_A02_02.EXE"
+    },
+    {
         "name": "Dell Command | Update Application",
         "category": "Systems Management",
         "importance": "critical",
@@ -173,13 +180,6 @@
         "importance": "recommended",
         "date": "2023-03-21T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER09557147M/2/NVIDIA-GeForce-10xx-16xx-20xx-30xx-40xx-Graphics_3G92J_WIN64_31.0.15.2824_A00.EXE"
-    },
-    {
-        "name": "Dell Command | Update Windows Universal Application",
-        "category": "Systems Management",
-        "importance": "recommended",
-        "date": "2023-01-31T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09523714M/1/Dell-Command-Update-Windows-Universal-Application_6GMR6_WIN_4.8.0_A00.EXE"
     },
     {
         "name": "Dell SupportAssist OS Recovery Plugin for Dell Update",

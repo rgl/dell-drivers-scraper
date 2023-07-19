@@ -182,13 +182,6 @@
         "url": "https://dl.dell.com/FOLDER09557147M/2/NVIDIA-GeForce-10xx-16xx-20xx-30xx-40xx-Graphics_3G92J_WIN64_31.0.15.2824_A00.EXE"
     },
     {
-        "name": "Dell SupportAssist OS Recovery Plugin for Dell Update",
-        "category": "Application",
-        "importance": "recommended",
-        "date": "2023-01-25T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09505088M/1/Dell-SupportAssist-OS-Recovery-Plugin-for-Dell-Update_HN6RG_WIN_5.5.5.16206_A00.EXE"
-    },
-    {
         "name": "Dell Encryption",
         "category": "Dell Data Security",
         "importance": "recommended",
@@ -803,6 +796,13 @@
         "importance": "recommended",
         "date": "2018-05-15T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER04855931M/3/Dell-Watch-Dog-Timer-Application_PPVGJ_WIN64_1.0.0_A00.EXE"
+    },
+    {
+        "name": "Dell SupportAssist OS Recovery Plugin for Dell Update",
+        "category": "Application",
+        "importance": "optional",
+        "date": "2023-07-14T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10175351M/1/Dell-SupportAssist-OS-Recovery-Plugin-for-Dell-Update_WFVWJ_WIN_5.5.7.18773_A00.EXE"
     },
     {
         "name": "Dell/Alienware Digital Delivery Application",

@@ -154,18 +154,18 @@
         "url": "https://dl.dell.com/FOLDER05468362M/11/Toshiba%20KBG30ZMS128G_KBG30ZMS256G_KBG30ZMS512G%20JYNRC_ZPE.exe"
     },
     {
+        "name": "Trusted Device Agent",
+        "category": "Trusted Device Security",
+        "importance": "recommended",
+        "date": "2023-07-05T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10261460M/1/Trusted-Device-5.6.170.zip"
+    },
+    {
         "name": "Toshiba MQ01ACF050 Hard Drive Firmware Update",
         "category": "Storage",
         "importance": "recommended",
         "date": "2023-07-03T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER10233925M/2/FimwareUpdateUtility_3.00.0000_ZPE.exe"
-    },
-    {
-        "name": "Trusted Device Agent",
-        "category": "Trusted Device Security",
-        "importance": "recommended",
-        "date": "2023-06-05T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10120459M/1/Trusted-Device-5.5.168.zip"
     },
     {
         "name": "Intel 9560/9260/8265/7265/3165 Bluetooth UWD Driver",
@@ -175,18 +175,18 @@
         "url": "https://dl.dell.com/FOLDER09785193M/4/Intel-9560-9260-8265-7265-3165-Bluetooth-UWD-Driver_9DK96_WIN64_22.200.0.2_A36_03.EXE"
     },
     {
+        "name": "Dell Encryption",
+        "category": "Dell Data Security",
+        "importance": "recommended",
+        "date": "2023-05-12T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10017114M/1/Dell-Encryption-11.7.1.2.zip"
+    },
+    {
         "name": "NVIDIA GeForce GT 10xx/GTX 1xx0/RTX x0x0 Graphics Driver",
         "category": "Video",
         "importance": "recommended",
         "date": "2023-03-21T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER09557147M/2/NVIDIA-GeForce-10xx-16xx-20xx-30xx-40xx-Graphics_3G92J_WIN64_31.0.15.2824_A00.EXE"
-    },
-    {
-        "name": "Dell Encryption",
-        "category": "Dell Data Security",
-        "importance": "recommended",
-        "date": "2022-12-12T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09311453M/1/Dell-Encryption-11.6.0.3.zip"
     },
     {
         "name": "Intel Manageability and Security Status Application",

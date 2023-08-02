@@ -21,20 +21,6 @@
         "url": "https://dl.dell.com/FOLDER09881352M/1/OptiPlex_7060_1.25.0.exe"
     },
     {
-        "name": "Dell Command | Update Windows Universal Application",
-        "category": "Systems Management",
-        "importance": "critical",
-        "date": "2023-05-09T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10012409M/3/Dell-Command-Update-Windows-Universal-Application_J6PNP_WIN_4.9.0_A02_02.EXE"
-    },
-    {
-        "name": "Dell Command | Update Application",
-        "category": "Systems Management",
-        "importance": "critical",
-        "date": "2023-05-09T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10012380M/3/Dell-Command-Update-Application_30F6M_WIN_4.9.0_A02_02.EXE"
-    },
-    {
         "name": "NVIDIA GeForce Desktop GT 730 DCH Graphics Driver",
         "category": "Video",
         "importance": "critical",
@@ -154,6 +140,20 @@
         "url": "https://dl.dell.com/FOLDER05468362M/11/Toshiba%20KBG30ZMS128G_KBG30ZMS256G_KBG30ZMS512G%20JYNRC_ZPE.exe"
     },
     {
+        "name": "Dell Command | Update Application",
+        "category": "Systems Management",
+        "importance": "recommended",
+        "date": "2023-07-31T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10408469M/1/Dell-Command-Update-Application_HYR95_WIN_5.0.0_A00.EXE"
+    },
+    {
+        "name": "Dell Command | Update Windows Universal Application",
+        "category": "Systems Management",
+        "importance": "recommended",
+        "date": "2023-07-31T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10408436M/1/Dell-Command-Update-Windows-Universal-Application_1WR6C_WIN_5.0.0_A00.EXE"
+    },
+    {
         "name": "Trusted Device Agent",
         "category": "Trusted Device Security",
         "importance": "recommended",
@@ -193,7 +193,7 @@
         "category": "Chipset",
         "importance": "recommended",
         "date": "2022-10-10T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER08802730M/1/Intel-Manageability-and-Security-Status-Application_KTR9X_WIN64_2219.3.0.0_A05.EXE"
+        "url": "https://dl.dell.com/FOLDER08802730M/2/Intel-Manageability-and-Security-Status-Application_KTR9X_WIN64_2219.3.0.0_A05_01.EXE"
     },
     {
         "name": "Intel Management Engine Components Installer",
@@ -798,6 +798,13 @@
         "url": "https://dl.dell.com/FOLDER04855931M/3/Dell-Watch-Dog-Timer-Application_PPVGJ_WIN64_1.0.0_A00.EXE"
     },
     {
+        "name": "Dell Command | Deploy WinPE 10.0 Driver Pack",
+        "category": "Systems Management",
+        "importance": "optional",
+        "date": "2023-08-01T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10306246M/1/WinPE10.0-Drivers-A31-HWWK8.cab"
+    },
+    {
         "name": "Dell SupportAssist OS Recovery Plugin for Dell Update",
         "category": "Application",
         "importance": "optional",
@@ -810,13 +817,6 @@
         "importance": "optional",
         "date": "2023-06-16T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER10048928M/2/Dell-Alienware-Digital-Delivery-Application_RJT28_WIN_5.0.71.0_A24_01.EXE"
-    },
-    {
-        "name": "Dell Command | Deploy WinPE 10.0 Driver Pack",
-        "category": "Systems Management",
-        "importance": "optional",
-        "date": "2023-03-14T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09626256M/1/WinPE10.0-Drivers-A30-F8JYY.CAB"
     },
     {
         "name": "Dell Command | PowerShell Provider",

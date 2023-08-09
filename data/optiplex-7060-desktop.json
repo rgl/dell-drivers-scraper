@@ -3,8 +3,8 @@
         "name": "NVIDIA GeForce GT 10xx/GTX 1xx0/RTX x0x0 Graphics Driver",
         "category": "Video",
         "importance": "critical",
-        "date": "2023-06-13T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09788542M/1/NVIDIA-GeForce-GT-10xx-GTX-1xx0-RTX-x0x0-Graphics_WR7HF_WIN64_31.0.15.3141_A00.EXE"
+        "date": "2023-08-08T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10199448M/1/NVIDIA-GeForce-GT-10xx-GTX-1xx0-RTX-x0x0-Graphics_4JRVF_WIN64_31.0.15.3619_A00.EXE"
     },
     {
         "name": "Intel 9560/9260/8265/7265/3165 Wi-Fi Driver",
@@ -81,7 +81,7 @@
         "category": "Network, Ethernet & Wireless",
         "importance": "critical",
         "date": "2022-09-14T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER08756263M/6/Qualcomm-QCA61x4A-QCA6174A-XR-QCA9377-Wi-Fi-and-Bluetooth_GPK9J_WIN_12.0.0.1258_A37_04.EXE"
+        "url": "https://dl.dell.com/FOLDER08756263M/7/Qualcomm-QCA61x4A-QCA6174A-XR-QCA9377-Wi-Fi-and-Bluetooth_GPK9J_WIN_12.0.0.1258_A37_05.EXE"
     },
     {
         "name": "Intel I210 NIC Card Firmware Update Utility",
@@ -157,8 +157,8 @@
         "name": "Trusted Device Agent",
         "category": "Trusted Device Security",
         "importance": "recommended",
-        "date": "2023-07-05T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10261460M/1/Trusted-Device-5.6.170.zip"
+        "date": "2023-07-31T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10294801M/1/Trusted-Device-Agent_537T6_WIN_5.7.3.0_A49.EXE"
     },
     {
         "name": "Toshiba MQ01ACF050 Hard Drive Firmware Update",
@@ -798,6 +798,13 @@
         "url": "https://dl.dell.com/FOLDER04855931M/3/Dell-Watch-Dog-Timer-Application_PPVGJ_WIN64_1.0.0_A00.EXE"
     },
     {
+        "name": "Dell Command | Deploy Driver Pack",
+        "category": "Systems Management",
+        "importance": "optional",
+        "date": "2023-08-02T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10385995M/1/7060-R0NN1_Win10_1.0_A13.exe"
+    },
+    {
         "name": "Dell Command | Deploy WinPE 10.0 Driver Pack",
         "category": "Systems Management",
         "importance": "optional",
@@ -824,13 +831,6 @@
         "importance": "optional",
         "date": "2022-10-31T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER09043704M/1/DellCommandPowerShellProvider2.7.0_92.zip"
-    },
-    {
-        "name": "Dell Command | Deploy Driver Pack",
-        "category": "Systems Management",
-        "importance": "optional",
-        "date": "2021-07-13T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER07340603M/1/7060-win10-A12-TD7PC.CAB"
     },
     {
         "name": "Dell USB Smartcard Keyboard Driver",

@@ -12,6 +12,6 @@
     },
     "dependencies": {
         "commander": "^11.0.0",
-        "puppeteer": "^20.7.3"
+        "puppeteer": "^21.0.2"
     }
 }

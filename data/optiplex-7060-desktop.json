@@ -1,5 +1,33 @@
 [
     {
+        "name": "Dell OptiPlex 7060 System BIOS",
+        "category": "BIOS",
+        "importance": "critical",
+        "date": "2023-08-09T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10276757M/1/OptiPlex_7060_1.26.0.exe"
+    },
+    {
+        "name": "NVIDIA GeForce Experience Application",
+        "category": "Video",
+        "importance": "critical",
+        "date": "2023-08-09T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10223166M/1/NVIDIA-GeForce-Experience-Application_0Y9VV_WIN_30.0.14.7444_A00.EXE"
+    },
+    {
+        "name": "NVIDIA GeForce Desktop GT 730 DCH Graphics Driver",
+        "category": "Video",
+        "importance": "critical",
+        "date": "2023-08-09T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10223112M/1/NVIDIA-GeForce-Desktop-GT-730-DCH-Graphics-Driver_M88CW_WIN64_30.0.14.7444_A00.EXE"
+    },
+    {
+        "name": "Intel Management Engine Components Installer",
+        "category": "Chipset",
+        "importance": "critical",
+        "date": "2023-08-08T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10062450M/4/Intel-Management-Engine-Components-Installer_CTKVW_WIN64_2313.4.16.0_A12_01.EXE"
+    },
+    {
         "name": "NVIDIA GeForce GT 10xx/GTX 1xx0/RTX x0x0 Graphics Driver",
         "category": "Video",
         "importance": "critical",
@@ -12,27 +40,6 @@
         "importance": "critical",
         "date": "2023-05-23T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER09781514M/3/Intel-9560-9260-8265-7265-3165-Wi-Fi-Driver_27H29_WIN_22.200.2.1_A32_02.EXE"
-    },
-    {
-        "name": "Dell OptiPlex 7060 System BIOS",
-        "category": "BIOS",
-        "importance": "critical",
-        "date": "2023-05-16T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09881352M/1/OptiPlex_7060_1.25.0.exe"
-    },
-    {
-        "name": "NVIDIA GeForce Desktop GT 730 DCH Graphics Driver",
-        "category": "Video",
-        "importance": "critical",
-        "date": "2023-04-11T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09824296M/1/NVIDIA-GeForce-Desktop-GT-730-DCH-Graphics-Driver_KK1PW_WIN64_30.0.14.7430_A00.EXE"
-    },
-    {
-        "name": "NVIDIA GeForce Experience Application",
-        "category": "Video",
-        "importance": "critical",
-        "date": "2023-04-11T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09690201M/3/NVIDIA-GeForce-Experience-Application_XJYXX_WIN_30.0.14.7430_A00_02.EXE"
     },
     {
         "name": "Dell Command | Monitor",
@@ -168,6 +175,13 @@
         "url": "https://dl.dell.com/FOLDER10233925M/2/FimwareUpdateUtility_3.00.0000_ZPE.exe"
     },
     {
+        "name": "Dell Watchdog Timer Driver",
+        "category": "Application",
+        "importance": "recommended",
+        "date": "2023-06-13T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10035701M/3/Dell-Watchdog-Timer-Driver_RWM04_WIN_1.2.1.0_A01_01.EXE"
+    },
+    {
         "name": "Intel 9560/9260/8265/7265/3165 Bluetooth UWD Driver",
         "category": "Network, Ethernet & Wireless",
         "importance": "recommended",
@@ -182,6 +196,13 @@
         "url": "https://dl.dell.com/FOLDER10017114M/1/Dell-Encryption-11.7.1.2.zip"
     },
     {
+        "name": "Intel Thunderbolt Controller Driver",
+        "category": "Chipset",
+        "importance": "recommended",
+        "date": "2023-03-25T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER09538382M/3/Intel-Thunderbolt-Controller-Driver_TBTB8_WIN_1.41.1353.0_A16_02.EXE"
+    },
+    {
         "name": "NVIDIA GeForce GT 10xx/GTX 1xx0/RTX x0x0 Graphics Driver",
         "category": "Video",
         "importance": "recommended",
@@ -194,13 +215,6 @@
         "importance": "recommended",
         "date": "2022-10-10T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER08802730M/2/Intel-Manageability-and-Security-Status-Application_KTR9X_WIN64_2219.3.0.0_A05_01.EXE"
-    },
-    {
-        "name": "Intel Management Engine Components Installer",
-        "category": "Chipset",
-        "importance": "recommended",
-        "date": "2022-10-10T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09021432M/4/Intel-Management-Engine-Components-Installer_3DC3X_WIN64_2229.3.16.0_A11.EXE"
     },
     {
         "name": "Intel I210/I225/X550/X710 Ethernet Controller Driver",

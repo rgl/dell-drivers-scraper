@@ -115,6 +115,7 @@ async function main(options) {
         args: [
             "--start-maximized"
         ],
+        headless: "new",
     };
     if (options.debug) {
         browserConfig = {

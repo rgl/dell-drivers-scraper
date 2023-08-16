@@ -168,6 +168,13 @@
         "url": "https://dl.dell.com/FOLDER10294801M/1/Trusted-Device-Agent_537T6_WIN_5.7.3.0_A49.EXE"
     },
     {
+        "name": "Intel Manageability and Security Status Application",
+        "category": "Chipset",
+        "importance": "recommended",
+        "date": "2023-07-07T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10027361M/1/Intel-Manageability-and-Security-Status-Application_WDP64_WIN64_2316.5.0.0_A06.EXE"
+    },
+    {
         "name": "Toshiba MQ01ACF050 Hard Drive Firmware Update",
         "category": "Storage",
         "importance": "recommended",
@@ -208,13 +215,6 @@
         "importance": "recommended",
         "date": "2023-03-21T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER09557147M/2/NVIDIA-GeForce-10xx-16xx-20xx-30xx-40xx-Graphics_3G92J_WIN64_31.0.15.2824_A00.EXE"
-    },
-    {
-        "name": "Intel Manageability and Security Status Application",
-        "category": "Chipset",
-        "importance": "recommended",
-        "date": "2022-10-10T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER08802730M/2/Intel-Manageability-and-Security-Status-Application_KTR9X_WIN64_2219.3.0.0_A05_01.EXE"
     },
     {
         "name": "Intel I210/I225/X550/X710 Ethernet Controller Driver",
@@ -270,7 +270,7 @@
         "category": "Video",
         "importance": "recommended",
         "date": "2022-05-30T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER08489055M/1/Intel-UHD-Iris-Plus-Graphics-Driver_53W33_WIN64_30.0.101.1692_A09.EXE"
+        "url": "https://dl.dell.com/FOLDER08489055M/3/Intel-UHD-Iris-Plus-Graphics-Driver_53W33_WIN64_30.0.101.1692_A09_01.EXE"
     },
     {
         "name": "Intel Solid State Drive Firmware Update for SSDPEMKF256G8/SSDPEMKF512G8/SSDPEMKF010T8",

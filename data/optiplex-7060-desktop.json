@@ -102,7 +102,7 @@
         "category": "Chipset",
         "importance": "critical",
         "date": "2021-11-23T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER07810917M/1/Intel-Thunderbolt-Controller-Driver-and-Application_21KVH_WIN_1.41.1193.0_A08.EXE"
+        "url": "https://dl.dell.com/FOLDER07810917M/2/Intel-Thunderbolt-Controller-Driver-and-Application_21KVH_WIN_1.41.1193.0_A08_01.EXE"
     },
     {
         "name": "DBUtil Removal Utility",
@@ -319,7 +319,7 @@
         "category": "Video",
         "importance": "recommended",
         "date": "2022-01-26T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER08031626M/1/AMD-Radeon-R5-430-Graphics-Driver_KWT1N_WIN64_27.20.20904.4000_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER08031626M/2/AMD-Radeon-R5-430-Graphics-Driver_KWT1N_WIN64_27.20.20904.4000_A00_01.EXE"
     },
     {
         "name": "AMD Radeon R550/R540/RX 640/RX 550 Graphics Driver",

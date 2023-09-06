@@ -119,13 +119,6 @@
         "url": "https://dl.dell.com/FOLDER07557882M/13/Intel-Graphics-Command-Center-Application_07VW2_WIN64_1.100.3325.0_A00_03.EXE"
     },
     {
-        "name": "Dell TPM 2.0 Firmware Update Utility",
-        "category": "Security",
-        "importance": "critical",
-        "date": "2021-07-14T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER07395932M/1/DELLTPM_NPCT750_7.2.2.0_64_v1.exe"
-    },
-    {
         "name": "Dell Security Advisory Update - DSA-2020-059",
         "category": "Security",
         "importance": "critical",
@@ -166,6 +159,13 @@
         "importance": "recommended",
         "date": "2023-07-31T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER10294801M/1/Trusted-Device-Agent_537T6_WIN_5.7.3.0_A49.EXE"
+    },
+    {
+        "name": "Dell TPM 2.0 Firmware Update Utility",
+        "category": "Security",
+        "importance": "recommended",
+        "date": "2023-07-11T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10077796M/1/DELLTPM_NPCT750_7.2.2.0_64_v2.exe"
     },
     {
         "name": "Intel Manageability and Security Status Application",

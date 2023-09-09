@@ -2,6 +2,8 @@
 
 [![Build status](https://github.com/rgl/dell-drivers-scraper/workflows/build/badge.svg)](https://github.com/rgl/dell-drivers-scraper/actions?query=workflow%3Abuild)
 
+**this is currently broken. see https://github.com/puppeteer/puppeteer/issues/10867**
+
 This scrapes the Dell Product Drivers page into a JSON data file.
 
 ## Products
@@ -33,11 +35,11 @@ jq -r '[.[] | select(.name == "Intel Management Engine Components Installer")] |
 
 ## Usage
 
-Install [Node.js](https://nodejs.org).
+Install [Bun](https://bun.sh).
 
 Execute:
 
 ```bash
-npm ci
-node main.js
+bun install --frozen-lockfile
+bun run main.js
 ```

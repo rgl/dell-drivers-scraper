@@ -1,24 +1,20 @@
-"use strict";
-
 // install dependencies:
 //
-//      npm install
+//      bun install --frozen-lockfile
 //
 // execute:
 //
 // NB to troubleshoot uncomment $env:DEBUG and set {headless:false,dumpio:true} in main.js.
 //
-//      $env:DEBUG = 'puppeteer:*'
-//      node main.js
+//      export DEBUG='puppeteer:*'
+//      bun run main.js
 
+import { log } from "./log";
 import { program } from "commander";
+import { browserInstall } from "./browser";
 import puppeteer from "puppeteer";
 import fs from "fs";
 import path from "path";
-
-function log() {
-    console.log.apply(console, [new Date().toISOString(), ...arguments]);
-}
 
 async function getDrivers(page, product) {
     const url = `https://www.dell.com/support/home/en-us/product-support/product/${product}/drivers`;
@@ -126,6 +122,8 @@ async function main(options) {
             dumpio: false,
         };
     }
+
+    await browserInstall();
 
     log("Launching the browser...");
     const browser = await puppeteer.launch(browserConfig);

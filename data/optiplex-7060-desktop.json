@@ -25,7 +25,7 @@
         "category": "Chipset",
         "importance": "critical",
         "date": "2023-08-08T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10062450M/4/Intel-Management-Engine-Components-Installer_CTKVW_WIN64_2313.4.16.0_A12_01.EXE"
+        "url": "https://dl.dell.com/FOLDER10062450M/5/Intel-Management-Engine-Components-Installer_CTKVW_WIN64_2313.4.16.0_A12_02.EXE"
     },
     {
         "name": "NVIDIA GeForce GT 10xx/GTX 1xx0/RTX x0x0 Graphics Driver",
@@ -81,7 +81,7 @@
         "category": "Video",
         "importance": "critical",
         "date": "2022-12-13T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09186790M/1/NVIDIA-GeForce-Desktop-GT-730-HSA-Control-Panel-Installer_Y6X99_WIN64_8.1.963.0_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER09186790M/2/NVIDIA-GeForce-Desktop-GT-730-HSA-Application-Installer_Y6X99_WIN64_8.1.963.0_A00_01.EXE"
     },
     {
         "name": "Qualcomm QCA61x4A/QCA6174A-XR/QCA9377 Wi-Fi and Bluetooth Driver",
@@ -102,14 +102,14 @@
         "category": "Chipset",
         "importance": "critical",
         "date": "2021-11-23T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER07810917M/2/Intel-Thunderbolt-Controller-Driver-and-Application_21KVH_WIN_1.41.1193.0_A08_01.EXE"
+        "url": "https://dl.dell.com/FOLDER07810917M/3/Intel-Thunderbolt-Controller-Driver-and-Application_21KVH_WIN_1.41.1193.0_A08_02.EXE"
     },
     {
         "name": "DBUtil Removal Utility",
         "category": "Security",
         "importance": "critical",
         "date": "2021-08-02T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER07604649M/1/DBUtil-Removal-Utility_8GG09_WIN_2.5.0_A03.EXE"
+        "url": "https://dl.dell.com/FOLDER07604649M/2/DBUtil-Removal-Utility_8GG09_WIN_2.5.0_A03_01.EXE"
     },
     {
         "name": "Intel Graphics Command Center Application",
@@ -140,6 +140,20 @@
         "url": "https://dl.dell.com/FOLDER05468362M/11/Toshiba%20KBG30ZMS128G_KBG30ZMS256G_KBG30ZMS512G%20JYNRC_ZPE.exe"
     },
     {
+        "name": "Trusted Device Agent",
+        "category": "Trusted Device Security",
+        "importance": "recommended",
+        "date": "2023-09-05T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10539794M/1/Trusted-Device-Agent_D2T9W_WIN_5.8.2.0_A50.EXE"
+    },
+    {
+        "name": "Dell/Alienware Digital Delivery Application",
+        "category": "Application",
+        "importance": "recommended",
+        "date": "2023-08-31T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10549847M/1/Dell-Alienware-Digital-Delivery-Application_X8K2N_WIN_5.0.82.0_A25.EXE"
+    },
+    {
         "name": "Dell Command | Update Application",
         "category": "Systems Management",
         "importance": "recommended",
@@ -154,13 +168,6 @@
         "url": "https://dl.dell.com/FOLDER10408436M/1/Dell-Command-Update-Windows-Universal-Application_1WR6C_WIN_5.0.0_A00.EXE"
     },
     {
-        "name": "Trusted Device Agent",
-        "category": "Trusted Device Security",
-        "importance": "recommended",
-        "date": "2023-07-31T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10294801M/1/Trusted-Device-Agent_537T6_WIN_5.7.3.0_A49.EXE"
-    },
-    {
         "name": "Dell TPM 2.0 Firmware Update Utility",
         "category": "Security",
         "importance": "recommended",
@@ -172,7 +179,7 @@
         "category": "Chipset",
         "importance": "recommended",
         "date": "2023-07-07T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10027361M/1/Intel-Manageability-and-Security-Status-Application_WDP64_WIN64_2316.5.0.0_A06.EXE"
+        "url": "https://dl.dell.com/FOLDER10027361M/2/Intel-Manageability-and-Security-Status-Application_WDP64_WIN64_2316.5.0.0_A06_01.EXE"
     },
     {
         "name": "Toshiba MQ01ACF050 Hard Drive Firmware Update",
@@ -347,28 +354,28 @@
         "category": "Application",
         "importance": "recommended",
         "date": "2021-06-01T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER07223629M/1/Intel-Unite-Add-in-Application-for-Outlook_1XNY6_WIN_4.2.25031.0_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER07223629M/2/Intel-Unite-Add-in-Application-for-Outlook_1XNY6_WIN_4.2.25031.0_A00_01.EXE"
     },
     {
         "name": "Intel Unite Client Application 64-bit",
         "category": "Application",
         "importance": "recommended",
         "date": "2021-06-01T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER07222980M/1/Intel-Unite-Client-Application-64-bit_429WG_WIN_4.2.25031.51_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER07222980M/2/Intel-Unite-Client-Application-64-bit_429WG_WIN_4.2.25031.51_A00_01.EXE"
     },
     {
         "name": "Intel Unite Client Application 32-bit",
         "category": "Application",
         "importance": "recommended",
         "date": "2021-06-01T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER07222990M/1/Intel-Unite-Client-Application-32-bit_64D4J_WIN_4.2.25031.51_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER07222990M/2/Intel-Unite-Client-Application-32-bit_64D4J_WIN_4.2.25031.51_A00_01.EXE"
     },
     {
         "name": "Intel Unite Extended Display Driver",
         "category": "Application",
         "importance": "recommended",
         "date": "2021-06-01T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER07223793M/1/Intel-Unite-Extended-Display-Driver_FPXDR_WIN_4.2.25031.0_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER07223793M/2/Intel-Unite-Extended-Display-Driver_FPXDR_WIN_4.2.25031.0_A00_01.EXE"
     },
     {
         "name": "Intel Unite Hub Application",
@@ -389,14 +396,14 @@
         "category": "Application",
         "importance": "recommended",
         "date": "2021-06-01T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER07223975M/1/Intel-Unite-File-Transfer-Component_PV7CM_WIN_4.2.25031.51_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER07223975M/2/Intel-Unite-File-Transfer-Component_PV7CM_WIN_4.2.25031.51_A00_01.EXE"
     },
     {
         "name": "Intel Unite Server Application",
         "category": "Application",
         "importance": "recommended",
         "date": "2021-06-01T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER07223457M/1/Intel-Unite-Server-Application_VY9YD_WIN_4.2.25031.51_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER07223457M/2/Intel-Unite-Server-Application_VY9YD_WIN_4.2.25031.51_A00_01.EXE"
     },
     {
         "name": "Micron 2200S PCIe NVMe Solid State Drive Firmware Update",
@@ -831,13 +838,6 @@
         "importance": "optional",
         "date": "2023-07-14T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER10175351M/1/Dell-SupportAssist-OS-Recovery-Plugin-for-Dell-Update_WFVWJ_WIN_5.5.7.18773_A00.EXE"
-    },
-    {
-        "name": "Dell/Alienware Digital Delivery Application",
-        "category": "Application",
-        "importance": "optional",
-        "date": "2023-06-16T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10048928M/2/Dell-Alienware-Digital-Delivery-Application_RJT28_WIN_5.0.71.0_A24_01.EXE"
     },
     {
         "name": "Dell Command | PowerShell Provider",

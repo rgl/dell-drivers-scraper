@@ -116,21 +116,21 @@
         "category": "Video",
         "importance": "critical",
         "date": "2021-07-30T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER07557882M/13/Intel-Graphics-Command-Center-Application_07VW2_WIN64_1.100.3325.0_A00_03.EXE"
+        "url": "https://dl.dell.com/FOLDER07557882M/14/Intel-Graphics-Command-Center-Application_07VW2_WIN64_1.100.3325.0_A00_04.EXE"
     },
     {
         "name": "Dell Security Advisory Update - DSA-2020-059",
         "category": "Security",
         "importance": "critical",
         "date": "2020-04-27T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER06200068M/3/Dell-Security-Advisory-Update-DSA-2020-059_1GWG9_WIN64_1.0.0.0_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER06200068M/4/Dell-Security-Advisory-Update-DSA-2020-059_1GWG9_WIN64_1.0.0.0_A00_01.EXE"
     },
     {
         "name": "Intel PCIe Ethernet Network Driver",
         "category": "Network, Ethernet & Wireless",
         "importance": "critical",
         "date": "2019-11-15T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER05877897M/2/Intel-PCIe-Ethernet-Controller-Driver_VP20T_WIN_24.1.0.0_A13_01.EXE"
+        "url": "https://dl.dell.com/FOLDER05877897M/3/Intel-PCIe-Ethernet-Network-Driver_VP20T_WIN_24.1.0.0_A13_02.EXE"
     },
     {
         "name": "Toshiba Solid State Drive Firmware Update for KBG30ZMS128G/KBG30ZMS256G/KBG30ZMS512G",
@@ -196,6 +196,13 @@
         "url": "https://dl.dell.com/FOLDER10035701M/3/Dell-Watchdog-Timer-Driver_RWM04_WIN_1.2.1.0_A01_01.EXE"
     },
     {
+        "name": "Intel Chipset Device Software",
+        "category": "Chipset",
+        "importance": "recommended",
+        "date": "2023-06-13T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10140261M/6/Intel-Chipset-Device-Software_RVRV0_WIN_10.1.19468.8385_A23_05.EXE"
+    },
+    {
         "name": "Intel 9560/9260/8265/7265/3165 Bluetooth UWD Driver",
         "category": "Network, Ethernet & Wireless",
         "importance": "recommended",
@@ -242,7 +249,7 @@
         "category": "Video",
         "importance": "recommended",
         "date": "2022-08-05T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER08805067M/1/AMD-Radeon-R550-R540-RX-640-RX-550-Graphics-Driver_7GYJN_WIN64_30.0.13018.11001_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER08805067M/2/AMD-Radeon-R550-R540-RX-640-RX-550-Graphics-Driver_7GYJN_WIN64_30.0.13018.11001_A00_01.EXE"
     },
     {
         "name": "Samsung PM981a 512GB and 1TB SED Solid State Drive Firmware Update",
@@ -424,7 +431,7 @@
         "category": "Network, Ethernet & Wireless",
         "importance": "recommended",
         "date": "2021-03-29T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER07100475M/2/Intel-I210-I350-X540-X550-X710-NIC-Driver_X0VX3_WIN64_25.6.0_A03_01.EXE"
+        "url": "https://dl.dell.com/FOLDER07100475M/3/Intel-I210-I350-X540-X550-X710-NIC-Driver_X0VX3_WIN64_25.6.0_A03_02.EXE"
     },
     {
         "name": "Intel Management Engine Components Installer",
@@ -459,7 +466,7 @@
         "category": "Modem/Communications",
         "importance": "recommended",
         "date": "2021-01-12T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER06845193M/1/Sunix-Serial-and-Parallel-Card-Driver_9MFWH_WIN64_9.0.4.1_A10.EXE"
+        "url": "https://dl.dell.com/FOLDER06845193M/2/Sunix-Serial-and-Parallel-Card-Driver_9MFWH_WIN64_9.0.4.1_A10_01.EXE"
     },
     {
         "name": "SK Hynix BC511 Solid-State Drive Firmware Update",
@@ -473,7 +480,7 @@
         "category": "Network, Ethernet & Wireless",
         "importance": "recommended",
         "date": "2020-11-03T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER06419811M/1/Aquantia-5G-Network-Add-in-Card-Driver_VNMX8_WIN_2.1.21.0_A06.EXE"
+        "url": "https://dl.dell.com/FOLDER06419811M/2/Aquantia-5G-Network-Add-in-Card-Driver_VNMX8_WIN_2.1.21.0_A06_01.EXE"
     },
     {
         "name": "SK Hynix BC501A Solid State Drive Firmware Update",
@@ -487,7 +494,7 @@
         "category": "Application",
         "importance": "recommended",
         "date": "2020-09-21T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER06525823M/1/Dell-Watchdog-Timer-Application_54NC2_WIN64_1.10.2.0_A03.EXE"
+        "url": "https://dl.dell.com/FOLDER06525823M/2/Dell-Watchdog-Timer-Application_54NC2_WIN64_1.10.2.0_A03_01.EXE"
     },
     {
         "name": "SK Hynix BC501 Solid State Drive Firmware Update",
@@ -553,18 +560,11 @@
         "url": "https://dl.dell.com/FOLDER06177733M/1/SK-Hynix-SC401-25-Solid-State-Drive-Firmware-Update_13PNX_WIN64_9000.0122_A00.EXE"
     },
     {
-        "name": "Intel Chipset Device Software",
-        "category": "Chipset",
-        "importance": "recommended",
-        "date": "2020-03-25T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER05969831M/1/Intel-Chipset-Device-Software_5MPRF_WIN_10.1.18121.8164_A09.EXE"
-    },
-    {
         "name": "Dell ControlVault2 Driver and Firmware",
         "category": "Security",
         "importance": "recommended",
         "date": "2020-02-14T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER06059997M/1/Dell-ControlVault2-Driver-and-Firmware_N23KC_WIN64_4.12.5.8_A21.EXE"
+        "url": "https://dl.dell.com/FOLDER06059997M/2/Dell-ControlVault2-Driver-and-Firmware_N23KC_WIN64_4.12.5.8_A21_01.EXE"
     },
     {
         "name": "Intel MEMPEK1J016GAD and MEMPEK1J032GAD PCIe NVMe Solid State Drive Firmware Update",
@@ -669,7 +669,7 @@
         "category": "Audio",
         "importance": "recommended",
         "date": "2019-06-03T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER05640295M/7/Realtek-High-Definition-Audio-Driver_WKKK3_WIN_6.0.8710.1_A08_03.EXE"
+        "url": "https://dl.dell.com/FOLDER05640295M/8/Realtek-High-Definition-Audio-Driver_WKKK3_WIN_6.0.8710.1_A08_04.EXE"
     },
     {
         "name": "Seagate Hard Disk Drive Firmware Update for ST500LM030/ST1000LM035",

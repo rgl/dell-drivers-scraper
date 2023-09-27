@@ -1,5 +1,12 @@
 [
     {
+        "name": "Intel Wireless 9260/9560/18265/8265/7265/3165 Bluetooth Driver",
+        "category": "Network, Ethernet & Wireless",
+        "importance": "critical",
+        "date": "2023-09-21T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER05033497M/5/Intel-Wireless-9260-9560-18265-8265-7265-3165-Bluetooth_1CC7N_WIN_20.60.1_A22_01.EXE"
+    },
+    {
         "name": "Dell OptiPlex 7060 System BIOS",
         "category": "BIOS",
         "importance": "critical",
@@ -781,7 +788,7 @@
         "category": "Chipset",
         "importance": "recommended",
         "date": "2018-07-23T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER04991713M/8/Intel-Thunderbolt-Controller-Driver_D8XXT_WIN_17.4.76.300_A09_04.EXE"
+        "url": "https://dl.dell.com/FOLDER04991713M/9/Intel-Thunderbolt-Controller-Driver_D8XXT_WIN_17.4.76.300_A09_05.EXE"
     },
     {
         "name": "HGST Jaguar C Series Hard Disk Firmware Update",

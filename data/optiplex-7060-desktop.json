@@ -704,7 +704,7 @@
         "category": "Modem/Communications",
         "importance": "recommended",
         "date": "2019-03-28T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER05339584M/3/Sunix-Serial-Parallel-Card-Driver_30C7H_WIN_9.0.4.0_A07.EXE"
+        "url": "https://dl.dell.com/FOLDER05339584M/4/Sunix-Serial-and-Parallel-Card-Driver_30C7H_WIN_9.0.4.0_A07_01.EXE"
     },
     {
         "name": "SK Hynix PC401 256 GB/512 GB/1 TB PCIe NVMe Solid-State Drive Firmware Update",
@@ -774,7 +774,7 @@
         "category": "Audio",
         "importance": "recommended",
         "date": "2018-09-20T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER05158063M/7/Audio_Application_VWPRR_WN64_1.1.131.0_A06_04.EXE"
+        "url": "https://dl.dell.com/FOLDER05158063M/8/Waves-MaxxAudio-Pro-Application_VWPRR_WIN64_1.1.131.0_A06_05.EXE"
     },
     {
         "name": "Seagate ST2000LM007 Series Hard Disk Firmware Update",
@@ -802,14 +802,14 @@
         "category": "Video",
         "importance": "recommended",
         "date": "2018-05-23T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER04980209M/4/AMD-R5-430-and-RX550-Graphics-Driver_H87XJ_WIN_17.400.2815_A01.EXE"
+        "url": "https://dl.dell.com/FOLDER04980209M/5/AMD-Radeon-R5-430-RX-550-Graphics-Driver_H87XJ_WIN_17.400.2815_A01_01.EXE"
     },
     {
         "name": "USB Type-C Status Display Application",
         "category": "Application",
         "importance": "recommended",
         "date": "2018-05-21T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER04867333M/3/USB-Type-C-Status-Display-Application_576N6_WIN64_2.1.1325.0_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER04867333M/4/USB-Type-C-Status-Display-Application_576N6_WIN64_2.1.1325.0_A00_01.EXE"
     },
     {
         "name": "Cypress USB Connector Manager Class Extension Driver",

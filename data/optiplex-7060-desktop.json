@@ -42,6 +42,13 @@
         "url": "https://dl.dell.com/FOLDER10199448M/1/NVIDIA-GeForce-GT-10xx-GTX-1xx0-RTX-x0x0-Graphics_4JRVF_WIN64_31.0.15.3619_A00.EXE"
     },
     {
+        "name": "Intel Chipset Device Software",
+        "category": "Chipset",
+        "importance": "critical",
+        "date": "2023-06-13T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10140261M/6/Intel-Chipset-Device-Software_RVRV0_WIN_10.1.19468.8385_A23_05.EXE"
+    },
+    {
         "name": "Intel 9560/9260/8265/7265/3165 Wi-Fi Driver",
         "category": "Network, Ethernet & Wireless",
         "importance": "critical",
@@ -201,13 +208,6 @@
         "importance": "recommended",
         "date": "2023-06-13T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER10035701M/3/Dell-Watchdog-Timer-Driver_RWM04_WIN_1.2.1.0_A01_01.EXE"
-    },
-    {
-        "name": "Intel Chipset Device Software",
-        "category": "Chipset",
-        "importance": "recommended",
-        "date": "2023-06-13T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10140261M/6/Intel-Chipset-Device-Software_RVRV0_WIN_10.1.19468.8385_A23_05.EXE"
     },
     {
         "name": "Intel 9560/9260/8265/7265/3165 Bluetooth UWD Driver",
@@ -396,7 +396,7 @@
         "category": "Application",
         "importance": "recommended",
         "date": "2021-06-01T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER07223207M/1/Intel-Unite-Hub-Application_H14K6_WIN_4.2.25031.51_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER07223207M/2/Intel-Unite-Hub-Application_H14K6_WIN_4.2.25031.51_A00_01.EXE"
     },
     {
         "name": "Intel Unite CAB File Component",
@@ -445,7 +445,7 @@
         "category": "Chipset",
         "importance": "recommended",
         "date": "2021-03-25T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER07040787M/4/Intel-Management-Engine-Components-Installer_J6JHK_WIN_2103.15.0.2135_A07_01.EXE"
+        "url": "https://dl.dell.com/FOLDER07040787M/5/Intel-Management-Engine-Components-Installer_J6JHK_WIN_2103.15.0.2135_A07_02.EXE"
     },
     {
         "name": "LiteOn Solid State Drive Firmware Update for CAZ-82256-Q11/CAZ-82512-Q11",

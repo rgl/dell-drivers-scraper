@@ -157,8 +157,8 @@
         "name": "Trusted Device Agent",
         "category": "Trusted Device Security",
         "importance": "recommended",
-        "date": "2023-09-05T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10539794M/1/Trusted-Device-Agent_D2T9W_WIN_5.8.2.0_A50.EXE"
+        "date": "2023-10-03T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10654803M/1/Trusted-Device-Agent_RN4V4_WIN_5.9.8.0_A51.EXE"
     },
     {
         "name": "Dell/Alienware Digital Delivery Application",

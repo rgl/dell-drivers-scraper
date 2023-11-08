@@ -1,5 +1,19 @@
 [
     {
+        "name": "NVIDIA GeForce Desktop GT 730 DCH Graphics Driver",
+        "category": "Video",
+        "importance": "critical",
+        "date": "2023-11-07T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10759645M/1/NVIDIA-GeForce-Desktop-GT-730-DCH-Graphics-Driver_CXVVT_WIN64_30.0.14.7464_A00.EXE"
+    },
+    {
+        "name": "NVIDIA GeForce Experience Application",
+        "category": "Video",
+        "importance": "critical",
+        "date": "2023-11-07T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10759837M/1/NVIDIA-GeForce-Experience-Application_TTGV3_WIN_30.0.14.7464_A00.EXE"
+    },
+    {
         "name": "Dell Command | Monitor",
         "category": "Systems Management",
         "importance": "critical",
@@ -40,20 +54,6 @@
         "importance": "critical",
         "date": "2023-08-09T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER10276757M/1/OptiPlex_7060_1.26.0.exe"
-    },
-    {
-        "name": "NVIDIA GeForce Experience Application",
-        "category": "Video",
-        "importance": "critical",
-        "date": "2023-08-09T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10223166M/1/NVIDIA-GeForce-Experience-Application_0Y9VV_WIN_30.0.14.7444_A00.EXE"
-    },
-    {
-        "name": "NVIDIA GeForce Desktop GT 730 DCH Graphics Driver",
-        "category": "Video",
-        "importance": "critical",
-        "date": "2023-08-09T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10223112M/1/NVIDIA-GeForce-Desktop-GT-730-DCH-Graphics-Driver_M88CW_WIN64_30.0.14.7444_A00.EXE"
     },
     {
         "name": "Intel Management Engine Components Installer",
@@ -154,6 +154,13 @@
         "url": "https://dl.dell.com/FOLDER05468362M/11/Toshiba%20KBG30ZMS128G_KBG30ZMS256G_KBG30ZMS512G%20JYNRC_ZPE.exe"
     },
     {
+        "name": "Trusted Device Agent",
+        "category": "Trusted Device Security",
+        "importance": "recommended",
+        "date": "2023-11-06T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10798303M/1/Trusted-Device-Agent_H7T40_WIN_5.10.9.0_A52.EXE"
+    },
+    {
         "name": "Dell Command | Update Windows Universal Application",
         "category": "Systems Management",
         "importance": "recommended",
@@ -166,13 +173,6 @@
         "importance": "recommended",
         "date": "2023-10-31T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER10791703M/1/Dell-Command-Update-Application_44TH5_WIN_5.1.0_A00.EXE"
-    },
-    {
-        "name": "Trusted Device Agent",
-        "category": "Trusted Device Security",
-        "importance": "recommended",
-        "date": "2023-10-03T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10654803M/1/Trusted-Device-Agent_RN4V4_WIN_5.9.8.0_A51.EXE"
     },
     {
         "name": "Dell/Alienware Digital Delivery Application",

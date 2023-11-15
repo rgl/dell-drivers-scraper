@@ -1,5 +1,19 @@
 [
     {
+        "name": "Dell OptiPlex 7060 System BIOS",
+        "category": "BIOS",
+        "importance": "critical",
+        "date": "2023-11-10T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10566638M/1/OptiPlex_7060_1.27.0.exe"
+    },
+    {
+        "name": "Intel 9560/9260/7265/3165 Wi-Fi Driver",
+        "category": "Network, Ethernet & Wireless",
+        "importance": "critical",
+        "date": "2023-11-09T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10449542M/2/Intel-9560-9260-7265-3165-Wi-Fi-Driver_YXY5R_WIN_22.250.0.4_A33.EXE"
+    },
+    {
         "name": "NVIDIA GeForce Desktop GT 730 DCH Graphics Driver",
         "category": "Video",
         "importance": "critical",
@@ -49,13 +63,6 @@
         "url": "https://dl.dell.com/FOLDER05033497M/5/Intel-Wireless-9260-9560-18265-8265-7265-3165-Bluetooth_1CC7N_WIN_20.60.1_A22_01.EXE"
     },
     {
-        "name": "Dell OptiPlex 7060 System BIOS",
-        "category": "BIOS",
-        "importance": "critical",
-        "date": "2023-08-09T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10276757M/1/OptiPlex_7060_1.26.0.exe"
-    },
-    {
         "name": "Intel Management Engine Components Installer",
         "category": "Chipset",
         "importance": "critical",
@@ -77,13 +84,6 @@
         "url": "https://dl.dell.com/FOLDER10140261M/6/Intel-Chipset-Device-Software_RVRV0_WIN_10.1.19468.8385_A23_05.EXE"
     },
     {
-        "name": "Intel 9560/9260/8265/7265/3165 Wi-Fi Driver",
-        "category": "Network, Ethernet & Wireless",
-        "importance": "critical",
-        "date": "2023-05-23T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09781514M/3/Intel-9560-9260-8265-7265-3165-Wi-Fi-Driver_27H29_WIN_22.200.2.1_A32_02.EXE"
-    },
-    {
         "name": "Intel Rapid Storage Technology Driver",
         "category": "Storage",
         "importance": "critical",
@@ -96,13 +96,6 @@
         "importance": "critical",
         "date": "2022-12-13T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER09186790M/2/NVIDIA-GeForce-Desktop-GT-730-HSA-Application-Installer_Y6X99_WIN64_8.1.963.0_A00_01.EXE"
-    },
-    {
-        "name": "Qualcomm QCA61x4A/QCA6174A-XR/QCA9377 Wi-Fi and Bluetooth Driver",
-        "category": "Network, Ethernet & Wireless",
-        "importance": "critical",
-        "date": "2022-09-14T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER08756263M/7/Qualcomm-QCA61x4A-QCA6174A-XR-QCA9377-Wi-Fi-and-Bluetooth_GPK9J_WIN_12.0.0.1258_A37_05.EXE"
     },
     {
         "name": "Intel I210 NIC Card Firmware Update Utility",
@@ -154,6 +147,13 @@
         "url": "https://dl.dell.com/FOLDER05468362M/11/Toshiba%20KBG30ZMS128G_KBG30ZMS256G_KBG30ZMS512G%20JYNRC_ZPE.exe"
     },
     {
+        "name": "Intel 9560/9260/7265/3165 Bluetooth UWD Driver",
+        "category": "Network, Ethernet & Wireless",
+        "importance": "recommended",
+        "date": "2023-11-09T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10658918M/2/Intel-9560-9260-7265-3165-Bluetooth-UWD-Driver_JJTCC_WIN64_22.250.0.2_A37.EXE"
+    },
+    {
         "name": "Trusted Device Agent",
         "category": "Trusted Device Security",
         "importance": "recommended",
@@ -196,6 +196,13 @@
         "url": "https://dl.dell.com/FOLDER10027361M/2/Intel-Manageability-and-Security-Status-Application_WDP64_WIN64_2316.5.0.0_A06_01.EXE"
     },
     {
+        "name": "Qualcomm QCA61x4A/QCA6174A-XR/QCA9377 Wi-Fi and Bluetooth Driver",
+        "category": "Network, Ethernet & Wireless",
+        "importance": "recommended",
+        "date": "2023-07-07T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10006678M/4/Qualcomm-QCA61x4A-QCA6174A-XR-QCA9377-Wi-Fi-and-Bluetooth_GCMRG_WIN64_12.0.0.1272_A38_02.EXE"
+    },
+    {
         "name": "Toshiba MQ01ACF050 Hard Drive Firmware Update",
         "category": "Storage",
         "importance": "recommended",
@@ -208,13 +215,6 @@
         "importance": "recommended",
         "date": "2023-06-13T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER10035701M/3/Dell-Watchdog-Timer-Driver_RWM04_WIN_1.2.1.0_A01_01.EXE"
-    },
-    {
-        "name": "Intel 9560/9260/8265/7265/3165 Bluetooth UWD Driver",
-        "category": "Network, Ethernet & Wireless",
-        "importance": "recommended",
-        "date": "2023-05-23T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09785193M/4/Intel-9560-9260-8265-7265-3165-Bluetooth-UWD-Driver_9DK96_WIN64_22.200.0.2_A36_03.EXE"
     },
     {
         "name": "Dell Encryption",

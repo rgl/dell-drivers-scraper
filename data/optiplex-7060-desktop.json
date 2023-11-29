@@ -315,13 +315,6 @@
         "url": "https://dl.dell.com/FOLDER08485336M/2/Intel%20SSDPEKKF256G8_SSDPEKKF512G8_SSDPEKKF010T8%208TV61_ZPE.exe"
     },
     {
-        "name": "Dell System Firmware Update Utility 64 Bit (for IT use only)",
-        "category": "System Utilities",
-        "importance": "recommended",
-        "date": "2022-04-08T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER08405216M/1/Ver3.3.16.zip"
-    },
-    {
         "name": "Dell Command | Integration Suite for System Center",
         "category": "Systems Management",
         "importance": "recommended",
@@ -824,6 +817,13 @@
         "importance": "recommended",
         "date": "2018-05-15T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER04855931M/3/Dell-Watch-Dog-Timer-Application_PPVGJ_WIN64_1.0.0_A00.EXE"
+    },
+    {
+        "name": "Dell System Firmware Update Utility 64 Bit (For IT Use Only)",
+        "category": "System Utilities",
+        "importance": "optional",
+        "date": "2023-11-27T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10855396M/1/Flash64W_Ver3.3.22.zip"
     },
     {
         "name": "Dell Command | Deploy Driver Pack",

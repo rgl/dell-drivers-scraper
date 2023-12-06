@@ -42,13 +42,6 @@
         "url": "https://dl.dell.com/FOLDER10779058M/1/Dell-Command-Integration-Suite-for-System-Center_RMCDR_WIN_6.5.0_A00.EXE"
     },
     {
-        "name": "Dell Command | Intel vPro Out of Band",
-        "category": "Systems Management",
-        "importance": "critical",
-        "date": "2023-10-31T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10779019M/1/Dell-Command-Intel-vPro-Out-of-Band_TTRDC_WIN_4.5.0_A00.EXE"
-    },
-    {
         "name": "Dell Command | Configure Application",
         "category": "Systems Management",
         "importance": "critical",
@@ -82,6 +75,13 @@
         "importance": "critical",
         "date": "2023-06-13T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER10140261M/6/Intel-Chipset-Device-Software_RVRV0_WIN_10.1.19468.8385_A23_05.EXE"
+    },
+    {
+        "name": "Dell Command | Intel vPro Out of Band",
+        "category": "Systems Management",
+        "importance": "critical",
+        "date": "2023-03-28T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER09797762M/2/Dell-Command-Intel-vPro-Out-of-Band_8N9GH_WIN_4.4.1_A00_01.EXE"
     },
     {
         "name": "Intel Rapid Storage Technology Driver",

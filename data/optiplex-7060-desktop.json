@@ -137,7 +137,7 @@
         "category": "Network, Ethernet & Wireless",
         "importance": "critical",
         "date": "2019-11-15T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER05877897M/3/Intel-PCIe-Ethernet-Network-Driver_VP20T_WIN_24.1.0.0_A13_02.EXE"
+        "url": "https://dl.dell.com/FOLDER05877897M/5/Intel-PCIe-Ethernet-Network-Driver_VP20T_WIN_24.1.0.0_A13_04.EXE"
     },
     {
         "name": "Toshiba Solid State Drive Firmware Update for KBG30ZMS128G/KBG30ZMS256G/KBG30ZMS512G",
@@ -389,7 +389,7 @@
         "category": "Application",
         "importance": "recommended",
         "date": "2021-06-01T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER07223207M/2/Intel-Unite-Hub-Application_H14K6_WIN_4.2.25031.51_A00_01.EXE"
+        "url": "https://dl.dell.com/FOLDER07223207M/3/Intel-Unite-Hub-Application_H14K6_WIN_4.2.25031.51_A00_02.EXE"
     },
     {
         "name": "Intel Unite CAB File Component",
@@ -480,7 +480,7 @@
         "category": "Network, Ethernet & Wireless",
         "importance": "recommended",
         "date": "2020-11-03T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER06419811M/2/Aquantia-5G-Network-Add-in-Card-Driver_VNMX8_WIN_2.1.21.0_A06_01.EXE"
+        "url": "https://dl.dell.com/FOLDER06419811M/3/Aquantia-5G-Network-Add-in-Card-Driver_VNMX8_WIN_2.1.21.0_A06_02.EXE"
     },
     {
         "name": "SK Hynix BC501A Solid State Drive Firmware Update",
@@ -697,7 +697,7 @@
         "category": "Modem/Communications",
         "importance": "recommended",
         "date": "2019-03-28T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER05339584M/4/Sunix-Serial-and-Parallel-Card-Driver_30C7H_WIN_9.0.4.0_A07_01.EXE"
+        "url": "https://dl.dell.com/FOLDER05339584M/5/Sunix-Serial-and-Parallel-Card-Driver_30C7H_WIN_9.0.4.0_A07_02.EXE"
     },
     {
         "name": "SK Hynix PC401 256 GB/512 GB/1 TB PCIe NVMe Solid-State Drive Firmware Update",
@@ -781,7 +781,7 @@
         "category": "Chipset",
         "importance": "recommended",
         "date": "2018-07-23T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER04991713M/9/Intel-Thunderbolt-Controller-Driver_D8XXT_WIN_17.4.76.300_A09_05.EXE"
+        "url": "https://dl.dell.com/FOLDER04991713M/10/Intel-Thunderbolt-Controller-Driver_D8XXT_WIN_17.4.76.300_A09_06.EXE"
     },
     {
         "name": "HGST Jaguar C Series Hard Disk Firmware Update",
@@ -795,7 +795,7 @@
         "category": "Video",
         "importance": "recommended",
         "date": "2018-05-23T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER04980209M/5/AMD-Radeon-R5-430-RX-550-Graphics-Driver_H87XJ_WIN_17.400.2815_A01_01.EXE"
+        "url": "https://dl.dell.com/FOLDER04980209M/6/AMD-Radeon-R5-430-RX-550-Graphics-Driver_H87XJ_WIN_17.400.2815_A01_02.EXE"
     },
     {
         "name": "USB Type-C Status Display Application",

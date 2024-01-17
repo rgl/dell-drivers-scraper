@@ -301,13 +301,6 @@
         "url": "https://dl.dell.com/FOLDER08486339M/1/Intel-Solid-State-Drive-Firmware-Update-for-SSDPEMKF256G8-SSDPEMKF512G8-SSDPEMKF010T8_JGNCW_WIN64_7005.0000_A00.EXE"
     },
     {
-        "name": "Toshiba MQ01ACF050 Hard Drive Firmware Update",
-        "category": "Storage",
-        "importance": "recommended",
-        "date": "2022-05-20T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER08534790M/4/Toshiba_MQ01ACF050_AV007D_W04VM_ZPE.exe"
-    },
-    {
         "name": "Intel Solid State Drive Firmware Update for SSDPEKKF256G8/SSDPEKKF512G8/SSDPEKKF010T8",
         "category": "Storage",
         "importance": "recommended",

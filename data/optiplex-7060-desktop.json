@@ -3,8 +3,8 @@
         "name": "Dell TPM 2.0 Firmware Update Utility",
         "category": "Security",
         "importance": "critical",
-        "date": "2023-12-14T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10670839M/1/DELLTPM_NPCT750_7.2.2.0_64_v3.exe"
+        "date": "2024-01-22T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER11145802M/1/DELLTPM_NPCT750_7.2.2.0_64_v3.exe"
     },
     {
         "name": "NVIDIA GeForce GT 10xx/GTX 1xx0/RTX x0x0 Graphics Driver",

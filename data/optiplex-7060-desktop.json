@@ -42,25 +42,11 @@
         "url": "https://dl.dell.com/FOLDER10759837M/1/NVIDIA-GeForce-Experience-Application_TTGV3_WIN_30.0.14.7464_A00.EXE"
     },
     {
-        "name": "Dell Command | Monitor",
-        "category": "Systems Management",
-        "importance": "critical",
-        "date": "2023-10-31T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10766945M/1/Dell-Command-Monitor_94WK2_WIN_10.10.0.39_A00.EXE"
-    },
-    {
         "name": "Dell Command | Integration Suite for System Center",
         "category": "Systems Management",
         "importance": "critical",
         "date": "2023-10-31T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER10779058M/1/Dell-Command-Integration-Suite-for-System-Center_RMCDR_WIN_6.5.0_A00.EXE"
-    },
-    {
-        "name": "Dell Command | Configure Application",
-        "category": "Systems Management",
-        "importance": "critical",
-        "date": "2023-10-27T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10718959M/1/Dell-Command-Configure-Application_5WCHH_WIN_4.11.0.70_A00.EXE"
     },
     {
         "name": "Intel Wireless 9260/9560/18265/8265/7265/3165 Bluetooth Driver",
@@ -145,6 +131,20 @@
         "importance": "critical",
         "date": "2019-02-21T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER05468362M/11/Toshiba%20KBG30ZMS128G_KBG30ZMS256G_KBG30ZMS512G%20JYNRC_ZPE.exe"
+    },
+    {
+        "name": "Dell Command | Configure Application",
+        "category": "Systems Management",
+        "importance": "recommended",
+        "date": "2024-01-30T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER11153351M/1/Dell-Command-Configure-Application_TJ7VC_WIN_4.11.1.48_A00.EXE"
+    },
+    {
+        "name": "Dell Command | Monitor",
+        "category": "Systems Management",
+        "importance": "recommended",
+        "date": "2024-01-29T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER11078318M/1/Dell-Command-Monitor_KF06N_WIN_10.10.1.13_A00.EXE"
     },
     {
         "name": "Trusted Device Agent",
@@ -431,7 +431,7 @@
         "category": "Chipset",
         "importance": "recommended",
         "date": "2021-03-25T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER07040787M/5/Intel-Management-Engine-Components-Installer_J6JHK_WIN_2103.15.0.2135_A07_02.EXE"
+        "url": "https://dl.dell.com/FOLDER07040787M/6/Intel-Management-Engine-Components-Installer_J6JHK_WIN_2103.15.0.2135_A07_03.EXE"
     },
     {
         "name": "LiteOn Solid State Drive Firmware Update for CAZ-82256-Q11/CAZ-82512-Q11",

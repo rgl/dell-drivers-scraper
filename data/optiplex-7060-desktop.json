@@ -1,5 +1,33 @@
 [
     {
+        "name": "Dell OptiPlex 7060 System BIOS",
+        "category": "BIOS",
+        "importance": "critical",
+        "date": "2024-02-05T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10987143M/1/OptiPlex_7060_1.28.0.exe"
+    },
+    {
+        "name": "Dell Command | Integration Suite for System Center",
+        "category": "Systems Management",
+        "importance": "critical",
+        "date": "2024-01-31T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER11164890M/1/Dell-Command-Integration-Suite-for-System-Center_KR54T_WIN_6.5.1_A00.EXE"
+    },
+    {
+        "name": "Dell Command | Intel vPro Out of Band",
+        "category": "Systems Management",
+        "importance": "critical",
+        "date": "2024-01-31T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER11165504M/1/Dell-Command-Intel-vPro-Out-of-Band_3CXKM_WIN_4.5.1_A00.EXE"
+    },
+    {
+        "name": "Intel Management Engine Components Installer",
+        "category": "Chipset",
+        "importance": "critical",
+        "date": "2024-01-29T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10938937M/2/Intel-Management-Engine-Components-Installer_7FHFF_WIN64_2345.5.42.0_A13.EXE"
+    },
+    {
         "name": "Dell TPM 2.0 Firmware Update Utility",
         "category": "Security",
         "importance": "critical",
@@ -12,13 +40,6 @@
         "importance": "critical",
         "date": "2023-12-12T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER10824768M/1/NVIDIA-GeForce-GT-10xx-GTX-1xx0-RTX-x0x0-Graphics_6JGD6_WIN64_31.0.15.4609_A00.EXE"
-    },
-    {
-        "name": "Dell Command | Intel vPro Out of Band",
-        "category": "Systems Management",
-        "importance": "critical",
-        "date": "2023-12-11T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10779019M/2/Dell-Command-Intel-vPro-Out-of-Band_TTRDC_WIN_4.5.0_A00_01.EXE"
     },
     {
         "name": "Intel 9560/9260/7265/3165 Wi-Fi Driver",
@@ -42,25 +63,11 @@
         "url": "https://dl.dell.com/FOLDER10759837M/1/NVIDIA-GeForce-Experience-Application_TTGV3_WIN_30.0.14.7464_A00.EXE"
     },
     {
-        "name": "Dell Command | Integration Suite for System Center",
-        "category": "Systems Management",
-        "importance": "critical",
-        "date": "2023-10-31T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10779058M/1/Dell-Command-Integration-Suite-for-System-Center_RMCDR_WIN_6.5.0_A00.EXE"
-    },
-    {
         "name": "Intel Wireless 9260/9560/18265/8265/7265/3165 Bluetooth Driver",
         "category": "Network, Ethernet & Wireless",
         "importance": "critical",
         "date": "2023-09-21T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER05033497M/6/Intel-Wireless-9260-9560-18265-8265-7265-3165-Bluetooth_1CC7N_WIN_20.60.1_A22_02.EXE"
-    },
-    {
-        "name": "Intel Management Engine Components Installer",
-        "category": "Chipset",
-        "importance": "critical",
-        "date": "2023-08-08T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10062450M/5/Intel-Management-Engine-Components-Installer_CTKVW_WIN64_2313.4.16.0_A12_02.EXE"
     },
     {
         "name": "Intel Chipset Device Software",
@@ -133,6 +140,27 @@
         "url": "https://dl.dell.com/FOLDER05468362M/11/Toshiba%20KBG30ZMS128G_KBG30ZMS256G_KBG30ZMS512G%20JYNRC_ZPE.exe"
     },
     {
+        "name": "Trusted Device Agent",
+        "category": "Trusted Device Security",
+        "importance": "recommended",
+        "date": "2024-02-05T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER11086141M/1/Trusted-Device-Agent_3KW64_WIN_6.1.2.0_A55.EXE"
+    },
+    {
+        "name": "Dell Command | Update Windows Universal Application",
+        "category": "Systems Management",
+        "importance": "recommended",
+        "date": "2024-01-31T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER11201586M/1/Dell-Command-Update-Windows-Universal-Application_0XNVX_WIN_5.2.0_A00.EXE"
+    },
+    {
+        "name": "Dell Command | Update Application",
+        "category": "Systems Management",
+        "importance": "recommended",
+        "date": "2024-01-31T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER11201514M/1/Dell-Command-Update-Application_4R78G_WIN_5.2.0_A00.EXE"
+    },
+    {
         "name": "Dell Command | Configure Application",
         "category": "Systems Management",
         "importance": "recommended",
@@ -147,18 +175,11 @@
         "url": "https://dl.dell.com/FOLDER11078318M/1/Dell-Command-Monitor_KF06N_WIN_10.10.1.13_A00.EXE"
     },
     {
-        "name": "Trusted Device Agent",
-        "category": "Trusted Device Security",
+        "name": "Intel Manageability and Security Status Application",
+        "category": "Chipset",
         "importance": "recommended",
-        "date": "2024-01-08T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER11011099M/1/Trusted-Device-Agent_950HY_WIN_6.0.2.0_A54.EXE"
-    },
-    {
-        "name": "Dell OptiPlex 7060 System BIOS",
-        "category": "BIOS",
-        "importance": "recommended",
-        "date": "2023-11-10T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10566638M/1/OptiPlex_7060_1.27.0.exe"
+        "date": "2024-01-11T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10692726M/1/Intel-Manageability-and-Security-Status-Application_V5TY6_WIN64_2328.5.2.0_A07.EXE"
     },
     {
         "name": "Intel 9560/9260/7265/3165 Bluetooth UWD Driver",
@@ -168,32 +189,11 @@
         "url": "https://dl.dell.com/FOLDER10658918M/2/Intel-9560-9260-7265-3165-Bluetooth-UWD-Driver_JJTCC_WIN64_22.250.0.2_A37.EXE"
     },
     {
-        "name": "Dell Command | Update Windows Universal Application",
-        "category": "Systems Management",
-        "importance": "recommended",
-        "date": "2023-10-31T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10791716M/1/Dell-Command-Update-Windows-Universal-Application_JCVW3_WIN_5.1.0_A00.EXE"
-    },
-    {
-        "name": "Dell Command | Update Application",
-        "category": "Systems Management",
-        "importance": "recommended",
-        "date": "2023-10-31T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10791703M/1/Dell-Command-Update-Application_44TH5_WIN_5.1.0_A00.EXE"
-    },
-    {
         "name": "Dell/Alienware Digital Delivery Application",
         "category": "Application",
         "importance": "recommended",
         "date": "2023-08-31T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER10549847M/1/Dell-Alienware-Digital-Delivery-Application_X8K2N_WIN_5.0.82.0_A25.EXE"
-    },
-    {
-        "name": "Intel Manageability and Security Status Application",
-        "category": "Chipset",
-        "importance": "recommended",
-        "date": "2023-07-07T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10027361M/2/Intel-Manageability-and-Security-Status-Application_WDP64_WIN64_2316.5.0.0_A06_01.EXE"
     },
     {
         "name": "Qualcomm QCA61x4A/QCA6174A-XR/QCA9377 Wi-Fi and Bluetooth Driver",

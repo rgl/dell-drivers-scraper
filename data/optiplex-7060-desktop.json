@@ -46,7 +46,7 @@
         "category": "Network, Ethernet & Wireless",
         "importance": "critical",
         "date": "2023-11-09T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10449542M/2/Intel-9560-9260-7265-3165-Wi-Fi-Driver_YXY5R_WIN_22.250.0.4_A33.EXE"
+        "url": "https://dl.dell.com/FOLDER10449542M/3/Intel-9560-9260-7265-3165-Wi-Fi-Driver_YXY5R_WIN_22.250.0.4_A33_01.EXE"
     },
     {
         "name": "NVIDIA GeForce Desktop GT 730 DCH Graphics Driver",
@@ -74,14 +74,14 @@
         "category": "Chipset",
         "importance": "critical",
         "date": "2023-06-13T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10140261M/6/Intel-Chipset-Device-Software_RVRV0_WIN_10.1.19468.8385_A23_05.EXE"
+        "url": "https://dl.dell.com/FOLDER10140261M/7/Intel-Chipset-Device-Software_RVRV0_WIN_10.1.19468.8385_A23_06.EXE"
     },
     {
         "name": "Intel Rapid Storage Technology Driver",
         "category": "Storage",
         "importance": "critical",
         "date": "2023-02-13T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09493226M/3/Intel-Rapid-Storage-Technology-Driver_1CM7K_WIN64_17.11.3.1010_A07_01.EXE"
+        "url": "https://dl.dell.com/FOLDER09493226M/4/Intel-Rapid-Storage-Technology-Driver_1CM7K_WIN64_17.11.3.1010_A07_02.EXE"
     },
     {
         "name": "NVIDIA GeForce Desktop GT 730 HSA Application Installer",
@@ -193,7 +193,7 @@
         "category": "Application",
         "importance": "recommended",
         "date": "2023-08-31T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10549847M/1/Dell-Alienware-Digital-Delivery-Application_X8K2N_WIN_5.0.82.0_A25.EXE"
+        "url": "https://dl.dell.com/FOLDER10549847M/2/Dell-Alienware-Digital-Delivery-Application_X8K2N_WIN_5.0.82.0_A25_01.EXE"
     },
     {
         "name": "Qualcomm QCA61x4A/QCA6174A-XR/QCA9377 Wi-Fi and Bluetooth Driver",
@@ -228,7 +228,7 @@
         "category": "Chipset",
         "importance": "recommended",
         "date": "2023-03-25T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09538382M/3/Intel-Thunderbolt-Controller-Driver_TBTB8_WIN_1.41.1353.0_A16_02.EXE"
+        "url": "https://dl.dell.com/FOLDER09538382M/4/Intel-Thunderbolt-Controller-Driver_TBTB8_WIN_1.41.1353.0_A16_03.EXE"
     },
     {
         "name": "NVIDIA GeForce GT 10xx/GTX 1xx0/RTX x0x0 Graphics Driver",
@@ -249,7 +249,7 @@
         "category": "Storage",
         "importance": "recommended",
         "date": "2022-08-10T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER08800672M/1/Samsung-PM991-Solid-State-Drive-Firmware-Update_38VKT_WIN64_2531.1039_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER08800672M/2/Samsung-PM991-Solid-State-Drive-Firmware-Update_38VKT_WIN64_2531.1039_A00_01.EXE"
     },
     {
         "name": "AMD Radeon R550/R540/RX 640/RX 550 Graphics Driver",
@@ -263,28 +263,28 @@
         "category": "Storage",
         "importance": "recommended",
         "date": "2022-07-20T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER08616140M/1/Samsung-PM981a-512GB-and-1TB-SED-Solid-State-Drive_YF6KT_WIN64_1530.5629_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER08616140M/2/Samsung-PM981a-512GB-and-1TB-SED-Solid-State-Drive_YF6KT_WIN64_1530.5629_A00_01.EXE"
     },
     {
         "name": "Samsung PM981a 2TB Solid State Drive Firmware Update",
         "category": "Storage",
         "importance": "recommended",
         "date": "2022-07-20T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER08616147M/1/Samsung-PM981a-2TB-Solid-State-Drive-Firmware-Update_35H12_WIN64_1530.3229_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER08616147M/2/Samsung-PM981a-2TB-Solid-State-Drive-Firmware-Update_35H12_WIN64_1530.3229_A00_01.EXE"
     },
     {
         "name": "Samsung PM981a 512GB and 1TB Solid State Drive Firmware Update",
         "category": "Storage",
         "importance": "recommended",
         "date": "2022-07-20T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER08616185M/1/Samsung-PM981a-512GB-and-1TB-Solid-State-Drive-Firmware_G4GWG_WIN64_1530.5129_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER08616185M/2/Samsung-PM981a-512GB-and-1TB-Solid-State-Drive-Firmware_G4GWG_WIN64_1530.5129_A00_01.EXE"
     },
     {
         "name": "Samsung PM981a 256GB Solid State Drive Firmware Update",
         "category": "Storage",
         "importance": "recommended",
         "date": "2022-07-20T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER08642564M/3/Samsung-PM981a-256GB-Solid-State-Drive-Firmware-Update_HVPC3_WIN64_1530.5029_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER08642564M/4/Samsung-PM981a-256GB-Solid-State-Drive-Firmware-Update_HVPC3_WIN64_1530.5029_A00_01.EXE"
     },
     {
         "name": "Intel UHD/Iris Plus Graphics Driver",
@@ -298,7 +298,7 @@
         "category": "Storage",
         "importance": "recommended",
         "date": "2022-05-20T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER08486339M/1/Intel-Solid-State-Drive-Firmware-Update-for-SSDPEMKF256G8-SSDPEMKF512G8-SSDPEMKF010T8_JGNCW_WIN64_7005.0000_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER08486339M/2/Intel-Solid-State-Drive-Firmware-Update-for-SSDPEMKF256G8-SSDPEMKF512G8-SSDPEMKF010T8_JGNCW_WIN64_7005.0000_A00_01.EXE"
     },
     {
         "name": "Intel Solid State Drive Firmware Update for SSDPEKKF256G8/SSDPEKKF512G8/SSDPEKKF010T8",
@@ -312,14 +312,14 @@
         "category": "Systems Management",
         "importance": "recommended",
         "date": "2022-02-28T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER08257584M/1/Dell-Command-Integration-Suite-for-System-Center_5MJDP_WIN_6.0.1_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER08257584M/2/Dell-Command-Integration-Suite-for-System-Center_5MJDP_WIN_6.0.1_A00_01.EXE"
     },
     {
         "name": "Dell Command | Intel vPro Out of Band",
         "category": "Systems Management",
         "importance": "recommended",
         "date": "2022-02-28T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER08249363M/1/Dell-Command-Intel-vPro-Out-of-Band_99T5W_WIN_4.0.1_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER08249363M/2/Dell-Command-Intel-vPro-Out-of-Band_99T5W_WIN_4.0.1_A00_01.EXE"
     },
     {
         "name": "AMD Radeon R5 430 Graphics Driver",
@@ -333,21 +333,21 @@
         "category": "Video",
         "importance": "recommended",
         "date": "2021-12-20T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER08012901M/1/AMD-Radeon-550-540-and-RX640-Graphics-Driver_RMP33_WIN64_30.0.13002.12003_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER08012901M/2/AMD-Radeon-R550-R540-RX-640-RX-550-Graphics-Driver_RMP33_WIN64_30.0.13002.12003_A00_01.EXE"
     },
     {
         "name": "Western Digital Corp SN730 PCIe NVMe Solid-State Drive Firmware Update",
         "category": "Storage",
         "importance": "recommended",
         "date": "2021-09-29T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER07700894M/2/Western-Digital-Corp-SN730-PCIe-NVMe-Solid-State_WVWCD_WIN64_1117.0012_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER07700894M/3/Western-Digital-Corp-SN730-PCIe-NVMe-Solid-State_WVWCD_WIN64_1117.0012_A00_01.EXE"
     },
     {
         "name": "SSSTC CL1-3D512-Q11 Solid-State Drive Firmware Update",
         "category": "Storage",
         "importance": "recommended",
         "date": "2021-08-06T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER07590403M/1/SSSTC-Solid-State-Drive-Firmware-Update-for-CL1-3D512-Q11_34W2V_WIN_2232.1116_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER07590403M/2/SSSTC-CL1-3D512-Q11-Solid-State-Drive-Firmware-Update_34W2V_WIN_2232.1116_A00_01.EXE"
     },
     {
         "name": "Intel Unite Add-in Application for Outlook",
@@ -410,14 +410,14 @@
         "category": "Storage",
         "importance": "recommended",
         "date": "2021-05-07T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER07324081M/1/Micron-2200S-PCIe-NVMe-Solid-State-Drive-Firmware_3JG3G_WIN64_2200.1070_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER07324081M/2/Micron-2200S-PCIe-NVMe-Solid-State-Drive-Firmware_3JG3G_WIN64_2200.1070_A00_01.EXE"
     },
     {
-        "name": "Toshiba Solid-State Drive Firmware Update for KBG40ZNS128G/KBG40ZNS256G/KBG40ZNS512G/KBG40ZNS1T02",
+        "name": "Toshiba Solid State Drive Firmware Update for KBG40ZNS128G/KBG40ZNS256G/KBG40ZNS512G/KBG40ZNS1T02",
         "category": "Storage",
         "importance": "recommended",
         "date": "2021-04-29T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER07278768M/1/Toshiba-Solid-state-Drive-Firmware-Update-for-KBG40ZNS128G-KBG40ZNS256G-KBG40ZNS512G-KBG40ZNS1T02_TKNM3_WIN64_1041.106_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER07278768M/2/Toshiba-Solid-State-Drive-Firmware-Update-for-KBG40ZNS128G-KBG40ZNS256G-KBG40ZNS512G-KBG40ZNS1T02_TKNM3_WIN64_1041.0106_A00_01.EXE"
     },
     {
         "name": "Intel I210/I350/X540/X550/X710 NIC Driver",
@@ -438,21 +438,21 @@
         "category": "Storage",
         "importance": "recommended",
         "date": "2021-03-17T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER07151533M/1/LiteOn-Solid-State-Drive-Firmware-Update-for-CAZ-82256-Q11-CAZ-82512-Q11_0N4C4_WIN_2320.1112_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER07151533M/2/LiteOn-Solid-State-Drive-Firmware-Update-for-CAZ-82256-Q11-CAZ-82512-Q11_0N4C4_WIN_2320.1112_A00_01.EXE"
     },
     {
         "name": "SSSTC Solid State Drive Firmware Update for CL1-3D128-Q11/CL1-3D256-Q11/CL1-3D512-Q11",
         "category": "Storage",
         "importance": "recommended",
         "date": "2021-03-16T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER07135465M/1/SSSTC-Solid-State-Drive-Firmware-Update-for-CL1-3D128-Q11-CL1-3D256-Q1-CL1-3D512-Q11_6V736_WIN_2232.1114_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER07135465M/2/SSSTC-Solid-State-Drive-Firmware-Update-for-CL1-3D128-Q11-CL1-3D256-Q11-CL1-3D512-Q11_6V736_WIN_2232.1114_A00_01.EXE"
     },
     {
         "name": "Seagate ST2000DM008 Hard Drive Firmware Update",
         "category": "Storage",
         "importance": "recommended",
         "date": "2021-02-25T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER07053241M/1/Seagate-ST2000DM008-Hard-Drive-Firmware-Update_PVYTW_WIN64_0.1003_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER07053241M/2/Seagate-ST2000DM008-Hard-Drive-Firmware-Update_PVYTW_WIN64_0.1003_A00_01.EXE"
     },
     {
         "name": "Sunix Serial and Parallel Card Driver",
@@ -466,7 +466,7 @@
         "category": "Storage",
         "importance": "recommended",
         "date": "2020-12-22T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER06881367M/1/SK-Hynix-BC511-Solid-State-Drive-Firmware-Update_467K0_WIN64_1100.4101_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER06881367M/2/SK-Hynix-BC511-Solid-State-Drive-Firmware-Update_467K0_WIN64_1100.4101_A00_01.EXE"
     },
     {
         "name": "Aquantia 5G Network Add-in Card Driver",
@@ -480,7 +480,7 @@
         "category": "Storage",
         "importance": "recommended",
         "date": "2020-09-29T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER06609869M/1/SK-Hynix-BC501A-Solid-State-Drive-Firmware-Update_3R41W_WIN64_8000.2101_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER06609869M/2/SK-Hynix-BC501A-Solid-State-Drive-Firmware-Update_3R41W_WIN64_8000.2101_A00_01.EXE"
     },
     {
         "name": "Dell Watchdog Timer Application",
@@ -501,7 +501,7 @@
         "category": "Storage",
         "importance": "recommended",
         "date": "2020-08-26T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER06525848M/1/Micron-2200-PCIe-NVMe-Solid-State-Drive-Firmware_FDR7F_WIN64_2200.0160_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER06525848M/2/Micron-2200-PCIe-NVMe-Solid-State-Drive-Firmware_FDR7F_WIN64_2200.0160_A00_01.EXE"
     },
     {
         "name": "Intel Rapid Storage Technology Application",
@@ -515,7 +515,7 @@
         "category": "Storage",
         "importance": "recommended",
         "date": "2020-06-01T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER06283207M/1/Western-Digital-Corp-SN520-Solid-state-Drive-Firmware_FFK91_WIN64_2024.0012_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER06283207M/2/Western-Digital-Corp-Solid-State-Drive-Firmware-Update_FFK91_WIN64_2024.0012_A00_01.EXE"
     },
     {
         "name": "SK Hynix Solid State Drive Firmware Update",
@@ -543,14 +543,14 @@
         "category": "Storage",
         "importance": "recommended",
         "date": "2020-04-03T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER06177787M/1/SK-Hynix-SC401-M2-Solid-state-Drive-Firmware-Update_56KC2_WIN64_9000.122_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER06177787M/2/SK-Hynix-Solid-State-Drive-Firmware-Update_56KC2_WIN64_9000.0122_A00_01.EXE"
     },
     {
         "name": "SK Hynix Solid State Drive Firmware Update",
         "category": "Storage",
         "importance": "recommended",
         "date": "2020-03-30T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER06177733M/1/SK-Hynix-SC401-25-Solid-State-Drive-Firmware-Update_13PNX_WIN64_9000.0122_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER06177733M/2/SK-Hynix-Solid-State-Drive-Firmware-Update_13PNX_WIN64_9000.0122_A00_01.EXE"
     },
     {
         "name": "Dell ControlVault2 Driver and Firmware",
@@ -606,28 +606,28 @@
         "category": "Storage",
         "importance": "recommended",
         "date": "2019-10-14T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER05846240M/1/Toshiba-Solid-state-Drive-Firmware-Update-for-KXG60ZNV256G_7RY97_WIN64_1060.4106_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER05846240M/2/Toshiba-Solid-state-Drive-Firmware-Update-for-KXG60ZNV256G-KXG60ZNV512G-KXG60ZNV1T02_7RY97_WIN64_1060.4106_A00_01.EXE"
     },
     {
         "name": "Toshiba Solid-state Drive Firmware Update for KXG6AZNV256G/KXG6AZNV512G/KXG6AZNV1T02",
         "category": "Storage",
         "importance": "recommended",
         "date": "2019-10-07T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER05846242M/1/Toshiba-Solid-state-Drive-Firmware-Update-for-KXG6AZNV256G_4D69K_WIN64_1060.5105_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER05846242M/2/Toshiba-Solid-state-Drive-Firmware-Update-for-KXG6AZNV256G-KXG6AZNV512G-KXG6AZNV1T02_4D69K_WIN64_1060.5105_A00_01.EXE"
     },
     {
         "name": "Toshiba Solid-state Drive Firmware Update for KXG60PNV512G/KXG60PNV1T02/KXG60PNV2T04",
         "category": "Storage",
         "importance": "recommended",
         "date": "2019-10-07T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER05857365M/1/Toshiba-Solid-state-Drive-Firmware-Update-for-KXG60PNV512G_D79CH_WIN64_1070.4103_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER05857365M/2/Toshiba-Solid-state-Drive-Firmware-Update-for-KXG60PNV512G-KXG60PNV1T02-KXG60PNV2T04_D79CH_WIN64_1070.4103_A00_01.EXE"
     },
     {
         "name": "Micron Solid State Drive Firmware Update",
         "category": "Storage",
         "importance": "recommended",
         "date": "2019-09-03T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER05807799M/2/Micron-1300-Series-Solid-State-Drive-Firmware-Update_6J6FG_WIN64_1300.30_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER05807799M/3/Micron-Solid-State-Drive-Firmware-Update_6J6FG_WIN64_1300.0030_A00_01.EXE"
     },
     {
         "name": "Toshiba Solid State Drive Firmware Update for KXG5AZNV256G/KXG5AZNV512G/KXG5AZNV1T02",
@@ -837,7 +837,7 @@
         "category": "Application",
         "importance": "optional",
         "date": "2023-07-14T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10175351M/1/Dell-SupportAssist-OS-Recovery-Plugin-for-Dell-Update_WFVWJ_WIN_5.5.7.18773_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER10175351M/2/Dell-SupportAssist-OS-Recovery-Plugin-for-Dell-Update_WFVWJ_WIN_5.5.7.18773_A00_01.EXE"
     },
     {
         "name": "Dell Command | PowerShell Provider",

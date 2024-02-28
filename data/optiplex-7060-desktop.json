@@ -1,5 +1,19 @@
 [
     {
+        "name": "NVIDIA GeForce Desktop GT 730 DCH Graphics Driver",
+        "category": "Video",
+        "importance": "critical",
+        "date": "2024-02-22T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER11226268M/1/NVIDIA-GeForce-Desktop-GT-730-DCH-Graphics-Driver_0YYHP_WIN64_30.0.14.7480_A00.EXE"
+    },
+    {
+        "name": "NVIDIA GeForce Experience Application",
+        "category": "Video",
+        "importance": "critical",
+        "date": "2024-02-22T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER11164889M/1/NVIDIA-GeForce-Experience-Application_WPPG1_WIN_30.0.14.7480_A00.EXE"
+    },
+    {
         "name": "Dell OptiPlex 7060 System BIOS",
         "category": "BIOS",
         "importance": "critical",
@@ -47,20 +61,6 @@
         "importance": "critical",
         "date": "2023-11-09T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER10449542M/3/Intel-9560-9260-7265-3165-Wi-Fi-Driver_YXY5R_WIN_22.250.0.4_A33_01.EXE"
-    },
-    {
-        "name": "NVIDIA GeForce Desktop GT 730 DCH Graphics Driver",
-        "category": "Video",
-        "importance": "critical",
-        "date": "2023-11-07T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10759645M/1/NVIDIA-GeForce-Desktop-GT-730-DCH-Graphics-Driver_CXVVT_WIN64_30.0.14.7464_A00.EXE"
-    },
-    {
-        "name": "NVIDIA GeForce Experience Application",
-        "category": "Video",
-        "importance": "critical",
-        "date": "2023-11-07T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10759837M/1/NVIDIA-GeForce-Experience-Application_TTGV3_WIN_30.0.14.7464_A00.EXE"
     },
     {
         "name": "Intel Wireless 9260/9560/18265/8265/7265/3165 Bluetooth Driver",

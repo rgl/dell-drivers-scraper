@@ -143,8 +143,8 @@
         "name": "Trusted Device Agent",
         "category": "Trusted Device Security",
         "importance": "recommended",
-        "date": "2024-02-05T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER11086141M/1/Trusted-Device-Agent_3KW64_WIN_6.1.2.0_A55.EXE"
+        "date": "2024-03-04T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER11198338M/1/Trusted-Device-Agent_3X9D8_WIN_6.2.2.0_A56.EXE"
     },
     {
         "name": "Dell Command | Update Windows Universal Application",
@@ -187,13 +187,6 @@
         "importance": "recommended",
         "date": "2023-11-09T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER10658918M/2/Intel-9560-9260-7265-3165-Bluetooth-UWD-Driver_JJTCC_WIN64_22.250.0.2_A37.EXE"
-    },
-    {
-        "name": "Dell/Alienware Digital Delivery Application",
-        "category": "Application",
-        "importance": "recommended",
-        "date": "2023-08-31T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10549847M/2/Dell-Alienware-Digital-Delivery-Application_X8K2N_WIN_5.0.82.0_A25_01.EXE"
     },
     {
         "name": "Qualcomm QCA61x4A/QCA6174A-XR/QCA9377 Wi-Fi and Bluetooth Driver",
@@ -810,6 +803,13 @@
         "importance": "recommended",
         "date": "2018-05-15T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER04855931M/3/Dell-Watch-Dog-Timer-Application_PPVGJ_WIN64_1.0.0_A00.EXE"
+    },
+    {
+        "name": "Dell/Alienware Digital Delivery Application",
+        "category": "Application",
+        "importance": "optional",
+        "date": "2024-03-01T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER11313029M/1/Dell-Alienware-Digital-Delivery-Application_PM4WF_WIN_5.0.86.0_A26.EXE"
     },
     {
         "name": "Dell Command | Deploy WinPE 10.0 Driver Pack",

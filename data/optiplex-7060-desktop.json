@@ -140,6 +140,13 @@
         "url": "https://dl.dell.com/FOLDER05468362M/11/Toshiba%20KBG30ZMS128G_KBG30ZMS256G_KBG30ZMS512G%20JYNRC_ZPE.exe"
     },
     {
+        "name": "Dell Command | PowerShell Provider",
+        "category": "Systems Management",
+        "importance": "recommended",
+        "date": "2024-03-19T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER11394916M/1/DellCommandPowerShellProvider2.7.2_1.zip"
+    },
+    {
         "name": "Trusted Device Agent",
         "category": "Trusted Device Security",
         "importance": "recommended",
@@ -838,13 +845,6 @@
         "importance": "optional",
         "date": "2023-07-14T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER10175351M/2/Dell-SupportAssist-OS-Recovery-Plugin-for-Dell-Update_WFVWJ_WIN_5.5.7.18773_A00_01.EXE"
-    },
-    {
-        "name": "Dell Command | PowerShell Provider",
-        "category": "Systems Management",
-        "importance": "optional",
-        "date": "2022-10-31T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09043704M/1/DellCommandPowerShellProvider2.7.0_92.zip"
     },
     {
         "name": "Dell USB Smartcard Keyboard Driver",

@@ -189,6 +189,13 @@
         "url": "https://dl.dell.com/FOLDER10692726M/1/Intel-Manageability-and-Security-Status-Application_V5TY6_WIN64_2328.5.2.0_A07.EXE"
     },
     {
+        "name": "Dell Encryption",
+        "category": "Dell Data Security",
+        "importance": "recommended",
+        "date": "2024-01-11T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER11106601M/1/Dell-Encryption-11.9.0.3.zip"
+    },
+    {
         "name": "Intel 9560/9260/7265/3165 Bluetooth UWD Driver",
         "category": "Network, Ethernet & Wireless",
         "importance": "recommended",
@@ -215,13 +222,6 @@
         "importance": "recommended",
         "date": "2023-06-13T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER10035701M/3/Dell-Watchdog-Timer-Driver_RWM04_WIN_1.2.1.0_A01_01.EXE"
-    },
-    {
-        "name": "Dell Encryption",
-        "category": "Dell Data Security",
-        "importance": "recommended",
-        "date": "2023-05-12T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10017114M/1/Dell-Encryption-11.7.1.2.zip"
     },
     {
         "name": "Intel Thunderbolt Controller Driver",
@@ -810,6 +810,13 @@
         "importance": "recommended",
         "date": "2018-05-15T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER04855931M/3/Dell-Watch-Dog-Timer-Application_PPVGJ_WIN64_1.0.0_A00.EXE"
+    },
+    {
+        "name": "Dell Command | Endpoint Configure for Microsoft Intune",
+        "category": "Systems Management",
+        "importance": "optional",
+        "date": "2024-03-26T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER11392186M/1/Dell-Command-Endpoint-Configure-for-Microsoft-Intune_T88X8_WIN_1.2.0.76_A00.EXE"
     },
     {
         "name": "Dell/Alienware Digital Delivery Application",

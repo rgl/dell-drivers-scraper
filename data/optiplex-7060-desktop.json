@@ -1,5 +1,19 @@
 [
     {
+        "name": "NVIDIA GeForce GT 10xx/GTX 1xx0/RTX x0x0 Graphics Driver",
+        "category": "Video",
+        "importance": "critical",
+        "date": "2024-04-08T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER11333105M/1/NVIDIA-GeForce-GT-10xx-GTX-1xx0-RTX-x0x0-Graphics_F6JX6_WIN64_31.0.15.5168_A00.EXE"
+    },
+    {
+        "name": "Intel 9560/9260/7265/3165 Wi-Fi Driver",
+        "category": "Network, Ethernet & Wireless",
+        "importance": "critical",
+        "date": "2024-04-05T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER11133097M/3/Intel-9560-9260-7265-3165-Wi-Fi-Driver_6V5H7_WIN_23.20.1.1_A34_01.EXE"
+    },
+    {
         "name": "NVIDIA GeForce Desktop GT 730 DCH Graphics Driver",
         "category": "Video",
         "importance": "critical",
@@ -47,20 +61,6 @@
         "importance": "critical",
         "date": "2024-01-22T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER11145802M/1/DELLTPM_NPCT750_7.2.2.0_64_v3.exe"
-    },
-    {
-        "name": "NVIDIA GeForce GT 10xx/GTX 1xx0/RTX x0x0 Graphics Driver",
-        "category": "Video",
-        "importance": "critical",
-        "date": "2023-12-12T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10824768M/1/NVIDIA-GeForce-GT-10xx-GTX-1xx0-RTX-x0x0-Graphics_6JGD6_WIN64_31.0.15.4609_A00.EXE"
-    },
-    {
-        "name": "Intel 9560/9260/7265/3165 Wi-Fi Driver",
-        "category": "Network, Ethernet & Wireless",
-        "importance": "critical",
-        "date": "2023-11-09T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10449542M/3/Intel-9560-9260-7265-3165-Wi-Fi-Driver_YXY5R_WIN_22.250.0.4_A33_01.EXE"
     },
     {
         "name": "Intel Wireless 9260/9560/18265/8265/7265/3165 Bluetooth Driver",
@@ -140,18 +140,25 @@
         "url": "https://dl.dell.com/FOLDER05468362M/11/Toshiba%20KBG30ZMS128G_KBG30ZMS256G_KBG30ZMS512G%20JYNRC_ZPE.exe"
     },
     {
-        "name": "Dell Command | PowerShell Provider",
-        "category": "Systems Management",
+        "name": "Intel 9560/9260/7265/3165 Bluetooth UWD Driver",
+        "category": "Network, Ethernet & Wireless",
         "importance": "recommended",
-        "date": "2024-03-19T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER11394916M/1/DellCommandPowerShellProvider2.7.2_1.zip"
+        "date": "2024-04-05T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER11261126M/1/Intel-9560-9260-7265-3165-Bluetooth-UWD-Driver_NM9K8_WIN64_23.20.0.3_A38.EXE"
     },
     {
         "name": "Trusted Device Agent",
         "category": "Trusted Device Security",
         "importance": "recommended",
-        "date": "2024-03-04T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER11198338M/1/Trusted-Device-Agent_3X9D8_WIN_6.2.2.0_A56.EXE"
+        "date": "2024-04-03T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER11455382M/1/Trusted-Device-Agent_FC47N_WIN_6.3.6.0_A57.EXE"
+    },
+    {
+        "name": "Dell Command | PowerShell Provider",
+        "category": "Systems Management",
+        "importance": "recommended",
+        "date": "2024-03-19T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER11394916M/1/DellCommandPowerShellProvider2.7.2_1.zip"
     },
     {
         "name": "Dell Command | Update Windows Universal Application",
@@ -194,13 +201,6 @@
         "importance": "recommended",
         "date": "2024-01-11T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER11106601M/1/Dell-Encryption-11.9.0.3.zip"
-    },
-    {
-        "name": "Intel 9560/9260/7265/3165 Bluetooth UWD Driver",
-        "category": "Network, Ethernet & Wireless",
-        "importance": "recommended",
-        "date": "2023-11-09T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10658918M/2/Intel-9560-9260-7265-3165-Bluetooth-UWD-Driver_JJTCC_WIN64_22.250.0.2_A37.EXE"
     },
     {
         "name": "Qualcomm QCA61x4A/QCA6174A-XR/QCA9377 Wi-Fi and Bluetooth Driver",

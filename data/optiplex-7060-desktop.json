@@ -1,5 +1,12 @@
 [
     {
+        "name": "Dell OptiPlex 7060 System BIOS",
+        "category": "BIOS",
+        "importance": "critical",
+        "date": "2024-04-12T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER11332001M/1/OptiPlex_7060_1.29.0.exe"
+    },
+    {
         "name": "NVIDIA GeForce GT 10xx/GTX 1xx0/RTX x0x0 Graphics Driver",
         "category": "Video",
         "importance": "critical",
@@ -26,13 +33,6 @@
         "importance": "critical",
         "date": "2024-02-22T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER11164889M/1/NVIDIA-GeForce-Experience-Application_WPPG1_WIN_30.0.14.7480_A00.EXE"
-    },
-    {
-        "name": "Dell OptiPlex 7060 System BIOS",
-        "category": "BIOS",
-        "importance": "critical",
-        "date": "2024-02-05T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10987143M/1/OptiPlex_7060_1.28.0.exe"
     },
     {
         "name": "Dell Command | Integration Suite for System Center",

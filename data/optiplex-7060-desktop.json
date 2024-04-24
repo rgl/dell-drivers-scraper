@@ -812,6 +812,13 @@
         "url": "https://dl.dell.com/FOLDER04855931M/3/Dell-Watch-Dog-Timer-Application_PPVGJ_WIN64_1.0.0_A00.EXE"
     },
     {
+        "name": "Dell Command | Deploy WinPE 10.0 Driver Pack",
+        "category": "Systems Management",
+        "importance": "optional",
+        "date": "2024-04-23T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER11211606M/1/WinPE10.0-Drivers-A33-CCKD7.cab"
+    },
+    {
         "name": "Dell Command | Endpoint Configure for Microsoft Intune",
         "category": "Systems Management",
         "importance": "optional",
@@ -824,13 +831,6 @@
         "importance": "optional",
         "date": "2024-03-01T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER11313029M/1/Dell-Alienware-Digital-Delivery-Application_PM4WF_WIN_5.0.86.0_A26.EXE"
-    },
-    {
-        "name": "Dell Command | Deploy WinPE 10.0 Driver Pack",
-        "category": "Systems Management",
-        "importance": "optional",
-        "date": "2023-12-12T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10964270M/1/WinPE10.0-Drivers-A32-473P6.cab"
     },
     {
         "name": "Dell System Firmware Update Utility 64 Bit (For IT Use Only)",

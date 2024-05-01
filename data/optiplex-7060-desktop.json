@@ -140,6 +140,20 @@
         "url": "https://dl.dell.com/FOLDER05468362M/11/Toshiba%20KBG30ZMS128G_KBG30ZMS256G_KBG30ZMS512G%20JYNRC_ZPE.exe"
     },
     {
+        "name": "Dell Command | Update Windows Universal Application",
+        "category": "Systems Management",
+        "importance": "recommended",
+        "date": "2024-04-30T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER11563484M/1/Dell-Command-Update-Windows-Universal-Application_P83K5_WIN_5.3.0_A00.EXE"
+    },
+    {
+        "name": "Dell Command | Update Application",
+        "category": "Systems Management",
+        "importance": "recommended",
+        "date": "2024-04-30T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER11563430M/1/Dell-Command-Update-Application_T45GH_WIN_5.3.0_A00.EXE"
+    },
+    {
         "name": "Intel 9560/9260/7265/3165 Bluetooth UWD Driver",
         "category": "Network, Ethernet & Wireless",
         "importance": "recommended",
@@ -159,20 +173,6 @@
         "importance": "recommended",
         "date": "2024-03-19T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER11394916M/1/DellCommandPowerShellProvider2.7.2_1.zip"
-    },
-    {
-        "name": "Dell Command | Update Windows Universal Application",
-        "category": "Systems Management",
-        "importance": "recommended",
-        "date": "2024-01-31T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER11201586M/1/Dell-Command-Update-Windows-Universal-Application_0XNVX_WIN_5.2.0_A00.EXE"
-    },
-    {
-        "name": "Dell Command | Update Application",
-        "category": "Systems Management",
-        "importance": "recommended",
-        "date": "2024-01-31T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER11201514M/1/Dell-Command-Update-Application_4R78G_WIN_5.2.0_A00.EXE"
     },
     {
         "name": "Dell Command | Configure Application",

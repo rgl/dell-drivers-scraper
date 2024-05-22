@@ -1,5 +1,12 @@
 [
     {
+        "name": "Intel UHD/Iris Plus Graphics Driver",
+        "category": "Video",
+        "importance": "critical",
+        "date": "2024-05-15T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER11477764M/1/Intel-UHD-Iris-Plus-Graphics-Driver_GPXYY_WIN64_31.0.101.2114_A00.EXE"
+    },
+    {
         "name": "Dell OptiPlex 7060 System BIOS",
         "category": "BIOS",
         "importance": "critical",
@@ -285,13 +292,6 @@
         "importance": "recommended",
         "date": "2022-07-20T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER08642564M/4/Samsung-PM981a-256GB-Solid-State-Drive-Firmware-Update_HVPC3_WIN64_1530.5029_A00_01.EXE"
-    },
-    {
-        "name": "Intel UHD/Iris Plus Graphics Driver",
-        "category": "Video",
-        "importance": "recommended",
-        "date": "2022-05-30T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER08489055M/4/Intel-UHD-Iris-Plus-Graphics-Driver_53W33_WIN64_30.0.101.1692_A09_02.EXE"
     },
     {
         "name": "Intel Solid State Drive Firmware Update for SSDPEMKF256G8/SSDPEMKF512G8/SSDPEMKF010T8",

@@ -1,5 +1,12 @@
 [
     {
+        "name": "Intel PCIe Ethernet Controller Driver",
+        "category": "Network, Ethernet & Wireless",
+        "importance": "critical",
+        "date": "2024-06-20T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER11712079M/1/Intel-PCIe-Ethernet-Controller-Driver_656CN_WIN64_20.0.2.10_A32.EXE"
+    },
+    {
         "name": "NVIDIA GeForce GT 10xx/GTX 1xx0/RTX x0x0 Graphics Driver",
         "category": "Video",
         "importance": "critical",
@@ -242,7 +249,7 @@
         "category": "Video",
         "importance": "recommended",
         "date": "2023-03-21T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09630218M/1/NVIDIA-GeForce-10xx-16xx-20xx-30xx-40xx-Graphics_3G92J_WIN_31.0.15.2824_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER09557147M/2/NVIDIA-GeForce-10xx-16xx-20xx-30xx-40xx-Graphics_3G92J_WIN64_31.0.15.2824_A00.EXE"
     },
     {
         "name": "Intel I210/I225/X550/X710 Ethernet Controller Driver",
@@ -599,7 +606,7 @@
         "category": "Modem/Communications",
         "importance": "recommended",
         "date": "2019-10-24T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER05800721M/1/Sunix-USB31-Card-Cypress-Driver_FWMC1_WIN_1.2.3.27_A07.EXE"
+        "url": "https://dl.dell.com/FOLDER05800724M/1/Sunix-USB31-Card-Cypress-Driver_FWMC1_WIN64_1.2.3.27_A07.EXE"
     },
     {
         "name": "Toshiba Solid-state Drive Firmware Update for KXG60ZNV256G/KXG60ZNV512G/KXG60ZNV1T02",
@@ -858,7 +865,7 @@
         "category": "Mouse, Keyboard & Input Devices",
         "importance": "optional",
         "date": "2020-07-16T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER06375214M/1/Input_Driver_MTM06_WN32_3.0.0_A04.EXE"
+        "url": "https://dl.dell.com/FOLDER06375220M/1/Input_Driver_MTM06_WN64_3.0.0_A04.EXE"
     },
     {
         "name": "ADATA Solid-State Drive Firmware Update for SU810NS38 SATA 128 GB and SU810NS38 SATA 256 GB",

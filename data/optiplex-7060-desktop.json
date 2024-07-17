@@ -88,7 +88,7 @@
         "category": "Storage",
         "importance": "critical",
         "date": "2023-02-13T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09493226M/7/Intel-Rapid-Storage-Technology-Driver_1CM7K_WIN64_17.11.3.1010_A07_05.EXE"
+        "url": "https://dl.dell.com/FOLDER09493226M/8/Intel-Rapid-Storage-Technology-Driver_1CM7K_WIN64_17.11.3.1010_A07_06.EXE"
     },
     {
         "name": "NVIDIA GeForce Desktop GT 730 HSA Application Installer",
@@ -147,6 +147,13 @@
         "url": "https://dl.dell.com/FOLDER05468362M/11/Toshiba%20KBG30ZMS128G_KBG30ZMS256G_KBG30ZMS512G%20JYNRC_ZPE.exe"
     },
     {
+        "name": "Dell Trusted Device",
+        "category": "Trusted Device Security",
+        "importance": "recommended",
+        "date": "2024-07-15T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER11848066M/1/Dell-Trusted-Device_0FH2K_WIN_6.4.3.0_A58.EXE"
+    },
+    {
         "name": "Dell OptiPlex 7060 System BIOS",
         "category": "BIOS",
         "importance": "recommended",
@@ -173,13 +180,6 @@
         "importance": "recommended",
         "date": "2024-04-05T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER11261126M/1/Intel-9560-9260-7265-3165-Bluetooth-UWD-Driver_NM9K8_WIN64_23.20.0.3_A38.EXE"
-    },
-    {
-        "name": "Trusted Device Agent",
-        "category": "Trusted Device Security",
-        "importance": "recommended",
-        "date": "2024-04-03T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER11455382M/1/Trusted-Device-Agent_FC47N_WIN_6.3.6.0_A57.EXE"
     },
     {
         "name": "Dell Command | PowerShell Provider",

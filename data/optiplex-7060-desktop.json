@@ -420,11 +420,11 @@
         "url": "https://dl.dell.com/FOLDER07324081M/2/Micron-2200S-PCIe-NVMe-Solid-State-Drive-Firmware_3JG3G_WIN64_2200.1070_A00_01.EXE"
     },
     {
-        "name": "Toshiba Solid State Drive Firmware Update for KBG40ZNS128G/KBG40ZNS256G/KBG40ZNS512G/KBG40ZNS1T02",
+        "name": "Toshiba Solid State Drive Firmware Update for KBG40ZNSxxxx",
         "category": "Storage",
         "importance": "recommended",
         "date": "2021-04-29T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER07278768M/2/Toshiba-Solid-State-Drive-Firmware-Update-for-KBG40ZNS128G-KBG40ZNS256G-KBG40ZNS512G-KBG40ZNS1T02_TKNM3_WIN64_1041.0106_A00_01.EXE"
+        "url": "https://dl.dell.com/FOLDER07278768M/4/Toshiba-Solid-State-Drive-Firmware-Update-for-KBG40ZNSxxxx_TKNM3_WIN64_1041.0106_A00_03.EXE"
     },
     {
         "name": "Intel I210/I350/X540/X550/X710 NIC Driver",

@@ -1,5 +1,12 @@
 [
     {
+        "name": "Intel 9560/9260 Wi-Fi Driver",
+        "category": "Network, Ethernet & Wireless",
+        "importance": "critical",
+        "date": "2024-08-02T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER11719000M/3/Intel-9560-9260-Wi-Fi-Driver_XYWR3_WIN_23.60.1.2_A35_01.EXE"
+    },
+    {
         "name": "Dell Command | Update Application",
         "category": "Systems Management",
         "importance": "critical",
@@ -40,13 +47,6 @@
         "importance": "critical",
         "date": "2024-05-15T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER11477764M/1/Intel-UHD-Iris-Plus-Graphics-Driver_GPXYY_WIN64_31.0.101.2114_A00.EXE"
-    },
-    {
-        "name": "Intel 9560/9260/7265/3165 Wi-Fi Driver",
-        "category": "Network, Ethernet & Wireless",
-        "importance": "critical",
-        "date": "2024-04-05T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER11133097M/3/Intel-9560-9260-7265-3165-Wi-Fi-Driver_6V5H7_WIN_23.20.1.1_A34_01.EXE"
     },
     {
         "name": "NVIDIA GeForce Experience Application",
@@ -161,6 +161,13 @@
         "url": "https://dl.dell.com/FOLDER05468362M/11/Toshiba%20KBG30ZMS128G_KBG30ZMS256G_KBG30ZMS512G%20JYNRC_ZPE.exe"
     },
     {
+        "name": "Intel 9560/9260 Bluetooth UWD Driver",
+        "category": "Network, Ethernet & Wireless",
+        "importance": "recommended",
+        "date": "2024-08-02T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER11719021M/3/Intel-9560-9260-Bluetooth-UWD-Driver_XVKJT_WIN64_23.60.0.1_A39.EXE"
+    },
+    {
         "name": "Dell Trusted Device",
         "category": "Trusted Device Security",
         "importance": "recommended",
@@ -173,13 +180,6 @@
         "importance": "recommended",
         "date": "2024-06-11T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER11479710M/1/OptiPlex_7060_1.30.0.exe"
-    },
-    {
-        "name": "Intel 9560/9260/7265/3165 Bluetooth UWD Driver",
-        "category": "Network, Ethernet & Wireless",
-        "importance": "recommended",
-        "date": "2024-04-05T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER11261126M/1/Intel-9560-9260-7265-3165-Bluetooth-UWD-Driver_NM9K8_WIN64_23.20.0.3_A38.EXE"
     },
     {
         "name": "Dell Command | PowerShell Provider",

@@ -1,5 +1,12 @@
 [
     {
+        "name": "NVIDIA GeForce GT 10xx/GTX 1xx0/RTX x0x0 Graphics Driver",
+        "category": "Video",
+        "importance": "critical",
+        "date": "2024-08-16T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER11861081M/1/NVIDIA-GeForce-GT-10xx-GTX-1xx0-RTX-x0x0-Graphics_8D4XF_WIN_32.0.15.5612_A00.EXE"
+    },
+    {
         "name": "Intel 9560/9260 Wi-Fi Driver",
         "category": "Network, Ethernet & Wireless",
         "importance": "critical",
@@ -33,13 +40,6 @@
         "importance": "critical",
         "date": "2024-06-20T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER11712079M/1/Intel-PCIe-Ethernet-Controller-Driver_656CN_WIN64_20.0.2.10_A32.EXE"
-    },
-    {
-        "name": "NVIDIA GeForce GT 10xx/GTX 1xx0/RTX x0x0 Graphics Driver",
-        "category": "Video",
-        "importance": "critical",
-        "date": "2024-06-07T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER11591709M/2/NVIDIA-GeForce-GT-10xx-GTX-1xx0-RTX-x0x0-Graphics_2PNMY_WIN_31.0.15.5241_A00.EXE"
     },
     {
         "name": "Intel UHD/Iris Plus Graphics Driver",
@@ -819,18 +819,18 @@
         "url": "https://dl.dell.com/FOLDER04855931M/3/Dell-Watch-Dog-Timer-Application_PPVGJ_WIN64_1.0.0_A00.EXE"
     },
     {
+        "name": "Dell Command | Deploy WinPE 10.0 Driver Pack",
+        "category": "Systems Management",
+        "importance": "optional",
+        "date": "2024-08-14T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER11926959M/1/WinPE10.0-Drivers-A34-PCW4V.cab"
+    },
+    {
         "name": "Dell/Alienware Digital Delivery Application",
         "category": "Application",
         "importance": "optional",
         "date": "2024-08-01T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER11917105M/1/Dell-Alienware-Digital-Delivery-Application_XRP18_WIN_5.2.0.0_A27.EXE"
-    },
-    {
-        "name": "Dell Command | Deploy WinPE 10.0 Driver Pack",
-        "category": "Systems Management",
-        "importance": "optional",
-        "date": "2024-04-23T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER11211606M/1/WinPE10.0-Drivers-A33-CCKD7.cab"
     },
     {
         "name": "Dell Command | Endpoint Configure for Microsoft Intune",

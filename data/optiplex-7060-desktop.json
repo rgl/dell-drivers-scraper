@@ -1,5 +1,12 @@
 [
     {
+        "name": "Dell OptiPlex 7060 System BIOS",
+        "category": "BIOS",
+        "importance": "critical",
+        "date": "2024-09-10T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER11933751M/1/OptiPlex_7060_1.31.0.exe"
+    },
+    {
         "name": "NVIDIA GeForce GT 10xx/GTX 1xx0/RTX x0x0 Graphics Driver",
         "category": "Video",
         "importance": "critical",
@@ -161,6 +168,13 @@
         "url": "https://dl.dell.com/FOLDER05468362M/11/Toshiba%20KBG30ZMS128G_KBG30ZMS256G_KBG30ZMS512G%20JYNRC_ZPE.exe"
     },
     {
+        "name": "Dell Encryption",
+        "category": "Dell Data Security",
+        "importance": "recommended",
+        "date": "2024-09-10T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER12072147M/1/Dell-Encryption-11.10.0.1.zip.zip"
+    },
+    {
         "name": "Intel 9560/9260 Bluetooth UWD Driver",
         "category": "Network, Ethernet & Wireless",
         "importance": "recommended",
@@ -173,13 +187,6 @@
         "importance": "recommended",
         "date": "2024-07-15T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER11848066M/1/Dell-Trusted-Device_0FH2K_WIN_6.4.3.0_A58.EXE"
-    },
-    {
-        "name": "Dell OptiPlex 7060 System BIOS",
-        "category": "BIOS",
-        "importance": "recommended",
-        "date": "2024-06-11T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER11479710M/1/OptiPlex_7060_1.30.0.exe"
     },
     {
         "name": "Dell Command | PowerShell Provider",
@@ -208,13 +215,6 @@
         "importance": "recommended",
         "date": "2024-01-11T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER10692726M/1/Intel-Manageability-and-Security-Status-Application_V5TY6_WIN64_2328.5.2.0_A07.EXE"
-    },
-    {
-        "name": "Dell Encryption",
-        "category": "Dell Data Security",
-        "importance": "recommended",
-        "date": "2024-01-11T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER11106601M/1/Dell-Encryption-11.9.0.3.zip"
     },
     {
         "name": "Qualcomm QCA61x4A/QCA6174A-XR/QCA9377 Wi-Fi and Bluetooth Driver",

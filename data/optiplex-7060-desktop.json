@@ -1,17 +1,17 @@
 [
     {
+        "name": "NVIDIA GeForce GT 10xx/GTX 1xx0/RTX x0x0 Graphics Driver",
+        "category": "Video",
+        "importance": "critical",
+        "date": "2024-10-23T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER12121767M/2/NVIDIA-GeForce-GT-10xx-GTX-1xx0-RTX-x0x0-Graphics_43MHD_WIN_32.0.15.6094_A00.EXE"
+    },
+    {
         "name": "Dell OptiPlex 7060 System BIOS",
         "category": "BIOS",
         "importance": "critical",
         "date": "2024-09-10T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER11933751M/1/OptiPlex_7060_1.31.0.exe"
-    },
-    {
-        "name": "NVIDIA GeForce GT 10xx/GTX 1xx0/RTX x0x0 Graphics Driver",
-        "category": "Video",
-        "importance": "critical",
-        "date": "2024-08-16T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER11861081M/1/NVIDIA-GeForce-GT-10xx-GTX-1xx0-RTX-x0x0-Graphics_8D4XF_WIN_32.0.15.5612_A00.EXE"
     },
     {
         "name": "Intel 9560/9260 Wi-Fi Driver",
@@ -822,8 +822,8 @@
         "name": "Dell Command | Deploy WinPE 10.0 Driver Pack",
         "category": "Systems Management",
         "importance": "optional",
-        "date": "2024-08-14T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER11926959M/1/WinPE10.0-Drivers-A34-PCW4V.cab"
+        "date": "2024-10-25T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER12189048M/1/WinPE10.0-Drivers-A35-J2P5W.cab"
     },
     {
         "name": "Dell/Alienware Digital Delivery Application",

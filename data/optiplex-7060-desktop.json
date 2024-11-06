@@ -819,18 +819,18 @@
         "url": "https://dl.dell.com/FOLDER04855931M/3/Dell-Watch-Dog-Timer-Application_PPVGJ_WIN64_1.0.0_A00.EXE"
     },
     {
+        "name": "Dell/Alienware Digital Delivery Application",
+        "category": "Application",
+        "importance": "optional",
+        "date": "2024-10-31T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER12287364M/1/Dell-Alienware-Digital-Delivery-Application_0FDNH_WIN_5.3.0.0_A28.EXE"
+    },
+    {
         "name": "Dell Command | Deploy WinPE 10.0 Driver Pack",
         "category": "Systems Management",
         "importance": "optional",
         "date": "2024-10-25T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER12189048M/1/WinPE10.0-Drivers-A35-J2P5W.cab"
-    },
-    {
-        "name": "Dell/Alienware Digital Delivery Application",
-        "category": "Application",
-        "importance": "optional",
-        "date": "2024-08-01T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER11917105M/1/Dell-Alienware-Digital-Delivery-Application_XRP18_WIN_5.2.0.0_A27.EXE"
     },
     {
         "name": "Dell Command | Endpoint Configure for Microsoft Intune",

@@ -1,17 +1,17 @@
 [
     {
+        "name": "Dell OptiPlex 7060 System BIOS",
+        "category": "BIOS",
+        "importance": "critical",
+        "date": "2024-11-08T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER12077034M/1/OptiPlex_7060_1.32.0.exe"
+    },
+    {
         "name": "NVIDIA GeForce GT 10xx/GTX 1xx0/RTX x0x0 Graphics Driver",
         "category": "Video",
         "importance": "critical",
         "date": "2024-10-23T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER12121767M/2/NVIDIA-GeForce-GT-10xx-GTX-1xx0-RTX-x0x0-Graphics_43MHD_WIN_32.0.15.6094_A00.EXE"
-    },
-    {
-        "name": "Dell OptiPlex 7060 System BIOS",
-        "category": "BIOS",
-        "importance": "critical",
-        "date": "2024-09-10T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER11933751M/1/OptiPlex_7060_1.31.0.exe"
     },
     {
         "name": "Intel 9560/9260 Wi-Fi Driver",
@@ -40,6 +40,13 @@
         "importance": "critical",
         "date": "2024-07-10T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER11787669M/1/NVIDIA-GeForce-Desktop-GT-730-DCH-Graphics-Driver_5XFKM_WIN_30.0.14.7514_A00.EXE"
+    },
+    {
+        "name": "Intel Management Engine Components Installer",
+        "category": "Chipset",
+        "importance": "critical",
+        "date": "2024-07-09T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER11603882M/4/Intel-Management-Engine-Components-Installer_HX16W_WIN64_2413.5.68.0_A14_02.EXE"
     },
     {
         "name": "Intel PCIe Ethernet Controller Driver",
@@ -75,13 +82,6 @@
         "importance": "critical",
         "date": "2024-01-31T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER11165504M/1/Dell-Command-Intel-vPro-Out-of-Band_3CXKM_WIN_4.5.1_A00.EXE"
-    },
-    {
-        "name": "Intel Management Engine Components Installer",
-        "category": "Chipset",
-        "importance": "critical",
-        "date": "2024-01-29T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10938937M/2/Intel-Management-Engine-Components-Installer_7FHFF_WIN64_2345.5.42.0_A13.EXE"
     },
     {
         "name": "Dell TPM 2.0 Firmware Update Utility",
@@ -189,6 +189,13 @@
         "url": "https://dl.dell.com/FOLDER11848066M/1/Dell-Trusted-Device_0FH2K_WIN_6.4.3.0_A58.EXE"
     },
     {
+        "name": "Intel Manageability and Security Status Application",
+        "category": "Chipset",
+        "importance": "recommended",
+        "date": "2024-07-09T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER11473383M/1/Intel-Manageability-and-Security-Status-Application_386P2_WIN64_2350.5.3.0_A08.EXE"
+    },
+    {
         "name": "Dell Command | PowerShell Provider",
         "category": "Systems Management",
         "importance": "recommended",
@@ -208,13 +215,6 @@
         "importance": "recommended",
         "date": "2024-01-29T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER11078318M/1/Dell-Command-Monitor_KF06N_WIN_10.10.1.13_A00.EXE"
-    },
-    {
-        "name": "Intel Manageability and Security Status Application",
-        "category": "Chipset",
-        "importance": "recommended",
-        "date": "2024-01-11T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10692726M/1/Intel-Manageability-and-Security-Status-Application_V5TY6_WIN64_2328.5.2.0_A07.EXE"
     },
     {
         "name": "Qualcomm QCA61x4A/QCA6174A-XR/QCA9377 Wi-Fi and Bluetooth Driver",

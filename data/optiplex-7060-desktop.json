@@ -315,20 +315,6 @@
         "url": "https://dl.dell.com/FOLDER08485336M/2/Intel%20SSDPEKKF256G8_SSDPEKKF512G8_SSDPEKKF010T8%208TV61_ZPE.exe"
     },
     {
-        "name": "Dell Command | Integration Suite for System Center",
-        "category": "Systems Management",
-        "importance": "recommended",
-        "date": "2022-02-28T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER08257584M/2/Dell-Command-Integration-Suite-for-System-Center_5MJDP_WIN_6.0.1_A00_01.EXE"
-    },
-    {
-        "name": "Dell Command | Intel vPro Out of Band",
-        "category": "Systems Management",
-        "importance": "recommended",
-        "date": "2022-02-28T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER08249363M/2/Dell-Command-Intel-vPro-Out-of-Band_99T5W_WIN_4.0.1_A00_01.EXE"
-    },
-    {
         "name": "AMD Radeon R5 430 Graphics Driver",
         "category": "Video",
         "importance": "recommended",

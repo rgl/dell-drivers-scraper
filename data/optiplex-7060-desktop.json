@@ -1,5 +1,12 @@
 [
     {
+        "name": "Intel Management Engine Components Installer",
+        "category": "Chipset",
+        "importance": "critical",
+        "date": "2024-11-15T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER12076556M/5/Intel-Management-Engine-Components-Installer_4VJ35_WIN64_2435.6.36.0_A15_02.EXE"
+    },
+    {
         "name": "Dell OptiPlex 7060 System BIOS",
         "category": "BIOS",
         "importance": "critical",
@@ -40,13 +47,6 @@
         "importance": "critical",
         "date": "2024-07-10T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER11787669M/1/NVIDIA-GeForce-Desktop-GT-730-DCH-Graphics-Driver_5XFKM_WIN_30.0.14.7514_A00.EXE"
-    },
-    {
-        "name": "Intel Management Engine Components Installer",
-        "category": "Chipset",
-        "importance": "critical",
-        "date": "2024-07-09T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER11603882M/4/Intel-Management-Engine-Components-Installer_HX16W_WIN64_2413.5.68.0_A14_02.EXE"
     },
     {
         "name": "Intel PCIe Ethernet Controller Driver",
@@ -168,6 +168,13 @@
         "url": "https://dl.dell.com/FOLDER05468362M/11/Toshiba%20KBG30ZMS128G_KBG30ZMS256G_KBG30ZMS512G%20JYNRC_ZPE.exe"
     },
     {
+        "name": "Intel Manageability and Security Status Application",
+        "category": "Chipset",
+        "importance": "recommended",
+        "date": "2024-11-15T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER12076664M/2/Intel-Manageability-and-Security-Status-Application_CJRJ2_WIN64_2405.6.0.0_A09_01.EXE"
+    },
+    {
         "name": "Dell Encryption",
         "category": "Dell Data Security",
         "importance": "recommended",
@@ -187,13 +194,6 @@
         "importance": "recommended",
         "date": "2024-07-15T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER11848066M/1/Dell-Trusted-Device_0FH2K_WIN_6.4.3.0_A58.EXE"
-    },
-    {
-        "name": "Intel Manageability and Security Status Application",
-        "category": "Chipset",
-        "importance": "recommended",
-        "date": "2024-07-09T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER11473383M/1/Intel-Manageability-and-Security-Status-Application_386P2_WIN64_2350.5.3.0_A08.EXE"
     },
     {
         "name": "Dell Command | PowerShell Provider",
@@ -805,6 +805,13 @@
         "url": "https://dl.dell.com/FOLDER04855931M/3/Dell-Watch-Dog-Timer-Application_PPVGJ_WIN64_1.0.0_A00.EXE"
     },
     {
+        "name": "Dell System Firmware Update Utility 64 Bit (For IT Use Only)",
+        "category": "System Utilities",
+        "importance": "optional",
+        "date": "2024-12-13T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER12288556M/1/FlashVer3.3.28.zip"
+    },
+    {
         "name": "Dell/Alienware Digital Delivery Application",
         "category": "Application",
         "importance": "optional",
@@ -824,13 +831,6 @@
         "importance": "optional",
         "date": "2024-03-26T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER11392186M/1/Dell-Command-Endpoint-Configure-for-Microsoft-Intune_T88X8_WIN_1.2.0.76_A00.EXE"
-    },
-    {
-        "name": "Dell System Firmware Update Utility 64 Bit (For IT Use Only)",
-        "category": "System Utilities",
-        "importance": "optional",
-        "date": "2023-11-27T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10855396M/1/Flash64W_Ver3.3.22.zip"
     },
     {
         "name": "Dell Command | Deploy Driver Pack",

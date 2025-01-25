@@ -27,7 +27,7 @@ async function getDrivers(page, product) {
     await page.goto(url);
 
     log("Rejecting cookies...");
-    const rejectCookiesSelector = '[aria-label="dismiss cookie message"]';
+    const rejectCookiesSelector = '[aria-label="cookieconsent"] .cc-dismiss';
     try {
         await page.waitForSelector(rejectCookiesSelector, {timeout: 5000});
         await page.click(rejectCookiesSelector);
@@ -47,10 +47,9 @@ async function getDrivers(page, product) {
     }
 
     log("Waiting for the downloads table...");
-    const downloadsTableSelector = "#downloads-table";
-    await page.waitForSelector(`${downloadsTableSelector} tr:nth-child(5)`);
-    await page.waitForSelector(`${downloadsTableSelector} #paginationRow`);
-    await page.click(`${downloadsTableSelector} #paginationRow`);
+    await page.waitForSelector("#driver-list-table #dnd-list-tab0 div::-p-text(BIOS )");
+    await page.click("#driver-list-table #dnd-list-tab0 .dds__accordion__control__expand");
+    await page.waitForSelector("#driver-list-table #dnd-list-tab0 .dds__tr");
 
     log("Getting data from the downloads table...");
     return await page.evaluate(async () => {
@@ -79,17 +78,18 @@ async function getDrivers(page, product) {
         }
 
         var data = [];
-        const els = document.querySelectorAll("#downloads-table tr.main-row");
+        const els = document.querySelectorAll("#driver-list-table #dnd-list-tab0 .dds__tbody .dds__tr");
         for (const el of els) {
-            const columnEls = el.querySelectorAll("td");
-            if (columnEls.length < 7) {
+            const columnEls = el.querySelectorAll(".dds__table__cell");
+            if (columnEls.length != 3) {
                 continue;
             }
-            const name = columnEls[1].innerText.trim();
-            const importance = columnEls[2].innerText.trim().toLowerCase();
-            const category = columnEls[3].innerText.trim();
-            const date = parseDate(columnEls[4].innerText.trim());
-            const url = columnEls[5].querySelector("a.btn-download-lg").getAttribute("href").trim().replaceAll(" ", "%20");
+            const name = columnEls[0].innerText.trim();
+            const date = parseDate(columnEls[1].innerText.trim());
+            const url = columnEls[2].querySelector("[href]").getAttribute("href").trim().replaceAll(" ", "%20");
+            const categoryEl = el.closest("div[role=region]")?.parentElement.querySelector("h5");
+            const category = categoryEl?.innerText.replace(/ \(.+\)$/, "");
+            const importance = el.closest("div.dnd-title-box-border")?.parentElement.querySelector("div.dds__accordion__heading")?.innerText.replace(/ drivers \(.+\)\n.+/, "").toLowerCase();
             const driver = {
                 name: name,
                 category: category,
@@ -97,16 +97,18 @@ async function getDrivers(page, product) {
                 date: date.toISOString(),
                 url: url,
             };
-            if (false) {
-                columnEls[6].querySelector("button").click();
-                const detailsEl = el.nextSibling && document.evaluate("//a[text()='View full driver details']", el.nextSibling, null, XPathResult.ANY_TYPE, null).iterateNext();
-                const detailsUrl = detailsEl && detailsEl.getAttribute("href");
-                columnEls[6].querySelector("button").click();
-                driver.detailsUrl = detailsUrl;
-            }
             data.push(driver);
         }
-        return data;
+        // sort by name ascending, then by date descending.
+        return data.sort((a, b) => {
+            const nameA = a.name.toLowerCase();
+            const nameB = b.name.toLowerCase();
+            const nameCompare = nameA > nameB ? 1 : nameA < nameB ? -1 : 0;
+            if (nameCompare !== 0) {
+                return nameCompare;
+            }
+            return -(a.date > b.date ? 1 : a.date < b.date ? -1 : 0);
+        });
     });
 }
 
@@ -130,8 +132,7 @@ async function main(options) {
     log("Launching the browser...");
     const browser = await puppeteer.launch(browserConfig);
     try {
-        log("Creating a new browser page...");
-        const page = await browser.newPage();
+        const [page] = await browser.pages();
         await page.setViewport({
             width: parseInt(options.viewportSize.split('x')[0], 10),
             height: parseInt(options.viewportSize.split('x')[1], 10),

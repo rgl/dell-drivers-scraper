@@ -11,7 +11,7 @@
         "url": "https://github.com/rgl/dell-drivers-scraper.git"
     },
     "dependencies": {
-        "commander": "^11.0.0",
-        "puppeteer": "^21.3.4"
+        "commander": "13.1.0",
+        "puppeteer": "24.1.1"
     }
 }

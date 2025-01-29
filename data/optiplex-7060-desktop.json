@@ -147,6 +147,13 @@
         "url": "https://dl.dell.com/FOLDER06059997M/4/Dell-ControlVault2-Driver-and-Firmware_N23KC_WIN64_4.12.5.8_A21_03.EXE"
     },
     {
+        "name": "Dell Digital Delivery Application",
+        "category": "Application",
+        "importance": "critical",
+        "date": "2025-01-27T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER12641707M/1/Dell-Digital-Delivery-Application_G5VP1_WIN64_5.4.0.0_A29.EXE"
+    },
+    {
         "name": "Dell Encryption",
         "category": "Dell Data Security",
         "importance": "critical",
@@ -229,13 +236,6 @@
         "importance": "critical",
         "date": "2023-06-13T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER10035701M/3/Dell-Watchdog-Timer-Driver_RWM04_WIN_1.2.1.0_A01_01.EXE"
-    },
-    {
-        "name": "Dell/Alienware Digital Delivery Application",
-        "category": "Application",
-        "importance": "critical",
-        "date": "2024-10-31T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER12287364M/1/Dell-Alienware-Digital-Delivery-Application_0FDNH_WIN_5.3.0.0_A28.EXE"
     },
     {
         "name": "HGST Jaguar C Series Hard Disk Firmware Update",

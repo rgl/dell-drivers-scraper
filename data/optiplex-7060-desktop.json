@@ -147,6 +147,13 @@
         "url": "https://dl.dell.com/FOLDER06059997M/4/Dell-ControlVault2-Driver-and-Firmware_N23KC_WIN64_4.12.5.8_A21_03.EXE"
     },
     {
+        "name": "Dell Digital Delivery Application",
+        "category": "Application",
+        "importance": "critical",
+        "date": "2025-02-06T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER12671653M/1/Dell-Digital-Delivery-Application_KKMWJ_WIN64_5.5.0.0_A30.EXE"
+    },
+    {
         "name": "Dell Encryption",
         "category": "Dell Data Security",
         "importance": "critical",
@@ -171,8 +178,8 @@
         "name": "Dell SupportAssist OS Recovery Plugin for Dell Update",
         "category": "Application",
         "importance": "critical",
-        "date": "2023-07-14T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER10175351M/2/Dell-SupportAssist-OS-Recovery-Plugin-for-Dell-Update_WFVWJ_WIN_5.5.7.18773_A00_01.EXE"
+        "date": "2025-01-31T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER12655609M/1/Dell-SupportAssist-OS-Recovery-Plugin-for-Dell-Update_P5G2N_WIN64_5.5.13.1_A00.EXE"
     },
     {
         "name": "Dell System Firmware Update Utility 64 Bit (For IT Use Only)",
@@ -192,8 +199,8 @@
         "name": "Dell Trusted Device",
         "category": "Trusted Device Security",
         "importance": "critical",
-        "date": "2024-07-15T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER11848066M/1/Dell-Trusted-Device_0FH2K_WIN_6.4.3.0_A58.EXE"
+        "date": "2025-02-04T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER12665917M/1/Dell-Trusted-Device_MC26X_WIN64_6.5.5.0_A59.EXE"
     },
     {
         "name": "Dell USB Smartcard Keyboard Driver",
@@ -229,13 +236,6 @@
         "importance": "critical",
         "date": "2023-06-13T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER10035701M/3/Dell-Watchdog-Timer-Driver_RWM04_WIN_1.2.1.0_A01_01.EXE"
-    },
-    {
-        "name": "Dell/Alienware Digital Delivery Application",
-        "category": "Application",
-        "importance": "critical",
-        "date": "2024-10-31T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER12287364M/1/Dell-Alienware-Digital-Delivery-Application_0FDNH_WIN_5.3.0.0_A28.EXE"
     },
     {
         "name": "HGST Jaguar C Series Hard Disk Firmware Update",

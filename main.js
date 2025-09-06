@@ -47,9 +47,7 @@ async function getDrivers(page, product) {
     }
 
     log("Waiting for the downloads table...");
-    await page.waitForSelector("#driver-list-table #dnd-list-tab0 div::-p-text(BIOS )");
-    await page.click("#driver-list-table #dnd-list-tab0 .dds__accordion__control__expand");
-    await page.waitForSelector("#driver-list-table #dnd-list-tab0 .dds__tr");
+    await page.waitForSelector("#driver-list-table #dnd-list-tab0 div.dds__td span.dds__table__cell::-p-text(BIOS)");
 
     log("Getting data from the downloads table...");
     return await page.evaluate(async () => {
@@ -81,15 +79,14 @@ async function getDrivers(page, product) {
         const els = document.querySelectorAll("#driver-list-table #dnd-list-tab0 .dds__tbody .dds__tr");
         for (const el of els) {
             const columnEls = el.querySelectorAll(".dds__table__cell");
-            if (columnEls.length != 3) {
+            if (columnEls.length != 5) {
                 continue;
             }
             const name = columnEls[0].innerText.trim();
-            const date = parseDate(columnEls[1].innerText.trim());
-            const url = columnEls[2].querySelector("[href]").getAttribute("href").trim().replaceAll(" ", "%20");
-            const categoryEl = el.closest("div[role=region]")?.parentElement.querySelector("h5");
-            const category = categoryEl?.innerText.replace(/ \(.+\)$/, "");
-            const importance = el.closest("div.dnd-title-box-border")?.parentElement.querySelector("div.dds__accordion__heading")?.innerText.replace(/ drivers \(.+\)\n.+/, "").toLowerCase();
+            const importance = columnEls[1].innerText.trim().toLowerCase();
+            const date = parseDate(columnEls[2].innerText.trim());
+            const category = columnEls[3].innerText.trim();
+            const url = columnEls[4].querySelector("[href]").getAttribute("href").trim().replaceAll(" ", "%20");
             const driver = {
                 name: name,
                 category: category,
@@ -132,13 +129,19 @@ async function main(options) {
     log("Launching the browser...");
     const browser = await puppeteer.launch(browserConfig);
     try {
+        log(`Launched the ${await browser.version()} browser.`);
+
         const [page] = await browser.pages();
+
+        log("Setting the browser user agent...");
+        await page.setUserAgent("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36");
+
+        log("Setting the browser viewport...");
         await page.setViewport({
             width: parseInt(options.viewportSize.split('x')[0], 10),
             height: parseInt(options.viewportSize.split('x')[1], 10),
             deviceScaleFactor: 1,
         });
-        log(`Launched the ${await browser.version()} browser.`);
 
         try {
             const product = "optiplex-7060-desktop";

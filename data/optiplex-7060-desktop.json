@@ -2,56 +2,56 @@
     {
         "name": "ADATA Solid-State Drive Firmware Update for SU810NS38 SATA 128 GB and SU810NS38 SATA 256 GB",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "optional",
         "date": "2020-07-13T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER06373832M/3/Adata%20SU810%208R9T2_ZPE.exe"
     },
     {
         "name": "AMD Radeon R5 430 Graphics Driver",
         "category": "Video",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2022-01-26T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER08031626M/3/AMD-Radeon-R5-430-Graphics-Driver_KWT1N_WIN64_27.20.20904.4000_A00_02.EXE"
     },
     {
         "name": "AMD Radeon R5 430/RX 550 Graphics Driver",
         "category": "Video",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2018-05-23T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER04980209M/6/AMD-Radeon-R5-430-RX-550-Graphics-Driver_H87XJ_WIN_17.400.2815_A01_02.EXE"
     },
     {
         "name": "AMD Radeon R550/R540/RX 640/RX 550 Graphics Driver",
         "category": "Video",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2022-08-05T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER08805067M/3/AMD-Radeon-R550-R540-RX-640-RX-550-Graphics-Driver_7GYJN_WIN64_30.0.13018.11001_A00_02.EXE"
     },
     {
         "name": "AMD Radeon R550/R540/RX 640/RX 550 Graphics Driver",
         "category": "Video",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2021-12-20T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER08012901M/2/AMD-Radeon-R550-R540-RX-640-RX-550-Graphics-Driver_RMP33_WIN64_30.0.13002.12003_A00_01.EXE"
     },
     {
         "name": "Aquantia 5G Network Add-in Card Driver",
         "category": "Network, Ethernet & Wireless",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2020-11-03T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER06419811M/3/Aquantia-5G-Network-Add-in-Card-Driver_VNMX8_WIN_2.1.21.0_A06_02.EXE"
     },
     {
         "name": "Aquantia AQN-108 NIC Firmware",
         "category": "Network, Ethernet & Wireless",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2020-01-03T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER05956701M/5/AQN_NIC_FW_3.1.81_Updater_ZPE.exe"
     },
     {
         "name": "Cypress USB Connector Manager Class Extension Driver",
         "category": "Chipset",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2018-05-21T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER04766918M/4/Cypress-USB-connector-manager-class-extension-UcmCx_H76XV_WIN64_1.2.1.20_A01.EXE"
     },
@@ -65,35 +65,35 @@
     {
         "name": "Dell Client Management Pack Application, v6.3",
         "category": "Systems Management",
-        "importance": "critical",
+        "importance": "optional",
         "date": "2019-04-09T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER05550791M/1/Dell_Client_Management_Pack_v6.3_A00.exe"
     },
     {
         "name": "Dell Command | Configure Application",
         "category": "Systems Management",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2024-01-30T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER11153351M/1/Dell-Command-Configure-Application_TJ7VC_WIN_4.11.1.48_A00.EXE"
     },
     {
         "name": "Dell Command | Deploy Driver Pack",
         "category": "Systems Management",
-        "importance": "critical",
+        "importance": "optional",
         "date": "2023-08-02T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER10385995M/1/7060-R0NN1_Win10_1.0_A13.exe"
     },
     {
         "name": "Dell Command | Deploy WinPE 10.0 Driver Pack",
         "category": "Systems Management",
-        "importance": "critical",
-        "date": "2024-10-25T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER12189048M/1/WinPE10.0-Drivers-A35-J2P5W.cab"
+        "importance": "optional",
+        "date": "2025-06-24T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER13180529M/1/WinPE10.0-Drivers-A37-9WTWC.cab"
     },
     {
         "name": "Dell Command | Endpoint Configure for Microsoft Intune",
         "category": "Systems Management",
-        "importance": "critical",
+        "importance": "optional",
         "date": "2024-03-26T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER11392186M/1/Dell-Command-Endpoint-Configure-for-Microsoft-Intune_T88X8_WIN_1.2.0.76_A00.EXE"
     },
@@ -114,44 +114,51 @@
     {
         "name": "Dell Command | Monitor",
         "category": "Systems Management",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2024-01-29T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER11078318M/1/Dell-Command-Monitor_KF06N_WIN_10.10.1.13_A00.EXE"
     },
     {
         "name": "Dell Command | PowerShell Provider",
         "category": "Systems Management",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2024-03-19T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER11394916M/1/DellCommandPowerShellProvider2.7.2_1.zip"
     },
     {
         "name": "Dell Command | Update Application",
         "category": "Systems Management",
-        "importance": "critical",
-        "date": "2024-07-31T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER11914075M/1/Dell-Command-Update-Application_6VFWW_WIN_5.4.0_A00.EXE"
+        "importance": "recommended",
+        "date": "2025-06-30T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER13309338M/2/Dell-Command-Update-Application_Y5VJV_WIN64_5.5.0_A00_01.EXE"
     },
     {
         "name": "Dell Command | Update Windows Universal Application",
         "category": "Systems Management",
-        "importance": "critical",
-        "date": "2024-07-31T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER11914128M/1/Dell-Command-Update-Windows-Universal-Application_9M35M_WIN_5.4.0_A00.EXE"
+        "importance": "recommended",
+        "date": "2025-06-30T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER13309588M/2/Dell-Command-Update-Windows-Universal-Application_C8JXV_WIN64_5.5.0_A00_01.EXE"
     },
     {
         "name": "Dell ControlVault2 Driver and Firmware",
         "category": "Security",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2020-02-14T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER06059997M/4/Dell-ControlVault2-Driver-and-Firmware_N23KC_WIN64_4.12.5.8_A21_03.EXE"
+    },
+    {
+        "name": "Dell Digital Delivery Application",
+        "category": "Application",
+        "importance": "recommended",
+        "date": "2025-09-03T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER13568515M/1/Dell-Digital-Delivery-Application_N3PKN_WIN64_5.6.3.0_A32.EXE"
     },
     {
         "name": "Dell Encryption",
         "category": "Dell Data Security",
         "importance": "critical",
-        "date": "2024-10-08T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER12143794M/1/Dell-Encryption-11.10.1.1.zip"
+        "date": "2025-07-28T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER13417921M/1/Dell-Encryption-11.11.0.1.zip"
     },
     {
         "name": "Dell OptiPlex 7060 System BIOS",
@@ -170,84 +177,70 @@
     {
         "name": "Dell SupportAssist OS Recovery Plugin for Dell Update",
         "category": "Application",
-        "importance": "critical",
-        "date": "2025-01-31T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER12655609M/1/Dell-SupportAssist-OS-Recovery-Plugin-for-Dell-Update_P5G2N_WIN64_5.5.13.1_A00.EXE"
+        "importance": "recommended",
+        "date": "2025-07-24T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER13422367M/2/Dell-SupportAssist-OS-Recovery-Plugin-for-Dell-Update_NJKY9_WIN64_5.5.14.0_A00.EXE"
     },
     {
         "name": "Dell System Firmware Update Utility 64 Bit (For IT Use Only)",
         "category": "System Utilities",
-        "importance": "critical",
+        "importance": "optional",
         "date": "2024-12-13T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER12288556M/1/FlashVer3.3.28.zip"
     },
     {
         "name": "Dell TPM 2.0 Firmware Update Utility",
         "category": "Security",
-        "importance": "critical",
-        "date": "2024-01-22T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER11145802M/1/DELLTPM_NPCT750_7.2.2.0_64_v3.exe"
+        "importance": "recommended",
+        "date": "2023-07-11T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER10077796M/1/DELLTPM_NPCT750_7.2.2.0_64_v2.exe"
     },
     {
         "name": "Dell Trusted Device",
         "category": "Trusted Device Security",
         "importance": "critical",
-        "date": "2025-02-04T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER12665917M/1/Dell-Trusted-Device_MC26X_WIN64_6.5.5.0_A59.EXE"
+        "date": "2025-06-07T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER13198523M/2/Dell-Trusted-Device_G4W4V_WIN64_7.1.4.0_A62_01.EXE"
     },
     {
         "name": "Dell USB Smartcard Keyboard Driver",
         "category": "Mouse, Keyboard & Input Devices",
-        "importance": "critical",
+        "importance": "optional",
         "date": "2020-07-16T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER06375220M/1/Input_Driver_MTM06_WN64_3.0.0_A04.EXE"
     },
     {
         "name": "Dell Watch Dog Timer Driver",
         "category": "Application",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2019-04-24T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER05479375M/1/Dell-Watch-Dog-Timer-Driver_9F8RT_WIN_1.0.0.2_A01.EXE"
     },
     {
         "name": "Dell Watchdog Timer Application",
         "category": "Application",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2020-09-21T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER06525823M/3/Dell-Watchdog-Timer-Application_54NC2_WIN64_1.10.2.0_A03_02.EXE"
     },
     {
-        "name": "Dell Watchdog Timer Application",
-        "category": "Application",
-        "importance": "critical",
-        "date": "2018-05-15T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER04855931M/3/Dell-Watch-Dog-Timer-Application_PPVGJ_WIN64_1.0.0_A00.EXE"
-    },
-    {
         "name": "Dell Watchdog Timer Driver",
         "category": "Application",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2023-06-13T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER10035701M/3/Dell-Watchdog-Timer-Driver_RWM04_WIN_1.2.1.0_A01_01.EXE"
     },
     {
-        "name": "Dell/Alienware Digital Delivery Application",
-        "category": "Application",
-        "importance": "critical",
-        "date": "2024-10-31T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER12287364M/1/Dell-Alienware-Digital-Delivery-Application_0FDNH_WIN_5.3.0.0_A28.EXE"
-    },
-    {
         "name": "HGST Jaguar C Series Hard Disk Firmware Update",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2018-07-04T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER05070355M/2/HGST%20Jaguar%20C%20WCT8Y_ZPE.exe"
     },
     {
         "name": "Intel 9560/9260 Bluetooth UWD Driver",
         "category": "Network, Ethernet & Wireless",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2025-01-03T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER12280637M/1/Intel-9560-9260-Bluetooth-UWD-Driver_XG2RF_WIN64_23.90.0.8_A40.EXE"
     },
@@ -282,42 +275,42 @@
     {
         "name": "Intel I210/I225/X550/X710 Ethernet Controller Driver",
         "category": "Network, Ethernet & Wireless",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2022-08-17T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER08855802M/1/Intel-Ethernet-NIC-I210-X550-X710-Driver_HX7J2_WIN64_22.0.0.0_A00.EXE"
     },
     {
         "name": "Intel I210/I350/X540/X550/X710 NIC Driver",
         "category": "Network, Ethernet & Wireless",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2021-03-29T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER07100475M/5/Intel-I210-I350-X540-X550-X710-NIC-Driver_X0VX3_WIN64_25.6.0_A03_04.EXE"
     },
     {
         "name": "Intel Manageability and Security Status Application",
         "category": "Chipset",
-        "importance": "critical",
-        "date": "2024-11-15T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER12076664M/2/Intel-Manageability-and-Security-Status-Application_CJRJ2_WIN64_2405.6.0.0_A09_01.EXE"
+        "importance": "recommended",
+        "date": "2025-08-11T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER13239302M/2/Intel-Manageability-and-Security-Status-Application_32F42_WIN64_2521.8.2.0_A10_01.EXE"
     },
     {
         "name": "Intel Management Engine Components Installer",
         "category": "Chipset",
-        "importance": "critical",
-        "date": "2024-11-15T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER12076556M/5/Intel-Management-Engine-Components-Installer_4VJ35_WIN64_2435.6.36.0_A15_02.EXE"
+        "importance": "recommended",
+        "date": "2025-08-11T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER13002406M/2/Intel-Management-Engine-Components-Installer_NP58K_WIN64_2514.7.16.0_A16_01.EXE"
     },
     {
         "name": "Intel Management Engine Components Installer",
         "category": "Chipset",
-        "importance": "critical",
-        "date": "2021-03-25T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER07040787M/6/Intel-Management-Engine-Components-Installer_J6JHK_WIN_2103.15.0.2135_A07_03.EXE"
+        "importance": "recommended",
+        "date": "2020-07-28T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER06405636M/2/Intel-Management-Engine-Components-Installer_M3H6W_WIN_2027.14.0.1683_A05_01.EXE"
     },
     {
         "name": "Intel MEMPEK1J016GAD and MEMPEK1J032GAD PCIe NVMe Solid State Drive Firmware Update",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2020-02-04T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER06073818M/4/Intel%20MEMPEK1J016GAD_MEMPEK1J032GAD%20N67TJ_ZPE.exe"
     },
@@ -338,7 +331,7 @@
     {
         "name": "Intel Rapid Storage Technology Application",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2020-08-05T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER06409304M/2/Intel-Rapid-Storage-Technology-Application_PGGFW_WIN64_17.9.1008.0_A09_01.EXE"
     },
@@ -352,28 +345,28 @@
     {
         "name": "Intel Solid State Drive Firmware Update",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2018-11-23T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER05325471M/12/Intel%20SSDSC2KF128256512G8%20and%20SSDSCKKF128256512G8%203GT1X_ZPE.exe"
     },
     {
         "name": "Intel Solid State Drive Firmware Update for SSDPEKKF256G8/SSDPEKKF512G8/SSDPEKKF010T8",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2022-05-09T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER08485336M/2/Intel%20SSDPEKKF256G8_SSDPEKKF512G8_SSDPEKKF010T8%208TV61_ZPE.exe"
     },
     {
         "name": "Intel Solid State Drive Firmware Update for SSDPEMKF256G8/SSDPEMKF512G8/SSDPEMKF010T8",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2022-05-20T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER08486339M/2/Intel-Solid-State-Drive-Firmware-Update-for-SSDPEMKF256G8-SSDPEMKF512G8-SSDPEMKF010T8_JGNCW_WIN64_7005.0000_A00_01.EXE"
     },
     {
         "name": "Intel Thunderbolt Controller Driver",
         "category": "Chipset",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2023-03-25T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER09538382M/4/Intel-Thunderbolt-Controller-Driver_TBTB8_WIN_1.41.1353.0_A16_03.EXE"
     },
@@ -381,8 +374,8 @@
         "name": "Intel Thunderbolt Controller Driver",
         "category": "Chipset",
         "importance": "critical",
-        "date": "2018-07-23T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER04991713M/10/Intel-Thunderbolt-Controller-Driver_D8XXT_WIN_17.4.76.300_A09_06.EXE"
+        "date": "2018-04-04T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER04824936M/6/Intel-Thunderbolt-Controller-Driver_0XCPP_WIN_17.3.73.350_A06_02.EXE"
     },
     {
         "name": "Intel Thunderbolt Controller Driver and Application",
@@ -401,84 +394,77 @@
     {
         "name": "Intel Unite Add-in Application for Outlook",
         "category": "Application",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2021-06-01T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER07223629M/3/Intel-Unite-Add-in-Application-for-Outlook_1XNY6_WIN_4.2.25031.0_A00_02.EXE"
     },
     {
         "name": "Intel Unite CAB File Component",
         "category": "Application",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2021-06-01T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER07226144M/1/CAB%20Files.zip"
     },
     {
         "name": "Intel Unite Client Application 32-bit",
         "category": "Application",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2021-06-01T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER07222990M/3/Intel-Unite-Client-Application-32-bit_64D4J_WIN_4.2.25031.51_A00_02.EXE"
     },
     {
         "name": "Intel Unite Client Application 64-bit",
         "category": "Application",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2021-06-01T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER07222980M/3/Intel-Unite-Client-Application-64-bit_429WG_WIN_4.2.25031.51_A00_02.EXE"
     },
     {
         "name": "Intel Unite Extended Display Driver",
         "category": "Application",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2021-06-01T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER07223793M/3/Intel-Unite-Extended-Display-Driver_FPXDR_WIN_4.2.25031.0_A00_02.EXE"
     },
     {
         "name": "Intel Unite File Transfer Component",
         "category": "Application",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2021-06-01T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER07223975M/3/Intel-Unite-File-Transfer-Component_PV7CM_WIN_4.2.25031.51_A00_02.EXE"
     },
     {
-        "name": "Intel Unite File Transfer Component",
-        "category": "Application",
-        "importance": "critical",
-        "date": "2018-11-15T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER05315738M/3/Intel-Unite-File-Transfer-Component_0GJK8_WIN_4.0.991.43_A00.EXE"
-    },
-    {
         "name": "Intel Unite Hub Application",
         "category": "Application",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2021-06-01T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER07223207M/3/Intel-Unite-Hub-Application_H14K6_WIN_4.2.25031.51_A00_02.EXE"
     },
     {
         "name": "Intel Unite Plugin for Skype for Business Installer",
         "category": "Application",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2019-02-12T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER05439931M/2/Intel-Unite-Plugin-for-Skype-for-Business-Installer_MTF5H_WIN_3.3.163.51_A00.EXE"
     },
     {
         "name": "Intel Unite Plugin for Telemetry Application",
         "category": "Application",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2019-02-12T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER05439773M/2/Intel-Unite-Plugin-for-Telemetry-for-Business-Installer_XT34T_WIN_3.3.163.51_A00.EXE"
     },
     {
         "name": "Intel Unite Protected Guest Access Plugin Application",
         "category": "Application",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2019-02-12T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER05439508M/2/Intel-Unite-Protected-Guest-Access-Plugin-Application_78R9H_WIN_3.3.165.51_A00.EXE"
     },
     {
         "name": "Intel Unite Server Application",
         "category": "Application",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2021-06-01T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER07223457M/3/Intel-Unite-Server-Application_VY9YD_WIN_4.2.25031.51_A00_02.EXE"
     },
@@ -492,42 +478,42 @@
     {
         "name": "LiteOn CA3-8D256-Q11/CA3-8D512-Q11 PCIe NVMe SSD Firmware Update",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2019-03-04T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER05480803M/13/LiteOn%20CA3-8D256-Q11_CA3-8D512-Q11%20W3WWY_ZPE.exe"
     },
     {
         "name": "LiteOn Solid State Drive Firmware Update for CAZ-82256-Q11/CAZ-82512-Q11",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2021-03-17T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER07151533M/2/LiteOn-Solid-State-Drive-Firmware-Update-for-CAZ-82256-Q11-CAZ-82512-Q11_0N4C4_WIN_2320.1112_A00_01.EXE"
     },
     {
         "name": "Micron 1100 Series Solid-State Drive Firmware Update",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2019-10-29T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER04830771M/20/Micron%201100%20DKN86_ZPE.exe"
     },
     {
         "name": "Micron 2200 PCIe NVMe Solid State Drive Firmware Update",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2020-08-26T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER06525848M/2/Micron-2200-PCIe-NVMe-Solid-State-Drive-Firmware_FDR7F_WIN64_2200.0160_A00_01.EXE"
     },
     {
         "name": "Micron 2200S PCIe NVMe Solid State Drive Firmware Update",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2021-05-07T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER07324081M/2/Micron-2200S-PCIe-NVMe-Solid-State-Drive-Firmware_3JG3G_WIN64_2200.1070_A00_01.EXE"
     },
     {
         "name": "Micron Solid State Drive Firmware Update",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2019-09-03T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER05807799M/3/Micron-Solid-State-Drive-Firmware-Update_6J6FG_WIN64_1300.0030_A00_01.EXE"
     },
@@ -562,224 +548,224 @@
     {
         "name": "NVIDIA GeForce GT 10xx/GTX 1xx0/RTX x0x0 Graphics Driver",
         "category": "Video",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2023-03-21T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER09557147M/2/NVIDIA-GeForce-10xx-16xx-20xx-30xx-40xx-Graphics_3G92J_WIN64_31.0.15.2824_A00.EXE"
     },
     {
         "name": "NVIDIA GeForce GT 730 Graphics Driver",
         "category": "Video",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2019-12-06T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER05787239M/1/nVIDIA-GeForce-GT-730-1050-1660-Graphics-Driver_XYY91_WIN_26.21.14.3160_A00.EXE"
     },
     {
         "name": "Qualcomm QCA61x4A/QCA6174A-XR/QCA9377 Wi-Fi and Bluetooth Driver",
         "category": "Network, Ethernet & Wireless",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2023-07-07T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER10006678M/4/Qualcomm-QCA61x4A-QCA6174A-XR-QCA9377-Wi-Fi-and-Bluetooth_GCMRG_WIN64_12.0.0.1272_A38_02.EXE"
     },
     {
         "name": "Realtek High Definition Audio Driver",
         "category": "Audio",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2019-06-03T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER05640295M/10/Realtek-High-Definition-Audio-Driver_WKKK3_WIN_6.0.8710.1_A08_06.EXE"
     },
     {
         "name": "Realtek Memory Card Reader Driver",
         "category": "Chipset",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2019-01-08T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER05363883M/4/Realtek-Memory-Card-Reader-Driver_R14N0_WIN_10.0.17763.21311_A01_03.EXE"
     },
     {
         "name": "Samsung PM981a 256GB Solid State Drive Firmware Update",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2022-07-20T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER08642564M/4/Samsung-PM981a-256GB-Solid-State-Drive-Firmware-Update_HVPC3_WIN64_1530.5029_A00_01.EXE"
     },
     {
         "name": "Samsung PM981a 2TB Solid State Drive Firmware Update",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2022-07-20T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER08616147M/2/Samsung-PM981a-2TB-Solid-State-Drive-Firmware-Update_35H12_WIN64_1530.3229_A00_01.EXE"
     },
     {
         "name": "Samsung PM981a 512GB and 1TB SED Solid State Drive Firmware Update",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2022-07-20T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER08616140M/2/Samsung-PM981a-512GB-and-1TB-SED-Solid-State-Drive_YF6KT_WIN64_1530.5629_A00_01.EXE"
     },
     {
         "name": "Samsung PM981a 512GB and 1TB Solid State Drive Firmware Update",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2022-07-20T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER08616185M/2/Samsung-PM981a-512GB-and-1TB-Solid-State-Drive-Firmware_G4GWG_WIN64_1530.5129_A00_01.EXE"
     },
     {
         "name": "Samsung PM991 Solid-State Drive Firmware Update",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2022-08-10T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER08800672M/2/Samsung-PM991-Solid-State-Drive-Firmware-Update_38VKT_WIN64_2531.1039_A00_01.EXE"
     },
     {
         "name": "Seagate Hard Disk Drive Firmware Update for ST500LM030/ST1000LM035",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2019-06-03T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER05652318M/4/Seagate%20ST500LM030_ST1000LM035%20K1N86_ZPE.exe"
     },
     {
         "name": "Seagate Hard Disk Drive Firmware Update for ST500LM035-2GJ17A",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2019-07-29T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER05754571M/9/Seagate%20ST500LM035-2GJ17A%20F08K7_ZPE.exe"
     },
     {
         "name": "Seagate ST2000DM008 Hard Drive Firmware Update",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2021-02-25T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER07053241M/2/Seagate-ST2000DM008-Hard-Drive-Firmware-Update_PVYTW_WIN64_0.1003_A00_01.EXE"
     },
     {
         "name": "Seagate ST2000LM007 Series Hard Disk Firmware Update",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2018-08-07T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER05132716M/12/Seagate%20ST2000LM007%20X1P87_ZPE.exe"
     },
     {
         "name": "Seagate ST500DM009 and ST1000DM010 Hard Disk Drive Firmware Update",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2019-11-21T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER05932767M/3/Seagate%20ST500DM009_ST1000DM010%20CP31H_ZPE.exe"
     },
     {
         "name": "SK Hynix BC501 Solid State Drive Firmware Update",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2020-09-05T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER06555742M/8/SK%20Hynix%20BC501%20K3P7Y_ZPE.exe"
     },
     {
         "name": "SK Hynix BC501A Solid State Drive Firmware Update",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2020-09-29T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER06609869M/2/SK-Hynix-BC501A-Solid-State-Drive-Firmware-Update_3R41W_WIN64_8000.2101_A00_01.EXE"
     },
     {
         "name": "SK Hynix BC511 Solid-State Drive Firmware Update",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2020-12-22T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER06881367M/2/SK-Hynix-BC511-Solid-State-Drive-Firmware-Update_467K0_WIN64_1100.4101_A00_01.EXE"
     },
     {
         "name": "SK Hynix PC401 256 GB/512 GB/1 TB PCIe NVMe Solid-State Drive Firmware Update",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2019-03-13T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER05495158M/14/SK%20Hynix%20PC401%20MCXM8_ZPE.exe"
     },
     {
         "name": "SK Hynix Solid State Drive Firmware Update",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2020-04-23T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER06215544M/7/SK%20Hynix_SC311_J5YR3_ZPE.exe"
     },
     {
         "name": "SK Hynix Solid State Drive Firmware Update",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2020-04-23T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER06216944M/2/SK%20Hynix_SC313%20SED_34X4J_ZPE.exe"
     },
     {
         "name": "SK Hynix Solid State Drive Firmware Update",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2020-04-06T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER06189661M/3/SK%20Hynix%20PC601%20SED%203XN86_ZPE.exe"
     },
     {
         "name": "SK Hynix Solid State Drive Firmware Update",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2020-04-03T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER06177787M/2/SK-Hynix-Solid-State-Drive-Firmware-Update_56KC2_WIN64_9000.0122_A00_01.EXE"
     },
     {
         "name": "SK Hynix Solid State Drive Firmware Update",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2020-03-30T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER06177733M/2/SK-Hynix-Solid-State-Drive-Firmware-Update_13PNX_WIN64_9000.0122_A00_01.EXE"
     },
     {
         "name": "SK Hynix Solid State Drive Firmware Update",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2019-05-30T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER05624587M/8/SK%20Hynix%20PC601%204XTMN_ZPE.exe"
     },
     {
         "name": "SSSTC CL1-3D512-Q11 Solid-State Drive Firmware Update",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2021-08-06T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER07590403M/2/SSSTC-CL1-3D512-Q11-Solid-State-Drive-Firmware-Update_34W2V_WIN_2232.1116_A00_01.EXE"
     },
     {
         "name": "SSSTC Solid State Drive Firmware Update for CL1-3D128-Q11/CL1-3D256-Q11/CL1-3D512-Q11",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2021-03-16T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER07135465M/2/SSSTC-Solid-State-Drive-Firmware-Update-for-CL1-3D128-Q11-CL1-3D256-Q11-CL1-3D512-Q11_6V736_WIN_2232.1114_A00_01.EXE"
     },
     {
         "name": "Sunix Serial and Parallel Card Driver",
         "category": "Modem/Communications",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2021-01-12T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER06845193M/3/Sunix-Serial-and-Parallel-Card-Driver_9MFWH_WIN64_9.0.4.1_A10_02.EXE"
     },
     {
         "name": "Sunix Serial and Parallel Card Driver",
         "category": "Modem/Communications",
-        "importance": "critical",
-        "date": "2019-03-28T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER05339584M/5/Sunix-Serial-and-Parallel-Card-Driver_30C7H_WIN_9.0.4.0_A07_02.EXE"
+        "importance": "recommended",
+        "date": "2018-05-25T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER04964536M/5/Sunix-Serial-and-Parallel-Card-Driver_2JT77_WIN_9.0.2.0_A06_02.EXE"
     },
     {
         "name": "Sunix USB 3.1 Cypress Card Driver",
         "category": "Modem/Communications",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2019-10-24T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER05800724M/1/Sunix-USB31-Card-Cypress-Driver_FWMC1_WIN64_1.2.3.27_A07.EXE"
     },
     {
         "name": "Toshiba MQ01ACF050 Hard Drive Firmware Update",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2023-07-03T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER10233925M/2/FimwareUpdateUtility_3.00.0000_ZPE.exe"
     },
     {
         "name": "Toshiba Solid State Drive Firmware Update",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2019-08-01T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER05755066M/11/Toshiba%20KXG50PNV1T02_KXG50PNV2T04%205J2MJ_ZPE.exe"
     },
@@ -793,77 +779,77 @@
     {
         "name": "Toshiba Solid State Drive Firmware Update for KBG40ZNSxxxx",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2021-04-29T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER07278768M/4/Toshiba-Solid-State-Drive-Firmware-Update-for-KBG40ZNSxxxx_TKNM3_WIN64_1041.0106_A00_03.EXE"
     },
     {
         "name": "TOSHIBA Solid State Drive Firmware Update for KSG60ZSE256/KSG60ZMV256",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2019-01-14T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER05408986M/17/Toshiba%20KSG60ZSE256G_KSG60ZSE512G_KSG60ZMV256G_KSG60ZMV512G%20N91D4_ZPE.exe"
     },
     {
         "name": "Toshiba Solid State Drive Firmware Update for KXG50ZNV256G/KXG50ZNV512G/KXG50ZNV1T02",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2019-07-25T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER05740707M/8/Toshiba%20KXG50ZNV256G_KXG50ZNV512G_KXG50ZNV1T02%207YXTM_ZPE.exe"
     },
     {
         "name": "Toshiba Solid State Drive Firmware Update for KXG5AZNV256G/KXG5AZNV512G/KXG5AZNV1T02",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2019-08-06T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER05754953M/10/Toshiba%20KXG5AZNV256G_KXG5AZNV512G_KXG5AZNV1T02%204JGV3_ZPE.exe"
     },
     {
         "name": "Toshiba Solid-state Drive Firmware Update for KXG60PNV512G/KXG60PNV1T02/KXG60PNV2T04",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2019-10-07T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER05857365M/2/Toshiba-Solid-state-Drive-Firmware-Update-for-KXG60PNV512G-KXG60PNV1T02-KXG60PNV2T04_D79CH_WIN64_1070.4103_A00_01.EXE"
     },
     {
         "name": "Toshiba Solid-state Drive Firmware Update for KXG60ZNV256G/KXG60ZNV512G/KXG60ZNV1T02",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2019-10-14T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER05846240M/2/Toshiba-Solid-state-Drive-Firmware-Update-for-KXG60ZNV256G-KXG60ZNV512G-KXG60ZNV1T02_7RY97_WIN64_1060.4106_A00_01.EXE"
     },
     {
         "name": "Toshiba Solid-state Drive Firmware Update for KXG6AZNV256G/KXG6AZNV512G/KXG6AZNV1T02",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2019-10-07T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER05846242M/2/Toshiba-Solid-state-Drive-Firmware-Update-for-KXG6AZNV256G-KXG6AZNV512G-KXG6AZNV1T02_4D69K_WIN64_1060.5105_A00_01.EXE"
     },
     {
         "name": "USB Type-C Status Display Application",
         "category": "Application",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2018-05-21T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER04867333M/5/USB-Type-C-Status-Display-Application_576N6_WIN64_2.1.1325.0_A00_02.EXE"
     },
     {
         "name": "Waves MaxxAudio Pro Application",
         "category": "Audio",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2018-09-20T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER05158063M/8/Waves-MaxxAudio-Pro-Application_VWPRR_WIN64_1.1.131.0_A06_05.EXE"
     },
     {
         "name": "Western Digital Corp SN730 PCIe NVMe Solid-State Drive Firmware Update",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2021-09-29T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER07700894M/3/Western-Digital-Corp-SN730-PCIe-NVMe-Solid-State_WVWCD_WIN64_1117.0012_A00_01.EXE"
     },
     {
         "name": "Western Digital Corp Solid State Drive Firmware Update",
         "category": "Storage",
-        "importance": "critical",
+        "importance": "recommended",
         "date": "2020-06-01T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER06283207M/2/Western-Digital-Corp-Solid-State-Drive-Firmware-Update_FFK91_WIN64_2024.0012_A00_01.EXE"
     }

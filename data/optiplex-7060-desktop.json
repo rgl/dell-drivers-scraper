@@ -87,8 +87,8 @@
         "name": "Dell Command | Deploy WinPE 10.0 Driver Pack",
         "category": "Systems Management",
         "importance": "optional",
-        "date": "2025-06-24T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER13180529M/1/WinPE10.0-Drivers-A37-9WTWC.cab"
+        "date": "2025-09-19T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER13650831M/1/WinPE10.0-Drivers-A37-THR8D.cab"
     },
     {
         "name": "Dell Command | Endpoint Configure for Microsoft Intune",

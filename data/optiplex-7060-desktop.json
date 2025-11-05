@@ -728,13 +728,6 @@
         "url": "https://dl.dell.com/FOLDER07590403M/2/SSSTC-CL1-3D512-Q11-Solid-State-Drive-Firmware-Update_34W2V_WIN_2232.1116_A00_01.EXE"
     },
     {
-        "name": "SSSTC Solid State Drive Firmware Update for CL1-3D128-Q11/CL1-3D256-Q11/CL1-3D512-Q11",
-        "category": "Storage",
-        "importance": "recommended",
-        "date": "2021-03-16T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER07135465M/2/SSSTC-Solid-State-Drive-Firmware-Update-for-CL1-3D128-Q11-CL1-3D256-Q11-CL1-3D512-Q11_6V736_WIN_2232.1114_A00_01.EXE"
-    },
-    {
         "name": "Sunix Serial and Parallel Card Driver",
         "category": "Modem/Communications",
         "importance": "recommended",

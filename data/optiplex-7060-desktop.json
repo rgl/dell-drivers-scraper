@@ -155,10 +155,10 @@
     },
     {
         "name": "Dell Encryption",
-        "category": "Dell Data Security",
-        "importance": "critical",
-        "date": "2025-07-28T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER13417921M/1/Dell-Encryption-11.11.0.1.zip"
+        "category": "Security",
+        "importance": "recommended",
+        "date": "2025-11-24T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER13890545M/1/Dell-Encryption-11.12.1.zip"
     },
     {
         "name": "Dell OptiPlex 7060 System BIOS",
@@ -199,8 +199,8 @@
         "name": "Dell Trusted Device",
         "category": "Security",
         "importance": "critical",
-        "date": "2025-10-29T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER13771946M/1/Dell-Trusted-Device_0GM4P_WIN64_7.1.10.0_A64.EXE"
+        "date": "2025-12-02T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER13843198M/1/Dell-Trusted-Device_M89PJ_WIN64_7.2.1.0_A65.EXE"
     },
     {
         "name": "Dell USB Smartcard Keyboard Driver",
@@ -322,6 +322,13 @@
         "url": "https://dl.dell.com/FOLDER05877897M/5/Intel-PCIe-Ethernet-Network-Driver_VP20T_WIN_24.1.0.0_A13_04.EXE"
     },
     {
+        "name": "Intel Pro5450 Solid State Drive Firmware Update",
+        "category": "Storage",
+        "importance": "recommended",
+        "date": "2018-11-23T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER05325471M/12/Intel%20SSDSC2KF128256512G8%20and%20SSDSCKKF128256512G8%203GT1X_ZPE.exe"
+    },
+    {
         "name": "Intel Rapid Storage Technology Application",
         "category": "Storage",
         "importance": "recommended",
@@ -334,13 +341,6 @@
         "importance": "critical",
         "date": "2023-02-13T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER09493226M/8/Intel-Rapid-Storage-Technology-Driver_1CM7K_WIN64_17.11.3.1010_A07_06.EXE"
-    },
-    {
-        "name": "Intel Solid State Drive Firmware Update",
-        "category": "Storage",
-        "importance": "recommended",
-        "date": "2018-11-23T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER05325471M/12/Intel%20SSDSC2KF128256512G8%20and%20SSDSCKKF128256512G8%203GT1X_ZPE.exe"
     },
     {
         "name": "Intel Solid State Drive Firmware Update for SSDPEKKF256G8/SSDPEKKF512G8/SSDPEKKF010T8",
@@ -672,28 +672,35 @@
         "url": "https://dl.dell.com/FOLDER05495158M/14/SK%20Hynix%20PC401%20MCXM8_ZPE.exe"
     },
     {
-        "name": "SK Hynix Solid State Drive Firmware Update",
-        "category": "Storage",
-        "importance": "recommended",
-        "date": "2020-04-23T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER06215544M/7/SK%20Hynix_SC311_J5YR3_ZPE.exe"
-    },
-    {
-        "name": "SK Hynix Solid State Drive Firmware Update",
-        "category": "Storage",
-        "importance": "recommended",
-        "date": "2020-04-23T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER06216944M/2/SK%20Hynix_SC313%20SED_34X4J_ZPE.exe"
-    },
-    {
-        "name": "SK Hynix Solid State Drive Firmware Update",
+        "name": "SK Hynix PC601 SED Solid State Drive Firmware Update",
         "category": "Storage",
         "importance": "recommended",
         "date": "2020-04-06T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER06189661M/3/SK%20Hynix%20PC601%20SED%203XN86_ZPE.exe"
     },
     {
-        "name": "SK Hynix Solid State Drive Firmware Update",
+        "name": "SK Hynix PC601 Solid State Drive Firmware Update",
+        "category": "Storage",
+        "importance": "recommended",
+        "date": "2019-05-30T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER05624587M/8/SK%20Hynix%20PC601%204XTMN_ZPE.exe"
+    },
+    {
+        "name": "SK Hynix SC313 SED Solid State Drive Firmware Update",
+        "category": "Storage",
+        "importance": "recommended",
+        "date": "2020-04-23T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER06216944M/2/SK%20Hynix_SC313%20SED_34X4J_ZPE.exe"
+    },
+    {
+        "name": "SK Hynix SC401 2.5 SATA Solid State Drive Firmware Update",
+        "category": "Storage",
+        "importance": "recommended",
+        "date": "2020-03-30T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER06177733M/2/SK-Hynix-Solid-State-Drive-Firmware-Update_13PNX_WIN64_9000.0122_A00_01.EXE"
+    },
+    {
+        "name": "SK Hynix SC401 Solid State Drive Firmware Update",
         "category": "Storage",
         "importance": "recommended",
         "date": "2020-04-03T00:00:00.000Z",
@@ -703,22 +710,22 @@
         "name": "SK Hynix Solid State Drive Firmware Update",
         "category": "Storage",
         "importance": "recommended",
-        "date": "2020-03-30T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER06177733M/2/SK-Hynix-Solid-State-Drive-Firmware-Update_13PNX_WIN64_9000.0122_A00_01.EXE"
+        "date": "2020-04-23T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER06215544M/7/SK%20Hynix_SC311_J5YR3_ZPE.exe"
     },
     {
-        "name": "SK Hynix Solid State Drive Firmware Update",
+        "name": "SSSTC CL1 512GB Solid State Drive Firmware Update",
         "category": "Storage",
         "importance": "recommended",
-        "date": "2019-05-30T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER05624587M/8/SK%20Hynix%20PC601%204XTMN_ZPE.exe"
+        "date": "2025-12-09T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER13617759M/1/SSSTC-CL1-512GB-Solid-State-Drive-Firmware-Update_GP69P_WIN64_2232.1118_A08.EXE"
     },
     {
-        "name": "SSSTC CL1-3D512-Q11 Solid-State Drive Firmware Update",
+        "name": "SSSTC CL1 Solid State Drive Firmware Update",
         "category": "Storage",
         "importance": "recommended",
-        "date": "2021-08-06T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER07590403M/2/SSSTC-CL1-3D512-Q11-Solid-State-Drive-Firmware-Update_34W2V_WIN_2232.1116_A00_01.EXE"
+        "date": "2025-12-09T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER13617667M/1/SSSTC-CL1-Solid-State-Drive-Firmware-Update_H62WM_WIN64_2230.1118_A08.EXE"
     },
     {
         "name": "Sunix Serial and Parallel Card Driver",

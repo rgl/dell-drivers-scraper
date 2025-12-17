@@ -177,9 +177,9 @@
     {
         "name": "Dell SupportAssist OS Recovery Plugin for Dell Update",
         "category": "Application",
-        "importance": "critical",
-        "date": "2025-10-24T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER13763282M/1/Dell-SupportAssist-OS-Recovery-Plugin-for-Dell-Update_7N0KN_WIN64_5.5.15.0_A00.EXE"
+        "importance": "optional",
+        "date": "2025-12-15T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER13973719M/1/Dell-SupportAssist-OS-Recovery-Plugin-for-Dell-Update_9VYGN_WIN64_5.5.15.1_A00.EXE"
     },
     {
         "name": "Dell System Firmware Update Utility 64 Bit (For IT Use Only)",

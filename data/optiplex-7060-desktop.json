@@ -177,7 +177,7 @@
     {
         "name": "Dell SupportAssist OS Recovery Plugin for Dell Update",
         "category": "Application",
-        "importance": "optional",
+        "importance": "critical",
         "date": "2025-12-15T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER13973719M/1/Dell-SupportAssist-OS-Recovery-Plugin-for-Dell-Update_9VYGN_WIN64_5.5.15.1_A00.EXE"
     },

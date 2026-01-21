@@ -177,7 +177,7 @@
     {
         "name": "Dell SupportAssist OS Recovery Plugin for Dell Update",
         "category": "Application",
-        "importance": "critical",
+        "importance": "optional",
         "date": "2025-12-15T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER13973719M/1/Dell-SupportAssist-OS-Recovery-Plugin-for-Dell-Update_9VYGN_WIN64_5.5.15.1_A00.EXE"
     },
@@ -747,6 +747,13 @@
         "importance": "recommended",
         "date": "2019-10-24T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER05800724M/1/Sunix-USB31-Card-Cypress-Driver_FWMC1_WIN64_1.2.3.27_A07.EXE"
+    },
+    {
+        "name": "SupportAssist Update Plugin Application",
+        "category": "Application",
+        "importance": "recommended",
+        "date": "2019-12-26T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER06016207M/2/SupportAssist-Update-Plugin-Application_WGFXM_WIN_5.0.1.10877_A00.EXE"
     },
     {
         "name": "Toshiba MQ01ACF050 Hard Drive Firmware Update",

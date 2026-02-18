@@ -147,13 +147,6 @@
         "url": "https://dl.dell.com/FOLDER06059997M/4/Dell-ControlVault2-Driver-and-Firmware_N23KC_WIN64_4.12.5.8_A21_03.EXE"
     },
     {
-        "name": "Dell Digital Delivery Application",
-        "category": "Application",
-        "importance": "recommended",
-        "date": "2025-09-03T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER13568515M/1/Dell-Digital-Delivery-Application_N3PKN_WIN64_5.6.3.0_A32.EXE"
-    },
-    {
         "name": "Dell Encryption",
         "category": "Security",
         "importance": "recommended",
@@ -180,6 +173,13 @@
         "importance": "optional",
         "date": "2025-12-15T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER13973719M/1/Dell-SupportAssist-OS-Recovery-Plugin-for-Dell-Update_9VYGN_WIN64_5.5.15.1_A00.EXE"
+    },
+    {
+        "name": "Dell SupportAssist OS Recovery Plugin for Dell Update",
+        "category": "Application",
+        "importance": "recommended",
+        "date": "2022-10-25T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER08959835M/3/Dell-SupportAssist-OS-Recovery-Plugin-for-Dell-Update_MVJH7_WIN_5.5.4.16189_A00_02.EXE"
     },
     {
         "name": "Dell System Firmware Update Utility 64 Bit (For IT Use Only)",
@@ -291,7 +291,7 @@
         "category": "Chipset",
         "importance": "recommended",
         "date": "2025-08-11T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER13239302M/2/Intel-Manageability-and-Security-Status-Application_32F42_WIN64_2521.8.2.0_A10_01.EXE"
+        "url": "https://dl.dell.com/FOLDER13239302M/3/Intel-Manageability-and-Security-Status-Application_32F42_WIN64_2521.8.2.0_A10_02.EXE"
     },
     {
         "name": "Intel Management Engine Components Installer",
@@ -747,13 +747,6 @@
         "importance": "recommended",
         "date": "2019-10-24T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER05800724M/1/Sunix-USB31-Card-Cypress-Driver_FWMC1_WIN64_1.2.3.27_A07.EXE"
-    },
-    {
-        "name": "SupportAssist Update Plugin Application",
-        "category": "Application",
-        "importance": "recommended",
-        "date": "2019-12-26T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER06016207M/2/SupportAssist-Update-Plugin-Application_WGFXM_WIN_5.0.1.10877_A00.EXE"
     },
     {
         "name": "Toshiba MQ01ACF050 Hard Drive Firmware Update",

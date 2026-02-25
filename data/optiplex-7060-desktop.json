@@ -172,7 +172,7 @@
         "category": "Application",
         "importance": "optional",
         "date": "2025-12-15T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER13973719M/1/Dell-SupportAssist-OS-Recovery-Plugin-for-Dell-Update_9VYGN_WIN64_5.5.15.1_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER13973719M/2/Dell-SupportAssist-OS-Recovery-Plugin-for-Dell-Update_9VYGN_WIN64_5.5.15.1_A00_01.EXE"
     },
     {
         "name": "Dell SupportAssist OS Recovery Plugin for Dell Update",
@@ -718,14 +718,14 @@
         "category": "Storage",
         "importance": "recommended",
         "date": "2025-12-09T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER13617759M/1/SSSTC-CL1-512GB-Solid-State-Drive-Firmware-Update_GP69P_WIN64_2232.1118_A08.EXE"
+        "url": "https://dl.dell.com/FOLDER13617759M/2/SSSTC-CL1-512GB-Solid-State-Drive-Firmware-Update_GP69P_WIN64_2232.1118_A08_01.EXE"
     },
     {
         "name": "SSSTC CL1 Solid State Drive Firmware Update",
         "category": "Storage",
         "importance": "recommended",
         "date": "2025-12-09T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER13617667M/1/SSSTC-CL1-Solid-State-Drive-Firmware-Update_H62WM_WIN64_2230.1118_A08.EXE"
+        "url": "https://dl.dell.com/FOLDER13617667M/2/SSSTC-CL1-Solid-State-Drive-Firmware-Update_H62WM_WIN64_2230.1118_A08_01.EXE"
     },
     {
         "name": "Sunix Serial and Parallel Card Driver",

@@ -28,11 +28,11 @@
         "url": "https://dl.dell.com/FOLDER08805067M/3/AMD-Radeon-R550-R540-RX-640-RX-550-Graphics-Driver_7GYJN_WIN64_30.0.13018.11001_A00_02.EXE"
     },
     {
-        "name": "AMD Radeon R550/R540/RX 640/RX 550 Graphics Driver",
+        "name": "AMD RX 550/RX 640/R5 430 Graphics Driver",
         "category": "Video",
         "importance": "recommended",
-        "date": "2021-12-20T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER08012901M/2/AMD-Radeon-R550-R540-RX-640-RX-550-Graphics-Driver_RMP33_WIN64_30.0.13002.12003_A00_01.EXE"
+        "date": "2020-11-23T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER06729110M/3/AMD-RX550-RX640-R5-430-Graphics-Driver_PP116_WIN64_27.20.1032.2_A00_02.EXE"
     },
     {
         "name": "Aquantia 5G Network Add-in Card Driver",
@@ -173,13 +173,6 @@
         "importance": "optional",
         "date": "2025-12-15T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER13973719M/2/Dell-SupportAssist-OS-Recovery-Plugin-for-Dell-Update_9VYGN_WIN64_5.5.15.1_A00_01.EXE"
-    },
-    {
-        "name": "Dell SupportAssist OS Recovery Plugin for Dell Update",
-        "category": "Application",
-        "importance": "recommended",
-        "date": "2022-10-25T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER08959835M/3/Dell-SupportAssist-OS-Recovery-Plugin-for-Dell-Update_MVJH7_WIN_5.5.4.16189_A00_02.EXE"
     },
     {
         "name": "Dell System Firmware Update Utility 64 Bit (For IT Use Only)",
@@ -539,13 +532,6 @@
         "url": "https://dl.dell.com/FOLDER12121767M/2/NVIDIA-GeForce-GT-10xx-GTX-1xx0-RTX-x0x0-Graphics_43MHD_WIN_32.0.15.6094_A00.EXE"
     },
     {
-        "name": "NVIDIA GeForce GT 10xx/GTX 1xx0/RTX x0x0 Graphics Driver",
-        "category": "Video",
-        "importance": "recommended",
-        "date": "2023-03-21T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER09557147M/2/NVIDIA-GeForce-10xx-16xx-20xx-30xx-40xx-Graphics_3G92J_WIN64_31.0.15.2824_A00.EXE"
-    },
-    {
         "name": "NVIDIA GeForce GT 730 Graphics Driver",
         "category": "Video",
         "importance": "recommended",
@@ -747,6 +733,13 @@
         "importance": "recommended",
         "date": "2019-10-24T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER05800724M/1/Sunix-USB31-Card-Cypress-Driver_FWMC1_WIN64_1.2.3.27_A07.EXE"
+    },
+    {
+        "name": "SupportAssist Update Plugin Application",
+        "category": "Application",
+        "importance": "recommended",
+        "date": "2019-12-26T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER06016207M/2/SupportAssist-Update-Plugin-Application_WGFXM_WIN_5.0.1.10877_A00.EXE"
     },
     {
         "name": "Toshiba MQ01ACF050 Hard Drive Firmware Update",

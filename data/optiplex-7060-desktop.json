@@ -224,6 +224,13 @@
         "url": "https://dl.dell.com/FOLDER10035701M/3/Dell-Watchdog-Timer-Driver_RWM04_WIN_1.2.1.0_A01_01.EXE"
     },
     {
+        "name": "Dell/Alienware Purchased Apps",
+        "category": "Application",
+        "importance": "recommended",
+        "date": "2026-03-07T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER14236693M/3/Dell-Alienware-Purchased-Apps_78T6N_WIN64_1.1.30.0_A00.EXE"
+    },
+    {
         "name": "HGST Jaguar C Series Hard Disk Firmware Update",
         "category": "Storage",
         "importance": "recommended",
@@ -355,13 +362,6 @@
         "importance": "recommended",
         "date": "2023-03-25T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER09538382M/4/Intel-Thunderbolt-Controller-Driver_TBTB8_WIN_1.41.1353.0_A16_03.EXE"
-    },
-    {
-        "name": "Intel Thunderbolt Controller Driver",
-        "category": "Chipset",
-        "importance": "critical",
-        "date": "2018-04-04T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER04824936M/6/Intel-Thunderbolt-Controller-Driver_0XCPP_WIN_17.3.73.350_A06_02.EXE"
     },
     {
         "name": "Intel Thunderbolt Controller Driver and Application",

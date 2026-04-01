@@ -87,8 +87,8 @@
         "name": "Dell Command | Deploy WinPE 10.0 Driver Pack",
         "category": "Systems Management",
         "importance": "optional",
-        "date": "2025-12-23T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER14002063M/1/WinPE10.0-Drivers-A38-0VJ7T.cab"
+        "date": "2026-03-31T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER14364021M/1/WinPE10.0-Drivers-A39-524P6.cab"
     },
     {
         "name": "Dell Command | Endpoint Configure for Microsoft Intune",
@@ -298,7 +298,7 @@
         "category": "Chipset",
         "importance": "recommended",
         "date": "2025-08-11T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER13002406M/2/Intel-Management-Engine-Components-Installer_NP58K_WIN64_2514.7.16.0_A16_01.EXE"
+        "url": "https://dl.dell.com/FOLDER13002406M/3/Intel-Management-Engine-Components-Installer_NP58K_WIN64_2514.7.16.0_A16_02.EXE"
     },
     {
         "name": "Intel MEMPEK1J016GAD and MEMPEK1J032GAD PCIe NVMe Solid State Drive Firmware Update",

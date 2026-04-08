@@ -150,8 +150,8 @@
         "name": "Dell Encryption",
         "category": "Security",
         "importance": "recommended",
-        "date": "2025-11-24T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER13890545M/1/Dell-Encryption-11.12.1.zip"
+        "date": "2026-04-03T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER14356291M/1/Dell-Encryption-11.13.0.1.zip.zip"
     },
     {
         "name": "Dell OptiPlex 7060 System BIOS",
@@ -170,9 +170,9 @@
     {
         "name": "Dell SupportAssist OS Recovery Plugin for Dell Update",
         "category": "Application",
-        "importance": "optional",
-        "date": "2025-12-15T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER13973719M/2/Dell-SupportAssist-OS-Recovery-Plugin-for-Dell-Update_9VYGN_WIN64_5.5.15.1_A00_01.EXE"
+        "importance": "recommended",
+        "date": "2026-04-07T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER14394608M/1/Dell-SupportAssist-OS-Recovery-Plugin-for-Dell-Update_XJ0DT_WIN64_5.5.15.2_A00.EXE"
     },
     {
         "name": "Dell System Firmware Update Utility 64 Bit (For IT Use Only)",

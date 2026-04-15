@@ -130,14 +130,14 @@
         "category": "Systems Management",
         "importance": "recommended",
         "date": "2025-11-28T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER13922605M/1/Dell-Command-Update-Application_5CR1Y_WIN64_5.6.0_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER13922605M/2/Dell-Command-Update-Application_5CR1Y_WIN64_5.6.0_A00_01.EXE"
     },
     {
         "name": "Dell Command | Update Windows Universal Application",
         "category": "Systems Management",
         "importance": "recommended",
         "date": "2025-11-28T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER13922692M/1/Dell-Command-Update-Windows-Universal-Application_2WT0J_WIN64_5.6.0_A00.EXE"
+        "url": "https://dl.dell.com/FOLDER13922692M/2/Dell-Command-Update-Windows-Universal-Application_2WT0J_WIN64_5.6.0_A00_01.EXE"
     },
     {
         "name": "Dell ControlVault2 Driver and Firmware",
@@ -170,7 +170,7 @@
     {
         "name": "Dell SupportAssist OS Recovery Plugin for Dell Update",
         "category": "Application",
-        "importance": "recommended",
+        "importance": "critical",
         "date": "2026-04-07T00:00:00.000Z",
         "url": "https://dl.dell.com/FOLDER14394608M/1/Dell-SupportAssist-OS-Recovery-Plugin-for-Dell-Update_XJ0DT_WIN64_5.5.15.2_A00.EXE"
     },
@@ -298,7 +298,7 @@
         "category": "Chipset",
         "importance": "recommended",
         "date": "2025-08-11T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER13002406M/3/Intel-Management-Engine-Components-Installer_NP58K_WIN64_2514.7.16.0_A16_02.EXE"
+        "url": "https://dl.dell.com/FOLDER13002406M/4/Intel-Management-Engine-Components-Installer_NP58K_WIN64_2514.7.16.0_A16_03.EXE"
     },
     {
         "name": "Intel MEMPEK1J016GAD and MEMPEK1J032GAD PCIe NVMe Solid State Drive Firmware Update",

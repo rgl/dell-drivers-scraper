@@ -171,8 +171,8 @@
         "name": "Dell SupportAssist OS Recovery Plugin for Dell Update",
         "category": "Application",
         "importance": "critical",
-        "date": "2026-04-30T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER14498526M/1/Dell-SupportAssist-OS-Recovery-Plugin-for-Dell-Update_NY2V6_WIN64_5.5.16.0_A00.EXE"
+        "date": "2026-04-07T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER14394608M/1/Dell-SupportAssist-OS-Recovery-Plugin-for-Dell-Update_XJ0DT_WIN64_5.5.15.2_A00.EXE"
     },
     {
         "name": "Dell System Firmware Update Utility 64 Bit (For IT Use Only)",

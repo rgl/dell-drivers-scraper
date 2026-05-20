@@ -168,11 +168,11 @@
         "url": "https://dl.dell.com/FOLDER06200068M/6/Dell-Security-Advisory-Update-DSA-2020-059_1GWG9_WIN64_1.0.0.0_A00_03.EXE"
     },
     {
-        "name": "Dell SupportAssist OS Recovery Plugin for Dell Update",
+        "name": "Dell SupportAssist OS Recovery Plugin",
         "category": "Application",
-        "importance": "critical",
-        "date": "2026-04-07T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER14394608M/1/Dell-SupportAssist-OS-Recovery-Plugin-for-Dell-Update_XJ0DT_WIN64_5.5.15.2_A00.EXE"
+        "importance": "recommended",
+        "date": "2026-05-14T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER14550391M/1/Dell-SupportAssist-OS-Recovery-Plugin_XVV9X_WIN64_5.5.16.1_A00.EXE"
     },
     {
         "name": "Dell System Firmware Update Utility 64 Bit (For IT Use Only)",

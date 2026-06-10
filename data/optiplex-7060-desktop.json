@@ -224,6 +224,13 @@
         "url": "https://dl.dell.com/FOLDER10035701M/3/Dell-Watchdog-Timer-Driver_RWM04_WIN_1.2.1.0_A01_01.EXE"
     },
     {
+        "name": "Dell-Alienware Purchased Apps Application",
+        "category": "Application",
+        "importance": "recommended",
+        "date": "2026-06-04T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER14583047M/1/Dell-Alienware-Purchased-Apps-Application_K9YCG_WIN64_1.1.32.0_A00.EXE"
+    },
+    {
         "name": "Dell/Alienware Purchased Apps",
         "category": "Application",
         "importance": "recommended",

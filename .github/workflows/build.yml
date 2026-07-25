@@ -14,8 +14,14 @@ jobs:
         with:
           node-version: 24
       - name: Install dependencies
-        run: npm ci && npx puppeteer browsers install
+        run: |
+          npm ci
+          npx puppeteer browsers install
+          # see https://chromium.googlesource.com/chromium/src/+/main/docs/security/apparmor-userns-restrictions.md
+          sudo chmod 4755 /opt/google/chrome/chrome-sandbox
       - name: Build
+        env:
+          CHROME_DEVEL_SANDBOX: /opt/google/chrome/chrome-sandbox
         run: node main.js
       - name: Build summary
         shell: pwsh

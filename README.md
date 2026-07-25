@@ -39,5 +39,9 @@ Execute:
 
 ```bash
 npm ci
-node main.js
+npx puppeteer browsers install
+npx puppeteer browsers list
+# see https://chromium.googlesource.com/chromium/src/+/main/docs/security/apparmor-userns-restrictions.md
+CHROME_DEVEL_SANDBOX=/opt/google/chrome/chrome-sandbox \
+    node main.js
 ```

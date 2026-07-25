@@ -2,14 +2,16 @@
 
 // install dependencies:
 //
-//      npm install
+//      npm install && npx puppeteer browsers install
 //
 // execute:
 //
-// NB to troubleshoot uncomment $env:DEBUG and set {headless:false,dumpio:true} in main.js.
+//      node main.js
+//
+// to troubleshoot execute:
 //
 //      $env:DEBUG = 'puppeteer:*'
-//      node main.js
+//      node main.js --debug
 
 import { program } from "commander";
 import puppeteer from "puppeteer";

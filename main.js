@@ -28,13 +28,12 @@ async function getDrivers(page, product) {
     log(`Loading ${url}...`);
     await page.goto(url);
 
-    log("Rejecting cookies...");
-    const rejectCookiesSelector = '[aria-label="cookieconsent"] .cc-dismiss';
+    log("Dismissing the cookie consent banner...");
     try {
-        await page.waitForSelector(rejectCookiesSelector, {timeout: 5000});
-        await page.click(rejectCookiesSelector);
+        await page.locator('button#onetrust-reject-all-handler').setTimeout(5000).click();
     } catch {
         // ignore. this is expected in countries without cookies consent.
+        log(`Cookie consent banner not found. Ignoring.`);
     }
 
     log("Selecting the United States/English region...");
@@ -42,14 +41,14 @@ async function getDrivers(page, product) {
     const currentCountry = await page.evaluate((countrySelector) => document.querySelector(countrySelector).innerText.trim(), countrySelector);
     if (currentCountry != "US/EN") {
         await page.hover(`${countrySelector} a`);
-        await page.waitForSelector(`${countrySelector} [data-region-id="Americas"]`);
-        await page.click(`${countrySelector} [data-region-id="Americas"]`);
+        await page.locator(`${countrySelector} [data-region-id="Americas"]`).click();
         await page.click(`${countrySelector} a[data-locale="en-us"]`);
         await page.waitForNavigation();
     }
 
     log("Waiting for the downloads table...");
-    await page.waitForSelector("#driver-list-table #dnd-list-tab0 div.dds__td span.dds__table__cell::-p-text(BIOS)");
+    await page.locator("#dnd-list-tabs button#dnd-list-tab-p-pc").click();
+    await page.waitForSelector("#driver-list-table #dnd-list-tab1 div.dds__td span.dds__table__cell::-p-text(BIOS)");
 
     log("Getting data from the downloads table...");
     return await page.evaluate(async () => {
@@ -78,7 +77,7 @@ async function getDrivers(page, product) {
         }
 
         var data = [];
-        const els = document.querySelectorAll("#driver-list-table #dnd-list-tab0 .dds__tbody .dds__tr");
+        const els = document.querySelectorAll("#driver-list-table #dnd-list-tab1 .dds__tbody .dds__tr");
         for (const el of els) {
             const columnEls = el.querySelectorAll(".dds__table__cell");
             if (columnEls.length != 5) {

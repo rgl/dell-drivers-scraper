@@ -12,9 +12,9 @@
     },
     "dependencies": {
         "commander": "15.0.0",
-        "puppeteer": "25.4.0"
+        "puppeteer": "25.5.0"
     },
     "allowScripts": {
-        "puppeteer@25.4.0": true
+        "puppeteer@25.5.0": true
     }
 }

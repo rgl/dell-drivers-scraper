@@ -88,7 +88,7 @@
         "category": "Systems Management",
         "importance": "optional",
         "date": "2026-03-31T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER14364021M/1/WinPE10.0-Drivers-A39-524P6.cab"
+        "url": "https://dl.dell.com/FOLDER14355514M/1/WinPE10.0-Drivers-A39-524P6.html"
     },
     {
         "name": "Dell Command | Endpoint Configure for Microsoft Intune",
@@ -126,18 +126,18 @@
         "url": "https://dl.dell.com/FOLDER11394916M/1/DellCommandPowerShellProvider2.7.2_1.zip"
     },
     {
-        "name": "Dell Command | Update Application",
+        "name": "Dell Command | Update for Win32",
         "category": "Systems Management",
         "importance": "critical",
-        "date": "2026-04-15T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER14424243M/1/Dell-Command-Update-Application_RXT5N_WIN64_5.7.0_A00.EXE"
+        "date": "2026-08-03T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER14847280M/2/Dell-Command-Update-for-Win32_61R17_WIN64_5.7.1_A00.EXE"
     },
     {
         "name": "Dell Command | Update Windows Universal Application",
         "category": "Systems Management",
         "importance": "critical",
-        "date": "2026-04-15T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER14424601M/1/Dell-Command-Update-Windows-Universal-Application_FGK9X_WIN64_5.7.0_A00.EXE"
+        "date": "2026-08-03T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER14847331M/2/Dell-Command-Update-Windows-Universal-Application_P0P70_WIN64_5.7.1_A00.EXE"
     },
     {
         "name": "Dell ControlVault2 Driver and Firmware",
@@ -150,8 +150,8 @@
         "name": "Dell Encryption",
         "category": "Security",
         "importance": "recommended",
-        "date": "2026-04-03T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER14356291M/1/Dell-Encryption-11.13.0.1.zip.zip"
+        "date": "2026-06-19T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER14678277M/1/Dell-Encryption-11.13.1.1.zip"
     },
     {
         "name": "Dell OptiPlex 7060 System BIOS",
@@ -168,11 +168,11 @@
         "url": "https://dl.dell.com/FOLDER06200068M/6/Dell-Security-Advisory-Update-DSA-2020-059_1GWG9_WIN64_1.0.0.0_A00_03.EXE"
     },
     {
-        "name": "Dell SupportAssist OS Recovery Plugin",
+        "name": "Dell SupportAssist OS Recovery Plugin for Dell Update",
         "category": "Application",
         "importance": "recommended",
-        "date": "2026-05-14T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER14550391M/1/Dell-SupportAssist-OS-Recovery-Plugin_XVV9X_WIN64_5.5.16.1_A00.EXE"
+        "date": "2026-07-15T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER14726234M/1/Dell-SupportAssist-OS-Recovery-Plugin-for-Dell-Update_8Y4N9_WIN64_5.5.16.2_A00.EXE"
     },
     {
         "name": "Dell System Firmware Update Utility 64 Bit (For IT Use Only)",
@@ -403,7 +403,7 @@
         "category": "Application",
         "importance": "recommended",
         "date": "2021-06-01T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER07222990M/3/Intel-Unite-Client-Application-32-bit_64D4J_WIN_4.2.25031.51_A00_02.EXE"
+        "url": "https://dl.dell.com/FOLDER07222990M/4/Intel-Unite-Client-Application-32-bit_64D4J_WIN_4.2.25031.51_A00_03.EXE"
     },
     {
         "name": "Intel Unite Client Application 64-bit",
@@ -417,7 +417,7 @@
         "category": "Application",
         "importance": "recommended",
         "date": "2021-06-01T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER07223793M/3/Intel-Unite-Extended-Display-Driver_FPXDR_WIN_4.2.25031.0_A00_02.EXE"
+        "url": "https://dl.dell.com/FOLDER07223793M/4/Intel-Unite-Extended-Display-Driver_FPXDR_WIN_4.2.25031.0_A00_03.EXE"
     },
     {
         "name": "Intel Unite File Transfer Component",
@@ -448,7 +448,7 @@
         "url": "https://dl.dell.com/FOLDER05439773M/2/Intel-Unite-Plugin-for-Telemetry-for-Business-Installer_XT34T_WIN_3.3.163.51_A00.EXE"
     },
     {
-        "name": "Intel Unite Protected Guest Access  Plugin Application",
+        "name": "Intel Unite Protected Guest Access Plugin Application",
         "category": "Application",
         "importance": "recommended",
         "date": "2019-02-12T00:00:00.000Z",
@@ -459,7 +459,7 @@
         "category": "Application",
         "importance": "recommended",
         "date": "2021-06-01T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER07223457M/3/Intel-Unite-Server-Application_VY9YD_WIN_4.2.25031.51_A00_02.EXE"
+        "url": "https://dl.dell.com/FOLDER07223457M/4/Intel-Unite-Server-Application_VY9YD_WIN_4.2.25031.51_A00_03.EXE"
     },
     {
         "name": "Intel Wireless 9260/9560/18265/8265/7265/3165 Bluetooth Driver",

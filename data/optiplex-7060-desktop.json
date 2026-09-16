@@ -128,16 +128,16 @@
     {
         "name": "Dell Command | Update for Win32",
         "category": "Systems Management",
-        "importance": "critical",
-        "date": "2026-08-03T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER14847280M/2/Dell-Command-Update-for-Win32_61R17_WIN64_5.7.1_A00.EXE"
+        "importance": "recommended",
+        "date": "2026-09-11T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER15013494M/2/Dell-Command-Update-for-Win32_WYJ59_WIN64_5.7.2_A00.EXE"
     },
     {
         "name": "Dell Command | Update Windows Universal Application",
         "category": "Systems Management",
-        "importance": "critical",
-        "date": "2026-08-03T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER14847331M/2/Dell-Command-Update-Windows-Universal-Application_P0P70_WIN64_5.7.1_A00.EXE"
+        "importance": "recommended",
+        "date": "2026-09-11T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER15013620M/1/Dell-Command-Update-Windows-Universal-Application_M9H5F_WIN64_5.7.2_A00.EXE"
     },
     {
         "name": "Dell ControlVault2 Driver and Firmware",

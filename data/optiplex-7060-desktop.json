@@ -171,8 +171,8 @@
         "name": "Dell SupportAssist OS Recovery Plugin for Dell Update",
         "category": "Application",
         "importance": "recommended",
-        "date": "2026-07-15T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER14726234M/1/Dell-SupportAssist-OS-Recovery-Plugin-for-Dell-Update_8Y4N9_WIN64_5.5.16.2_A00.EXE"
+        "date": "2026-09-16T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER15033468M/1/Dell-SupportAssist-OS-Recovery-Plugin-for-Dell-Update_MMHJF_WIN64_5.5.16.3_A00.EXE"
     },
     {
         "name": "Dell System Firmware Update Utility 64 Bit (For IT Use Only)",
@@ -192,8 +192,8 @@
         "name": "Dell Trusted Device",
         "category": "Security",
         "importance": "critical",
-        "date": "2025-12-02T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER13843198M/1/Dell-Trusted-Device_M89PJ_WIN64_7.2.1.0_A65.EXE"
+        "date": "2026-09-01T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER14936861M/1/Dell-Trusted-Device_HVT6K_WIN64_8.1.359.0_A66.EXE"
     },
     {
         "name": "Dell USB Smartcard Keyboard Driver",
@@ -224,18 +224,11 @@
         "url": "https://dl.dell.com/FOLDER10035701M/3/Dell-Watchdog-Timer-Driver_RWM04_WIN_1.2.1.0_A01_01.EXE"
     },
     {
-        "name": "Dell-Alienware Purchased Apps Application",
-        "category": "Application",
-        "importance": "recommended",
-        "date": "2026-06-04T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER14583047M/1/Dell-Alienware-Purchased-Apps-Application_K9YCG_WIN64_1.1.32.0_A00.EXE"
-    },
-    {
         "name": "Dell/Alienware Purchased Apps",
         "category": "Application",
         "importance": "recommended",
-        "date": "2026-03-07T00:00:00.000Z",
-        "url": "https://dl.dell.com/FOLDER14236693M/3/Dell-Alienware-Purchased-Apps_78T6N_WIN64_1.1.30.0_A00.EXE"
+        "date": "2026-09-21T00:00:00.000Z",
+        "url": "https://dl.dell.com/FOLDER14841539M/6/Dell-Alienware-Purchased-Apps_4VHGG_WIN64_1.1.33.0_A00.EXE"
     },
     {
         "name": "HGST Jaguar C Series Hard Disk Firmware Update",

@@ -126,7 +126,7 @@
         "url": "https://dl.dell.com/FOLDER11394916M/1/DellCommandPowerShellProvider2.7.2_1.zip"
     },
     {
-        "name": "Dell Command | Update for Win32",
+        "name": "Dell Command | Update",
         "category": "Systems Management",
         "importance": "recommended",
         "date": "2026-09-11T00:00:00.000Z",
